@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wordcards/static/css/main.fc5c2c69.css",
+    "main.js": "/wordcards/static/js/main.7cc9cde5.js",
+    "index.html": "/wordcards/index.html",
+    "main.fc5c2c69.css.map": "/wordcards/static/css/main.fc5c2c69.css.map",
+    "main.7cc9cde5.js.map": "/wordcards/static/js/main.7cc9cde5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.7cc9cde5.js"
+  ]
+}
