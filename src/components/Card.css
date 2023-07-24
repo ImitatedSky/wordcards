@@ -14,6 +14,7 @@
 
   transition: .3s;
 }
+
 .index {
   /* 設絕對位置為右下角 */
   position: absolute; 
@@ -21,8 +22,10 @@
   right: 5px; 
   margin: 0; 
 }
+
 /* 背面隱藏 */
 .card-back{
+  transform: rotateY(180deg); /* 翻轉180度 */
   display:none;
 }
 /* 翻轉180 */
