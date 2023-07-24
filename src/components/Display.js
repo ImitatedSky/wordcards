@@ -19,10 +19,6 @@ const Display = () => {
 
   return (
     <div className="card-container">
-      {cardDataArray.map((data, index) => (
-        <Card key={index} data={data} />
-      ))}
-
       {/* 新增按鈕來切換工作表 */}
       <div className="sheet-buttons">
         <button onClick={() => handleSheetChange(0)}>1級</button>
@@ -32,6 +28,11 @@ const Display = () => {
         <button onClick={() => handleSheetChange(4)}>5級</button>
         <button onClick={() => handleSheetChange(5)}>6級</button>
       </div>
+      {cardDataArray.map((data, index) => (
+        <Card key={index} data={data} />
+      ))}
+
+
     </div>
   );
 };
