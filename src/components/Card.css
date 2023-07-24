@@ -28,7 +28,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  backface-visibility: hidden; /* 將背面內容隱藏 */
+  backface-visibility: visible;
   transform: rotateY(180deg);
   transform-origin: right; /* 從右側進行反轉，使內容正確顯示 */
   background-color: rgb(187, 187, 187);
@@ -36,6 +36,9 @@
   transition: opacity 0.3s ease;
 }
 
+.card.flipped .card-back {
+  opacity: 1;
+}
 
 /* 正面 */
 .card-front {
@@ -50,13 +53,8 @@
   transition: opacity 0.3s ease;
 }
 
-/* 卡片被翻轉時，正面和背面的動畫效果 */
 .card.flipped .card-front {
   opacity: 0;
-}
-
-.card.flipped .card-back {
-  opacity: 1;
 }
 
 /* 動畫效果 */
