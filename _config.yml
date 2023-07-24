@@ -2,6 +2,6 @@
 github_deploy:
   type: git
   repo: https://github.com/ImitatedSky/wordcards
-  branch: main
+  branch: master
   message: 'deploy'
   test: "test message"
