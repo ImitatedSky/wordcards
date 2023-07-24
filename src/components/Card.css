@@ -1,16 +1,18 @@
 /* Card.css */
 
 .card {
+  position: relative;
   background-color: rgba(255, 255, 255, 0.7); /* 使用 rgba() */
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  position: relative;
-
-  width: 200px; /* 寬度 */
-  height: 100px; /* 高度 */
+  
+  width: auto;
+  height: 120px; /* 高度 */
   perspective: 1000px; /* 設置透視效果 */
   cursor: pointer; /* 顯示點擊的手型游標 */
+
+  transition: .3s;
 }
 .index {
   /* 設絕對位置為右下角 */
@@ -19,29 +21,21 @@
   right: 5px; 
   margin: 0; 
 }
-
+/* 背面隱藏 */
+.card-back{
+  display:none;
+}
+/* 翻轉180 */
 .card.flipped {
-  transform: rotateY(180deg); /* 翻轉卡片至背面顯示 */
+  transform: rotateY(180deg); /* 翻轉180度 */
 }
 
-
-.front,
-.back {
-  /* 其他 CSS 樣式... */
-  position: absolute; /* 設置定位為絕對位置 */
-  width: 100%;
-  height: 100%;
-  backface-visibility: hidden; /* 隱藏背面的內容 */
-  transition: transform 0.5s; /* 添加轉場動畫效果 */
+.card.flipped .card-front {
+  display: none; /* 隱藏正面 */
 }
 
-.front {
-  /* 正面的樣式 */
-  z-index: 2; /* 前面的內容顯示在背面上方 */
+.card.flipped .card-back {
+  display: block; /* 顯示背面 */
+  transform: rotateY(180deg); /*記得要轉*/
 }
 
-.back {
-  /* 背面的樣式 */
-  transform: rotateY(180deg); /* 初始時背面隱藏 */
-  z-index: 1;
-}

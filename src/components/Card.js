@@ -13,13 +13,13 @@ const Card = ({ data,index }) => {
 
   return (
     <div className={`card ${isFlipped ? "flipped" : ""}`} onClick={handleClick}>
-      <div className="front">
+      <div className="card-front">
         <h2>{vocabulary}</h2>
         <p> {part_of_speech}.</p>
         <p>-{zh_cn}</p>
         <p className="index">#{index}</p>
       </div>
-      <div className="back">
+      <div className="car-back">
         <h2>{vocabulary}</h2>
         <p> {part_of_speech}.</p>
         <p>-{zh_cn}</p>
