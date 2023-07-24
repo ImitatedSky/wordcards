@@ -1,0 +1,7 @@
+# github_deploy
+github_deploy:
+  type: git
+  repo: https://github.com/ImitatedSky/wordcards
+  branch: main
+  message: 'deploy'
+  test: "test message"
