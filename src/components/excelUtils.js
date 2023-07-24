@@ -2,7 +2,7 @@ import * as XLSX from "xlsx";
 
 // 分析 Excel 文件的函数
 export const parseExcelFile = (callback) => {
-  fetch("public/xlsx/voc.xlsx") // 使用 fetch 方法来取得 public voc.xlsx 文件
+  fetch("./xlsx/voc.xlsx") // 使用 fetch 方法来取得 public voc.xlsx 文件
     .then((response) => response.arrayBuffer())
     .then((data) => {
       const workbook = XLSX.read(new Uint8Array(data), { type: "array" });

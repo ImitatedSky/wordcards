@@ -6,7 +6,7 @@ const Display = () => {
   const [cardDataArray, setCardDataArray] = useState([]);
 
   useEffect(() => {
-    // 讀取 voc.xlsx 文件並更新 cardDataArray
+    // 讀取 voc.xlsx 並更新 cardDataArray
     // parseExcelFile((data)
     parseExcelFile((data) => {
       setCardDataArray(data);
