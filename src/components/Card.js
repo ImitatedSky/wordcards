@@ -19,6 +19,7 @@ const Card = ({ data,index }) => {
         <p>-{zh_cn}</p>
         <p className="index">#{index}</p>
       </div>
+      
       <div className="car-back">
         <h2>{vocabulary}</h2>
         <p> {part_of_speech}.</p>
