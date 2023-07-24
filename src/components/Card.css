@@ -5,12 +5,13 @@
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  position: relative;
 }
 
 
 .index {
   position: absolute; /* 設置定位為絕對位置 */
-  bottom: 5px; /* 設置距離底部的間距，這裡設置為 5px，您可以根據需要進行調整 */
-  right: 5px; /* 設置距離右側的間距，這裡設置為 5px，您可以根據需要進行調整 */
-  margin: 0; /* 移除預設邊距 */
+  bottom: 5px; 
+  right: 5px; 
+  margin: 0; 
 }
