@@ -75,8 +75,8 @@ print(">>> Done!")
 
 
 # 是否推送 gh-pages 分支
-is_gh_pages = input(">>> Is gh-pages branch? (y/n) : ")
-if is_gh_pages == "y" or is_gh_pages == "Y" or is_gh_pages == "yes" or is_gh_pages == "Yes" or is_gh_pages == "YES" or is_gh_pages == "":
+d_gh_pages = input(">>> deploy gh-pages branch? (y/n) : ")
+if d_gh_pages == "y" or d_gh_pages == "Y" or d_gh_pages == "yes" or d_gh_pages == "Yes" or d_gh_pages == "YES" or d_gh_pages == "":
     print(">>> npm run deploy")
     os.system("npm run deploy")
 
