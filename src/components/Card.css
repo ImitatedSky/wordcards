@@ -6,89 +6,67 @@
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  
+
   width: auto;
   height: 120px; /* 高度 */
   perspective: 1000px; /* 設置透視效果 */
   cursor: pointer; /* 顯示點擊的手型游標 */
-
-  transition: .3s;
 }
 
 .index {
   /* 設絕對位置為右下角 */
-  position: absolute; 
-  bottom: 5px; 
-  right: 5px; 
-  margin: 0; 
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+  margin: 0;
 }
 
-/* 背面*/
-.card-back{
+/* 背面 */
+.card-back {
   position: absolute;
-  overflow : hidden;
-  transition: all .3s ease;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  transform: rotateY(180deg);
   background-image: linear-gradient(gray, white);
   opacity: 0;
-
-  display:block;
+  transition: opacity 0.3s ease;
 }
 
 /* 正面 */
-.card-front{
+.card-front {
   position: absolute;
-  overflow : hidden;
-  transition: all .3s ease;
-  background-color: rgb(82,82,82);
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  background-color: rgb(82, 82, 82);
   opacity: 1;
-
-  display:block;
+  transition: opacity 0.3s ease;
 }
 
-/* 正面的動畫效果，當轉到90度，正面消失，同時背面顯示 */
-.card.flipped .card-front{
-  /* transform: translateY(); */
-  animation : front_ani 2s linear forwards;
+/* 卡片被翻轉時，正面和背面的動畫效果 */
+.card.flipped .card-front {
+  opacity: 0;
 }
 
-@keyframes front_ani{
-  1%{
-    opacity: 1;
+.card.flipped .card-back {
+  opacity: 1;
+}
+
+/* 動畫效果 */
+@keyframes flipCard {
+  from {
+    transform: rotateY(0deg);
   }
-  25%{
-    transform: rotateY(0);
-  }
-  62%{
-    opacity: 1;
-  }
-  62.5%{
-    rotateY:(90deg);
-    opacity: 0;
-  }
-  100%{
-    opacity: 0;
+  to {
+    transform: rotateY(180deg);
   }
 }
 
-
-/* 背面的動畫效果，當轉到90度，背面消失，同時正面顯示 */
-.card.flipped .card-back{
-  /* transform: translateY(); */
-  animation : back_ani 2s linear forwards;
-}
-
-@keyframes back_ani{
-  48%{
-    opacity: 0;
-  }
-  49%{
-    opacity: 1;
-  }
-  50%{
-    transform: rotateY(90deg);
-  }
-  100%{
-    transform: rotateY(18deg);
-    opacity: 1;
-  }
+.card.flipped {
+  animation: flipCard 0.3s ease;
 }
