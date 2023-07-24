@@ -20,7 +20,7 @@ const Card = ({ data,index }) => {
         <p className="index">#{index}</p>
       </div>
 
-      <div className="car-back">
+      <div className="card-back">
         <h2>{vocabulary}</h2>
         <p> {part_of_speech}.</p>
         <p>-{zh_cn}</p>

@@ -43,7 +43,7 @@
   width: 100%;
   height: 100%;
   backface-visibility: hidden;
-  background-color: rgb(82, 82, 82);
+  background-color: rgb(244, 244, 244);
   opacity: 1;
   transition: opacity 0.3s ease;
 }
