@@ -6,12 +6,40 @@
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   position: relative;
+
+  perspective: 1000px; /* 設置透視效果 */
+  cursor: pointer; /* 顯示點擊的手型游標 */
 }
-
-
 .index {
-  position: absolute; /* 設置定位為絕對位置 */
+  /* 設絕對位置為右下角 */
+  position: absolute; 
   bottom: 5px; 
   right: 5px; 
   margin: 0; 
+}
+
+.card.flipped {
+  transform: rotateY(180deg); /* 翻轉卡片至背面顯示 */
+}
+
+
+.front,
+.back {
+  /* 其他 CSS 樣式... */
+  position: absolute; /* 設置定位為絕對位置 */
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden; /* 隱藏背面的內容 */
+  transition: transform 0.5s; /* 添加轉場動畫效果 */
+}
+
+.front {
+  /* 正面的樣式 */
+  z-index: 2; /* 前面的內容顯示在背面上方 */
+}
+
+.back {
+  /* 背面的樣式 */
+  transform: rotateY(180deg); /* 初始時背面隱藏 */
+  z-index: 1;
 }
