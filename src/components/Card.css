@@ -6,3 +6,14 @@
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
+
+
+.card-header {
+  display: flex;
+  align-items: center;
+  margin-right: 10px; /* 可調整數字和單字間的間距 */
+}
+
+.card h2 {
+  margin: 0; /* 移除標題的預設邊距 */
+}
