@@ -8,12 +8,9 @@
 }
 
 
-.card-header {
-  display: flex;
-  align-items: center;
-  margin-right: 10px; /* 可調整數字和單字間的間距 */
-}
-
-.card h2 {
-  margin: 0; /* 移除標題的預設邊距 */
+.index {
+  position: absolute; /* 設置定位為絕對位置 */
+  bottom: 5px; /* 設置距離底部的間距，這裡設置為 5px，您可以根據需要進行調整 */
+  right: 5px; /* 設置距離右側的間距，這裡設置為 5px，您可以根據需要進行調整 */
+  margin: 0; /* 移除預設邊距 */
 }

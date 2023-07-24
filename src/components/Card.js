@@ -7,13 +7,10 @@ const Card = ({ data,index }) => {
   return (
     <div className="card">
 
-      <div className="card-header">
-        <p>{index}.</p>
-        <h2>{vocabulary}</h2>
-      </div>
-      
+      <h2>{vocabulary}</h2>
       <p> {part_of_speech}.</p>
       <p>-{zh_cn}</p>
+      <p className="index">#{index}</p>
     </div>
   );
 };
