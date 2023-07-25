@@ -16,7 +16,7 @@
 }
 
 .index {
-  /* 設絕對位置為右下角 */
+  /* 設右下角 */
   position: absolute;
   bottom: 5px;
   right: 5px;
@@ -39,7 +39,6 @@
 }
 .card-back {
   transform: rotateY(-180deg);  /*先轉*/
-  /* transform-origin: right;   */
   background-color: rgb(245, 227, 255);
 }
 

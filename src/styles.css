@@ -2,3 +2,42 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.sheet-buttons{
+  color: purple;
+  text-transform: uppercase;
+  text-decoration: none;
+  border: 2px solid purple;
+  padding: 10px 20px;
+  font-size: 17px;
+  font-weight: bold;
+  background: transparent;
+  position: relative;
+  transition: all 1s;
+  overflow: hidden;
+
+  display: flex; /* 設置 display 為 flex */
+  position: sticky; /* 將 Header 元素設置為固定定位 */
+}
+
+
+.sheet-buttons:hover {
+  color: white;
+}
+
+.sheet-buttons::before {
+  content: '';
+  position: absolute;
+  height: 100%;
+  width: 0%;
+  top: 0;
+  left: -40px;
+  transform: skewX(45deg);
+  background-color: purple;
+  z-index: -1;
+  transition: all 1s;
+}
+
+.sheet-buttons:hover::before {
+  width: 160%;
+}
