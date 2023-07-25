@@ -29,13 +29,11 @@
   height: 100%;
   backface-visibility: hidden;
 }
-/* 正面 */
 .card-front {
   background-color: rgb(255, 227, 227);
   opacity: 1;
 
 }
-/* 背面 */
 .card-back {
   transform: rotateY(-180deg);  /*先轉*/
   /* transform-origin: right; 從右側進行反轉，使內容正確顯示 */
@@ -54,7 +52,7 @@
 }
 
 /* 動畫效果 */
-@keyframes flipCard {
+/* @keyframes flipCard {
   from {
     transform: rotateY(0deg);
   }
@@ -65,4 +63,4 @@
 
 .card.flipped {
   animation: flipCard 0.3s ease;
-}
+} */
