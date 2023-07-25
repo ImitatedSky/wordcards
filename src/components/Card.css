@@ -31,19 +31,21 @@
   height: 100%;
   width: 100%;
   backface-visibility: hidden;
-  transition: transform 0.5s;
+
 }
 .card-front {
   background-color: rgb(255, 227, 227);
 }
 .card-back {
   transform: rotateY(-180deg);  /*先轉*/
+  transform-origin: right;  /*從右側進行反轉，使內容正確顯示*/
   background-color: rgb(245, 227, 255);
 }
+
+/* 當flipped */
 .card.flipped .card-front {
   transform: rotateY(180deg);
 }
-/* 當flipped */
 .card.flipped .card-back {
   transform: rotateY(0);
 }
@@ -53,5 +55,4 @@
 
 .card.flipped {
   transform: rotateY( 180deg ) ;
-  
 }
