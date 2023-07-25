@@ -8,7 +8,7 @@
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 
   width: auto;
-  height: 120px; /* 高度 */
+  height: 150px; /* 高度 */
   perspective: 1000px; /* 設置透視效果 */
   cursor: pointer; /* 顯示點擊的手型游標 */
 }
@@ -25,8 +25,8 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
   height: 100%;
+  width: 100%;
   backface-visibility: hidden;
 }
 .card-front {
@@ -51,16 +51,9 @@
   opacity: 0;
 }
 
-/* 動畫效果 */
-/* @keyframes flipCard {
-  from {
-    transform: rotateY(0deg);
-  }
-  to {
-    transform: rotateY(180deg);
-  }
-}
+
 
 .card.flipped {
-  animation: flipCard 0.3s ease;
-} */
+  transform: rotateY( 180deg ) ;
+  transition: transform 0.5s;
+}
