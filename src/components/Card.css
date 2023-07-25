@@ -41,7 +41,7 @@
   height: 100%;
   backface-visibility: visible;
   transform: rotateY(180deg);  /*先轉*/
-  /* transform-origin: right; 從右側進行反轉，使內容正確顯示 */
+  transform-origin: right; /*從右側進行反轉，使內容正確顯示*/
   background-color: rgb(227, 175, 255);
   opacity: 0;
   transition: opacity 0.3s ease;
