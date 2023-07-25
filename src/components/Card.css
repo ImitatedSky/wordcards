@@ -1,18 +1,16 @@
 /* Card.css */
 
 .card {
+
+  width: 100%;
+  height: 100%;
   position: relative;
-  background-color: rgba(255, 255, 255, 0.7); /* 使用 rgba() */
-  padding: 20px;
-  border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transform-style: preserve-3d;
+  transition: transform 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  border-radius: 6px;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+  cursor: pointer;
 
-  width: auto;
-  height: 150px; /* 高度 */
-  perspective: 1000px; /* 設置透視效果 */
-  cursor: pointer; /* 顯示點擊的手型游標 */
-
-  transition: transform 0.5s;
 }
 
 .index {
@@ -33,11 +31,9 @@
 }
 .card-front {
   background-color: rgb(255, 227, 227);
-  transform: rotateY(0deg);  
 }
 .card-back {
-  transform: rotateY(-180deg);  /*先轉*/
-  /* transform-origin: right; 從右側進行反轉，使內容正確顯示 */
+  transform: rotateY(180deg);  /*先轉*/
   background-color: rgb(245, 227, 255);
 
 }
