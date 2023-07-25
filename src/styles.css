@@ -3,7 +3,7 @@
   text-align: center;
 }
 
-.sheet-buttons{
+.sheet-buttons.button{
   color: purple;
   text-transform: uppercase;
   text-decoration: none;
@@ -16,16 +16,17 @@
   transition: all 1s;
   overflow: hidden;
 
-  display: flex; /* 設置 display 為 flex */
+  display: flex; 
   position: sticky; /* 將 Header 元素設置為固定定位 */
+  top:0;
 }
 
 
-.sheet-buttons:hover {
+.sheet-buttons.button:hover {
   color: white;
 }
 
-.sheet-buttons::before {
+.sheet-buttons.button::before {
   content: '';
   position: absolute;
   height: 100%;
@@ -38,6 +39,6 @@
   transition: all 1s;
 }
 
-.sheet-buttons:hover::before {
+.sheet-buttons.button:hover::before {
   width: 160%;
 }
