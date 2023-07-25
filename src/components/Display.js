@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Card from "./Card";
 
-import "./styles.css";
+import "../styles.css";
 import { parseExcelFile } from "./excelUtils"; // excelUtils.js
 
 const Display = () => {
