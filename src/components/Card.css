@@ -31,6 +31,7 @@
   height: 100%;
   width: 100%;
   backface-visibility: hidden;
+  transition: transform 1s;
 
 }
 .card-front {
@@ -53,6 +54,6 @@
 
 
 
-.card.flipped {
+/* .card.flipped {
   transform: rotateY( 180deg ) ;
-}
+} */
