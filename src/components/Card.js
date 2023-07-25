@@ -10,6 +10,11 @@ const Card = ({ data,index }) => {
   const handleClick = () => {
     setIsFlipped(!isFlipped);
   };
+  
+  useEffect(() => {
+    // 當 `isFlipped` 狀態改變時，更新卡片資料中的 `isFlipped` 欄位
+    data.isFlipped = isFlipped;
+  }, [isFlipped, data]);
 
   return (
     <div className={`card ${isFlipped ? "flipped" : ""}`} onClick={handleClick}>
