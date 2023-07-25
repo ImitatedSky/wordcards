@@ -28,7 +28,7 @@
   width: 100%;
   height: 100%;
   backface-visibility: hidden;
-  background-color: rgb(255, 161, 161);
+  background-color: rgb(255, 227, 227);
   opacity: 1;
   transition: opacity 0.3s ease;
 }
@@ -40,18 +40,20 @@
   width: 100%;
   height: 100%;
   backface-visibility: visible;
-  transform: rotateY(180deg);  /*先轉*/
-  transform-origin: right; /*從右側進行反轉，使內容正確顯示*/
-  background-color: rgb(227, 175, 255);
+  transform: rotateY(-180deg);  /*先轉*/
+  /* transform-origin: right; 從右側進行反轉，使內容正確顯示 */
+  background-color: rgb(245, 227, 255);
   opacity: 0;
   transition: opacity 0.3s ease;
 }
 
 /* 當flipped */
 .card.flipped .card-back {
+  transform: rotateY(0);
   opacity: 1;
 }
 .card.flipped .card-front {
+  transform: rotateY(180deg);
   opacity: 0;
 }
 
