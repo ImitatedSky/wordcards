@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/wordcards/static/css/main.ddd93b54.css",
+    "main.css": "/wordcards/static/css/main.5a1fd2c3.css",
     "main.js": "/wordcards/static/js/main.cf33b8e9.js",
     "index.html": "/wordcards/index.html",
-    "main.ddd93b54.css.map": "/wordcards/static/css/main.ddd93b54.css.map",
+    "main.5a1fd2c3.css.map": "/wordcards/static/css/main.5a1fd2c3.css.map",
     "main.cf33b8e9.js.map": "/wordcards/static/js/main.cf33b8e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.ddd93b54.css",
+    "static/css/main.5a1fd2c3.css",
     "static/js/main.cf33b8e9.js"
   ]
 }
