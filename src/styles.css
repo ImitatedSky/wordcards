@@ -2,8 +2,13 @@
   font-family: sans-serif;
   text-align: center;
 }
+.sheet-buttons{
+  display: flex; 
+  position: sticky; /* 將 Header 元素設置為固定定位 */
+  top:0;
+}
 
-.sheet-buttons.button{
+.sheet-buttons button {
   color: purple;
   text-transform: uppercase;
   text-decoration: none;
@@ -16,17 +21,14 @@
   transition: all 1s;
   overflow: hidden;
 
-  display: flex; 
-  position: sticky; /* 將 Header 元素設置為固定定位 */
-  top:0;
-}
+ }
 
 
-.sheet-buttons.button:hover {
+.sheet-buttons button:hover {
   color: white;
 }
 
-.sheet-buttons.button::before {
+.sheet-buttons button::before {
   content: '';
   position: absolute;
   height: 100%;
@@ -39,6 +41,6 @@
   transition: all 1s;
 }
 
-.sheet-buttons.button:hover::before {
+.sheet-buttons button:hover::before {
   width: 160%;
 }
