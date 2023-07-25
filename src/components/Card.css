@@ -38,7 +38,6 @@
 .card-back {
   transform: rotateY(180deg);  /*先轉*/
   background-color: rgb(245, 227, 255);
-
 }
 
 /* 當flipped */
@@ -51,7 +50,7 @@
 
 
 
-.card.flipped {
+/* .card.flipped {
   transform: rotateY( 180deg ) ;
   
-}
+} */
