@@ -11,7 +11,11 @@ const Display = () => {
 
   // 當按鈕被點擊時，會觸發 handleSheetChange 函數，並傳入按鈕的索引值
   const handleSheetChange = (index) => {
-    // 更新 index 後，會重新執行 useEffect
+    // 重置所有卡片的翻轉狀態
+    const resetCards = cardDataArray.map((data) => ({ ...data, isFlipped: false }));
+    setCardDataArray(resetCards);
+
+    // 更新 index 後，會觸發執行 useEffect
     setSelectedSheetIndex(index);
   };
 
