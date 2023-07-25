@@ -21,7 +21,7 @@
   margin: 0;
 }
 
-.card-front.card-back{
+.card-front,.card-back{
   position: absolute;
   top: 0;
   left: 0;
