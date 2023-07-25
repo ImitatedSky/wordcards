@@ -4,8 +4,9 @@
 }
 .sheet-buttons{
   display: flex; 
-  position: sticky; /* 將 Header 元素設置為固定定位 */
+  position: sticky; 
   top:0;
+  z-index: 2; /* 將按鈕堆疊在卡片前面 */
 }
 
 .sheet-buttons button {
@@ -18,7 +19,7 @@
   font-weight: bold;
   background: transparent;
   position: relative;
-  transition: all 1s;
+  transition: all 0.5s;
   overflow: hidden;
 
  }
@@ -38,9 +39,9 @@
   transform: skewX(45deg);
   background-color: purple;
   z-index: -1;
-  transition: all 1s;
+  transition: all 0.5s;
 }
 
 .sheet-buttons button:hover::before {
-  width: 160%;
+  width: 200%;
 }
