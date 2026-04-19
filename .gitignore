@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# test
+coverage/
+.vitest-cache/
+
+# os
+Thumbs.db
