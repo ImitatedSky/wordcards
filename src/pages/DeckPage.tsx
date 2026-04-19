@@ -1,11 +1,12 @@
 import { useParams } from 'react-router-dom'
+import { DeckDetail } from '@/features/vocab/DeckDetail'
 
 export function DeckPage() {
   const { id } = useParams()
+  if (!id) return <p>缺少牌組 id。</p>
   return (
     <div className="p-6 max-w-3xl mx-auto">
-      <h1 className="text-2xl font-bold mb-2">Deck {id}</h1>
-      <p className="text-slate-500">此頁由後續 Vocab 計畫實作。</p>
+      <DeckDetail deckId={id} />
     </div>
   )
 }
