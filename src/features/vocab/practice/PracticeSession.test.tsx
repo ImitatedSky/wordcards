@@ -55,6 +55,8 @@ describe('PracticeSession', () => {
     const id = await seedDeckOf(2)
     renderAt(id)
     expect(await screen.findByRole('heading', { name: '練習設定' })).toBeInTheDocument()
+    const shuffle = screen.getByLabelText('隨機出題') as HTMLInputElement
+    if (shuffle.checked) await user.click(shuffle)
     await user.click(screen.getByRole('button', { name: '開始' }))
     expect(await screen.findByText('f0')).toBeInTheDocument()
   })

@@ -1,5 +1,5 @@
 import { describe, it, expect, beforeEach, afterEach } from 'vitest'
-import { render, screen } from '@testing-library/react'
+import { render, screen, waitFor } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
 import { MemoryRouter } from 'react-router-dom'
 import { StorageProvider } from '@/storage/StorageProvider'
@@ -96,7 +96,9 @@ describe('QuizDetail', () => {
     await user.click(screen.getByRole('button', { name: '儲存' }))
     await screen.findByText('p')
     await user.click(screen.getByRole('button', { name: '刪除' }))
-    expect(screen.queryByText('p')).not.toBeInTheDocument()
+    await waitFor(() => {
+      expect(screen.queryByText('p')).not.toBeInTheDocument()
+    })
   })
 
   it('disables Start Quiz when the quiz has no questions', async () => {
