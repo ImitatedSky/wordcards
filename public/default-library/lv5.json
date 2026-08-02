@@ -429,7 +429,7 @@
       {
         "id": "default-lv5:alcoholic",
         "front": "alcoholic (adj./n.)",
-        "back": "酒精飲料；含酒精的",
+        "back": "含酒精的；酗酒者",
         "example": "The bar also serves non-alcoholic drinks.",
         "notes": "【同義詞】\nintoxicating (adj.) 含酒精的\ndrinker (n.) 酗酒者\n\n【反義詞】\nnonalcoholic (adj.) 無酒精的",
         "tags": [],
@@ -936,7 +936,7 @@
       {
         "id": "default-lv5:attribute",
         "front": "attribute (v.)",
-        "back": "歸因於；特質",
+        "back": "歸因於；把…歸於",
         "example": "She attributes her success to hard work and luck.",
         "notes": "【字根字首】\nat-(朝向) + tribute(給予，同 contribute) → 歸給 → 歸因\n\n【同義詞】\ncredit (v.) 歸因於\nascribe (v.) 歸於\nquality (n.) 特質",
         "tags": [],
@@ -1339,7 +1339,7 @@
       {
         "id": "default-lv5:bound",
         "front": "bound (n./v.)",
-        "back": "很有可能的；準備前往…的",
+        "back": "跳躍；界限",
         "example": "With such talent, she is bound to succeed.",
         "notes": "【同義詞】\ndestined (adj.) 必定的\ntied (adj.) 受約束的\nleap (v.) 跳躍",
         "tags": [],
@@ -3065,7 +3065,7 @@
       {
         "id": "default-lv5:correspondent",
         "front": "correspondent (n.)",
-        "back": "通訊(記)者；一致的",
+        "back": "通訊(記)者；特派員",
         "example": "Our foreign correspondent reports from Paris.",
         "notes": "【同義詞】\nreporter (n.) 特派記者\njournalist (n.) 通訊員",
         "tags": [],
@@ -8832,7 +8832,7 @@
       {
         "id": "default-lv5:prosecution",
         "front": "prosecution (n.)",
-        "back": "被)起訴",
+        "back": "起訴；檢方",
         "example": "The prosecution presented new evidence.",
         "notes": "【同義詞】\nindictment (n.) 起訴\nlegal action (n.) 檢方\ntrial (n.) 追訴\n\n【反義詞】\ndefense (n.) 辯方",
         "tags": [],
@@ -9727,7 +9727,7 @@
       {
         "id": "default-lv5:ritual",
         "front": "ritual (adj./n.)",
-        "back": "儀式的)活動",
+        "back": "儀式；儀式的",
         "example": "Morning coffee is part of my daily ritual.",
         "notes": "【同義詞】\nceremony (n.) 儀式\nrite (n.) 例行儀式\nroutine (n.) 慣例",
         "tags": [],

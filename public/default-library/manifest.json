@@ -1,6 +1,6 @@
 {
   "format": "english-app-default-library",
-  "version": "53c3e1241be86683",
+  "version": "9d42cfb1624aaea6",
   "decks": [
     {
       "id": "default-lv1",
@@ -42,7 +42,7 @@
       "id": "default-supplement-7000",
       "file": "supplement-7000.json",
       "name": "高中7000 補充字",
-      "cardCount": 987
+      "cardCount": 980
     },
     {
       "id": "default-toeic-1000",

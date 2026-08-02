@@ -427,7 +427,7 @@
       },
       {
         "id": "default-lv1:am",
-        "front": "am (adv.)",
+        "front": "am (v.)",
         "back": "是（be 動詞第一人稱）",
         "example": "I am ready for the test.",
         "tags": [],
@@ -2069,7 +2069,7 @@
       {
         "id": "default-lv1:center",
         "front": "center (n.)",
-        "back": "使集中；核心",
+        "back": "中心；核心",
         "example": "The fountain stands in the center of the park.",
         "notes": "【同義詞】\nmiddle (n.) 中心\ncore (n.) 中央\nhub (n.) 中樞\n\n【反義詞】\nedge (n.) 邊緣",
         "tags": [],
@@ -2886,7 +2886,7 @@
       {
         "id": "default-lv1:deal",
         "front": "deal (n./v.)",
-        "back": "v.交易；處理",
+        "back": "交易；處理",
         "example": "The store offers a great deal on shoes.",
         "notes": "【同義詞】\nbargain (n.) 交易\nagreement (n.) 協議\nhandle (v.) 處理",
         "tags": [],
@@ -3146,7 +3146,7 @@
       {
         "id": "default-lv1:dollar",
         "front": "dollar (n.)",
-        "back": "美)元",
+        "back": "(美)元",
         "example": "The notebook costs two dollars.",
         "notes": "【同義詞】\nbuck (n.) 元\ncurrency (n.) 美元",
         "tags": [],
@@ -3276,7 +3276,7 @@
       {
         "id": "default-lv1:drop",
         "front": "drop (n./v.)",
-        "back": "一)滴；下降",
+        "back": "(一)滴；下降",
         "example": "Don't drop your phone in the pool.",
         "notes": "【同義詞】\nfall (v.) 掉落\nlet go (phr.) 落下\ndroplet (n.) 一滴\n\n【反義詞】\npick up (phr.) 撿起",
         "tags": [],
@@ -3443,7 +3443,7 @@
       {
         "id": "default-lv1:either",
         "front": "either (adj./adv./conj./pron.)",
-        "back": "兩者之中)任一的",
+        "back": "(兩者之中)任一的",
         "example": "You can sit on either side.",
         "notes": "【同義詞】\none of the two (phr.) 兩者之一\nalso (adv.) 也（否定句）\n\n【反義詞】\nneither (pron.) 兩者皆非",
         "tags": [],
@@ -3520,7 +3520,7 @@
       {
         "id": "default-lv1:enjoy",
         "front": "enjoy (v.)",
-        "back": "n.)享受",
+        "back": "享受",
         "example": "We enjoyed the fireworks show.",
         "notes": "【同義詞】\nlike (v.) 享受\nlove (v.) 喜歡\nrelish (v.) 樂在其中\n\n【反義詞】\ndislike (v.) 不喜歡",
         "tags": [],
@@ -3533,7 +3533,7 @@
       {
         "id": "default-lv1:enjoyment",
         "front": "enjoyment (n.)",
-        "back": "n.)享受",
+        "back": "享受；樂趣",
         "example": "She reads purely for enjoyment.",
         "notes": "【同義詞】\npleasure (n.) 樂趣\nfun (n.) 享受\ndelight (n.) 快樂\n\n【反義詞】\nmisery (n.) 痛苦",
         "tags": [],
@@ -6641,7 +6641,7 @@
       {
         "id": "default-lv1:like",
         "front": "like (n./prep./v.)",
-        "back": "像；和·一樣",
+        "back": "像；和…一樣",
         "example": "I like your new haircut.",
         "notes": "【同義詞】\nenjoy (v.) 喜歡\nbe fond of (phr.) 喜愛\nsimilar to (phr.) 像\n\n【反義詞】\ndislike (v.) 不喜歡",
         "tags": [],
@@ -7147,7 +7147,7 @@
       {
         "id": "default-lv1:meat",
         "front": "meat (n.)",
-        "back": "食用的)肉",
+        "back": "(食用的)肉",
         "example": "She doesn't eat red meat.",
         "notes": "【同義詞】\nflesh (n.) 肉\nprotein (n.) 肉類\n\n【反義詞】\nvegetable (n.) 蔬菜",
         "tags": [],
@@ -7251,7 +7251,7 @@
       {
         "id": "default-lv1:middle",
         "front": "middle (adj./n.)",
-        "back": "中問的；中部",
+        "back": "中間的；中部",
         "example": "The island sits in the middle of the lake.",
         "notes": "【同義詞】\ncenter (n.) 中間\nmidpoint (n.) 中央\nmidst (n.) 中部\n\n【反義詞】\nedge (n.) 邊緣",
         "tags": [],
@@ -7535,7 +7535,7 @@
       {
         "id": "default-lv1:move",
         "front": "move (v.)",
-        "back": "n.)使移動；使感動",
+        "back": "移動；使感動",
         "example": "Help me move this table.",
         "notes": "【同義詞】\nshift (v.) 移動\nrelocate (v.) 搬家\ntransfer (v.) 搬動\n\n【反義詞】\nstay (v.) 停留",
         "tags": [],
@@ -7548,7 +7548,7 @@
       {
         "id": "default-lv1:movement",
         "front": "movement (n.)",
-        "back": "n.)使移動；使感動",
+        "back": "移動；運動",
         "example": "The dancer's movements were graceful.",
         "notes": "【同義詞】\nmotion (n.) 動作\nshift (n.) 移動\ncampaign (n.) 運動\n\n【反義詞】\nstillness (n.) 靜止",
         "tags": [],
@@ -8322,7 +8322,7 @@
       {
         "id": "default-lv1:other",
         "front": "other (adj./pron.)",
-        "back": "prop. 另一個的；另一方",
+        "back": "另一個的；另一方",
         "example": "The other shoe is under the bed.",
         "notes": "【同義詞】\ndifferent (adj.) 其他的\nanother (adj.) 別的\nremaining (adj.) 另外的\n\n【反義詞】\nsame (adj.) 相同的",
         "tags": [],
@@ -8983,7 +8983,7 @@
       {
         "id": "default-lv1:please",
         "front": "please (v.)",
-        "back": "使)高興",
+        "back": "(使)高興",
         "example": "Please close the door quietly.",
         "notes": "【同義詞】\nkindly (adv.) 請\ndelight (v.) 取悅\n\n【反義詞】\ndisplease (v.) 惹惱",
         "tags": [],
@@ -9035,7 +9035,7 @@
       {
         "id": "default-lv1:point",
         "front": "point (n./v.)",
-        "back": "尖端；持向",
+        "back": "尖端；指向",
         "example": "Don't point at people—it's rude.",
         "notes": "【同義詞】\ndot (n.) 點\ntip (n.) 重點\nindicate (v.) 指",
         "tags": [],
@@ -10137,7 +10137,7 @@
       {
         "id": "default-lv1:second",
         "front": "second (adj./adv./n.)",
-        "back": "第 v.的；秒",
+        "back": "第二的；秒",
         "example": "Wait a second—I'm almost done.",
         "notes": "【同義詞】\nmoment (n.) 秒\ninstant (n.) 瞬間\nrunner-up (adj.) 第二的\n\n【反義詞】\nfirst (adj.) 第一的",
         "tags": [],
@@ -12327,7 +12327,7 @@
       {
         "id": "default-lv1:top",
         "front": "top (adj./n./v.)",
-        "back": "Jv.頂端的；頂部",
+        "back": "頂端的；頂部",
         "example": "We reached the top of the hill.",
         "notes": "【同義詞】\npeak (n.) 頂端\nsummit (n.) 頂部\nbest (adj.) 最高的\n\n【反義詞】\nbottom (n.) 底部",
         "tags": [],

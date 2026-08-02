@@ -234,7 +234,7 @@
       {
         "id": "default-lv2:ahead",
         "front": "ahead (adv.)",
-        "back": "在·前面；領先",
+        "back": "在…前面；領先",
         "example": "The station is just ahead on the right.",
         "notes": "【同義詞】\nin front (phr.) 在前面\nforward (adv.) 領先\nin advance (phr.) 提前\n\n【反義詞】\nbehind (adv.) 落後",
         "tags": [],
@@ -584,7 +584,7 @@
       {
         "id": "default-lv2:argue",
         "front": "argue (v.)",
-        "back": "n.)爭論；主張",
+        "back": "爭論；主張",
         "example": "The kids argued over the remote control.",
         "notes": "【同義詞】\nquarrel (v.) 爭論\ndispute (v.) 爭吵\ndebate (v.) 辯論\n\n【反義詞】\nagree (v.) 同意",
         "tags": [],
@@ -623,7 +623,7 @@
       {
         "id": "default-lv2:arrange",
         "front": "arrange (v.)",
-        "back": "n.) 安排",
+        "back": "安排",
         "example": "I'll arrange a meeting for Thursday.",
         "notes": "【同義詞】\norganize (v.) 安排\nset up (phr.) 籌劃\norder (v.) 排列",
         "tags": [],
@@ -636,7 +636,7 @@
       {
         "id": "default-lv2:arrangement",
         "front": "arrangement (n.)",
-        "back": "n.) 安排",
+        "back": "安排；佈置",
         "example": "The flower arrangement brightened the table.",
         "notes": "【同義詞】\nplan (n.) 安排\norganization (n.) 布置\nsetup (n.) 約定",
         "tags": [],
@@ -1050,7 +1050,7 @@
       {
         "id": "default-lv2:beard",
         "front": "beard (n.)",
-        "back": "下巴上的)鬍鬚",
+        "back": "(下巴上的)鬍鬚",
         "example": "He grew a beard over the winter.",
         "notes": "【同義詞】\nfacial hair (n.) 鬍子\nwhiskers (n.) 鬍鬚",
         "tags": [],
@@ -2149,7 +2149,7 @@
       {
         "id": "default-lv2:classical",
         "front": "classical (adj.)",
-        "back": "極好的；古典的",
+        "back": "古典的；正統的",
         "example": "She studies classical piano.",
         "notes": "【同義詞】\ntraditional (adj.) 古典的\norchestral (adj.) 古典樂的\n\n【反義詞】\nmodern (adj.) 現代的",
         "tags": [],
@@ -2279,7 +2279,7 @@
       {
         "id": "default-lv2:cockroach",
         "front": "cockroach (n.)",
-        "back": "蟑蚣卜；油蟲",
+        "back": "蟑螂；油蟲",
         "example": "A cockroach darted under the fridge.",
         "notes": "【同義詞】\nroach (n.) 蟑螂",
         "tags": [],
@@ -2708,7 +2708,7 @@
       {
         "id": "default-lv2:couple",
         "front": "couple (n./v.)",
-        "back": "一)對",
+        "back": "(一)對",
         "example": "The couple danced all evening.",
         "notes": "【同義詞】\npair (n.) 一對\nduo (n.) 夫妻\ntwo (n.) 幾個",
         "tags": [],
@@ -3239,7 +3239,7 @@
       {
         "id": "default-lv2:description",
         "front": "description (n.)",
-        "back": "描寫；說明?",
+        "back": "描寫；說明",
         "example": "The ad's description matches the photo.",
         "notes": "【同義詞】\naccount (n.) 描述\nportrayal (n.) 說明\ndepiction (n.) 敘述",
         "tags": [],
@@ -3291,7 +3291,7 @@
       {
         "id": "default-lv2:develop",
         "front": "develop (v.)",
-        "back": "n.)發展",
+        "back": "發展",
         "example": "The town developed into a busy port.",
         "notes": "【同義詞】\ngrow (v.) 發展\nevolve (v.) 開發\nbuild (v.) 培養\n\n【反義詞】\ndecline (v.) 衰退",
         "tags": [],
@@ -3304,7 +3304,7 @@
       {
         "id": "default-lv2:development",
         "front": "development (n.)",
-        "back": "n.)發展",
+        "back": "發展",
         "example": "The app is still under development.",
         "notes": "【同義詞】\ngrowth (n.) 發展\nprogress (n.) 開發\nevolution (n.) 進展\n\n【反義詞】\ndecline (n.) 衰退",
         "tags": [],
@@ -4109,7 +4109,7 @@
       {
         "id": "default-lv2:encourage",
         "front": "encourage (v.)",
-        "back": "n.)鼓勵",
+        "back": "鼓勵",
         "example": "Her parents encouraged her to try out.",
         "notes": "【同義詞】\ninspire (v.) 鼓勵\nmotivate (v.) 激勵\nurge (v.) 鼓舞\n\n【反義詞】\ndiscourage (v.) 使氣餒",
         "tags": [],
@@ -4122,7 +4122,7 @@
       {
         "id": "default-lv2:encouragement",
         "front": "encouragement (n.)",
-        "back": "n.)鼓勵",
+        "back": "鼓勵",
         "example": "A word of encouragement goes a long way.",
         "notes": "【同義詞】\nsupport (n.) 鼓勵\nmotivation (n.) 激勵\ncheer (n.) 打氣\n\n【反義詞】\ndiscouragement (n.) 打擊",
         "tags": [],
@@ -4382,7 +4382,7 @@
       {
         "id": "default-lv2:excite",
         "front": "excite (v.)",
-        "back": "n.)使興奮",
+        "back": "使興奮",
         "example": "The parade excited the whole crowd.",
         "notes": "【同義詞】\nthrill (v.) 使興奮\nstimulate (v.) 刺激\nstir (v.) 使激動\n\n【反義詞】\nbore (v.) 使無聊",
         "tags": [],
@@ -4395,7 +4395,7 @@
       {
         "id": "default-lv2:excitement",
         "front": "excitement (n.)",
-        "back": "n.)使興奮",
+        "back": "興奮",
         "example": "The stadium buzzed with excitement.",
         "notes": "【同義詞】\nthrill (n.) 興奮\nenthusiasm (n.) 激動\nbuzz (n.) 熱情\n\n【反義詞】\nboredom (n.) 無聊",
         "tags": [],
@@ -4954,7 +4954,7 @@
       {
         "id": "default-lv2:folk",
         "front": "folk (n.)",
-        "back": "某一民族或社會階層中的)廣大成員",
+        "back": "(某一民族或社會階層中的)廣大成員",
         "example": "The band plays folk songs on weekends.",
         "notes": "【同義詞】\npeople (n.) 人們\ntraditional (adj.) 民俗的\nethnic (adj.) 民間的",
         "tags": [],
@@ -5507,7 +5507,7 @@
       {
         "id": "default-lv2:gram",
         "front": "gram (n.)",
-        "back": "重量單位)克",
+        "back": "(重量單位)克",
         "example": "Add fifty grams of sugar.",
         "notes": "【同義詞】\ng (n.) 公克",
         "tags": [],
@@ -6102,7 +6102,7 @@
       {
         "id": "default-lv2:improve",
         "front": "improve (v.)",
-        "back": "n.)改善",
+        "back": "改善",
         "example": "Daily reading improves your vocabulary.",
         "notes": "【同義詞】\nbetter (v.) 改善\nenhance (v.) 進步\nupgrade (v.) 提升\n\n【反義詞】\nworsen (v.) 惡化",
         "tags": [],
@@ -6115,7 +6115,7 @@
       {
         "id": "default-lv2:improvement",
         "front": "improvement (n.)",
-        "back": "n.)改善",
+        "back": "改善",
         "example": "There's clear improvement in your writing.",
         "notes": "【同義詞】\nprogress (n.) 進步\nupgrade (n.) 改善\nadvance (n.) 改進\n\n【反義詞】\ndecline (n.) 退步",
         "tags": [],
@@ -6855,7 +6855,7 @@
       {
         "id": "default-lv2:link",
         "front": "link (n./v.)",
-        "back": "連結；環結",
+        "back": "連結；環節",
         "example": "Click the link in the email.",
         "notes": "【同義詞】\nconnection (n.) 連結\ntie (n.) 聯繫\nconnect (v.) 連接",
         "tags": [],
@@ -7554,7 +7554,7 @@
       {
         "id": "default-lv2:motion",
         "front": "motion (n.)",
-        "back": "運動；動機",
+        "back": "運動；動議",
         "example": "The rocking motion put the baby to sleep.",
         "notes": "【同義詞】\nmovement (n.) 動作\nmove (n.) 運動\ngesture (n.) 提議\n\n【反義詞】\nstillness (n.) 靜止",
         "tags": [],
@@ -8912,7 +8912,7 @@
       {
         "id": "default-lv2:pressure",
         "front": "pressure (n./v.)",
-        "back": "壓；按",
+        "back": "壓力；施壓",
         "example": "He works well under pressure.",
         "notes": "【同義詞】\nstress (n.) 壓力\nforce (n.) 壓迫\nstrain (n.) 壓強\n\n【反義詞】\nrelief (n.) 舒緩",
         "tags": [],
@@ -9679,7 +9679,7 @@
       {
         "id": "default-lv2:relationship",
         "front": "relationship (n.)",
-        "back": "親戚)關係",
+        "back": "關係；親屬關係",
         "example": "They have a close working relationship.",
         "notes": "【同義詞】\nbond (n.) 關係\nconnection (n.) 感情\nassociation (n.) 情誼",
         "tags": [],
@@ -9835,7 +9835,7 @@
       {
         "id": "default-lv2:result",
         "front": "result (n./v.)",
-        "back": "結果；起因於…”",
+        "back": "結果；起因於…",
         "example": "The test results come out Friday.",
         "notes": "【同義詞】\noutcome (n.) 結果\nconsequence (n.) 後果\nscore (n.) 成績\n\n【反義詞】\ncause (n.) 原因",
         "tags": [],
@@ -9887,7 +9887,7 @@
       {
         "id": "default-lv2:roach",
         "front": "roach (n.)",
-        "back": "蟑鄉；大麻煙卷的煙蒂",
+        "back": "蟑螂；大麻煙卷的煙蒂",
         "example": "A roach ran under the stove.",
         "notes": "【同義詞】\ncockroach (n.) 蟑螂",
         "tags": [],
@@ -10238,7 +10238,7 @@
       {
         "id": "default-lv2:score",
         "front": "score (n./v.)",
-        "back": "刻痕；作訊號",
+        "back": "刻痕；作記號",
         "example": "The final score was two to one.",
         "notes": "【同義詞】\npoints (n.) 分數\nresult (n.) 得分\ngrade (n.) 比數",
         "tags": [],
@@ -10588,7 +10588,7 @@
       {
         "id": "default-lv2:shell",
         "front": "shell (n.)",
-        "back": "外觀；外表",
+        "back": "殼；外殼",
         "example": "We collected shells along the shore.",
         "notes": "【同義詞】\ncasing (n.) 殼\nhusk (n.) 貝殼\ncovering (n.) 外殼",
         "tags": [],
@@ -11093,7 +11093,7 @@
       {
         "id": "default-lv2:sort",
         "front": "sort (n./v.)",
-        "back": "種類；把·分類",
+        "back": "種類；把…分類",
         "example": "Sort the laundry by color.",
         "notes": "【同義詞】\nkind (n.) 種類\ntype (n.) 類型\nclassify (v.) 分類",
         "tags": [],
@@ -11611,7 +11611,7 @@
       {
         "id": "default-lv2:such",
         "front": "such (adj./pron.)",
-        "back": "prop.如此的",
+        "back": "如此的",
         "example": "It was such a beautiful morning.",
         "notes": "【同義詞】\nof that kind (phr.) 這樣的\nso (adv.) 如此的",
         "tags": [],
@@ -11923,7 +11923,7 @@
       {
         "id": "default-lv2:target",
         "front": "target (n./v.)",
-        "back": "靶子；對·瞄準",
+        "back": "靶子；對…瞄準",
         "example": "The arrow hit the center of the target.",
         "notes": "【同義詞】\ngoal (n.) 目標\nobjective (n.) 靶\naim (n.) 對象",
         "tags": [],
@@ -11949,7 +11949,7 @@
       {
         "id": "default-lv2:tax",
         "front": "tax (n./v.)",
-        "back": "稅；對…微稅",
+        "back": "稅；對…徵稅",
         "example": "The price includes tax.",
         "notes": "【同義詞】\nduty (n.) 稅\nlevy (n.) 稅金\ntariff (n.) 課稅",
         "tags": [],
@@ -12560,7 +12560,7 @@
       {
         "id": "default-lv2:turtle",
         "front": "turtle (n.)",
-        "back": "海)龜",
+        "back": "(海)龜",
         "example": "Sea turtles nest on this beach.",
         "notes": "【同義詞】\ntortoise (n.) 海龜（近似）",
         "tags": [],
@@ -13091,7 +13091,7 @@
       {
         "id": "default-lv2:whatever",
         "front": "whatever (adj./pron.)",
-        "back": "Jpron./conj. 任何的；無論什麼",
+        "back": "任何的；無論什麼",
         "example": "Order whatever you like—it's my treat.",
         "notes": "【同義詞】\nanything (pron.) 無論什麼\nno matter what (phr.) 任何事物",
         "tags": [],

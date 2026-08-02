@@ -363,7 +363,7 @@
       {
         "id": "default-lv6:affiliate",
         "front": "affiliate (n.)",
-        "back": "使隸屬；分支機構",
+        "back": "分支機構；附屬公司",
         "example": "The clinic is affiliated with a major university hospital.",
         "notes": "【同義詞】\nassociate (v.) 使有關聯\nbranch (n.) 分支",
         "tags": [],
@@ -2624,7 +2624,7 @@
       {
         "id": "default-lv6:cosmetic",
         "front": "cosmetic (adj.)",
-        "back": "化妝品；美容的",
+        "back": "化妝用的；美容的",
         "example": "The changes to the policy are merely cosmetic.",
         "notes": "【字根字首】\n希臘 kosmos(秩序、裝飾，同 cosmos) → 使有序美觀 → 化妝的\n\n【同義詞】\nbeauty (adj.) 美容的\nsuperficial (adj.) 表面的\n\n【反義詞】\nstructural (adj.) 結構性的",
         "tags": [],
@@ -3565,7 +3565,7 @@
       {
         "id": "default-lv6:dissent",
         "front": "dissent (n.)",
-        "back": "異議；持異議",
+        "back": "異議；不同意見",
         "example": "The new policy was passed despite strong dissent.",
         "notes": "【字根字首】\ndis-(分開) + sent(感覺，同 sentiment/consent) → 感受不同 → 異議\n\n【同義詞】\ndisagreement (n.) 異議\nobjection (n.) 反對\n\n【反義詞】\nconsent (n.) 同意",
         "tags": [],
@@ -3760,7 +3760,7 @@
       {
         "id": "default-lv6:draught",
         "front": "draught (n.)",
-        "back": "=draft)草圖；草擬",
+        "back": "(=draft)草圖；草擬",
         "example": "A cold draught came in through the window gap.",
         "notes": "【同義詞】\ndraft (n.) 氣流（英式拼法）\ncurrent of air (phr.) 穿堂風",
         "tags": [],
@@ -3903,7 +3903,7 @@
       {
         "id": "default-lv6:eclipse",
         "front": "eclipse (n./v.)",
-        "back": "日、月)蝕",
+        "back": "(日、月)蝕",
         "example": "Thousands gathered to watch the solar eclipse.",
         "notes": "【字根字首】\n希臘 ek-(出) + leipein(離開) → 光離開了 → 蝕\n\n【同義詞】\novershadow (v.) 使黯然失色\nsurpass (v.) 蓋過\noutshine (v.) 使相形見絀",
         "tags": [],
@@ -6972,7 +6972,7 @@
       {
         "id": "default-lv6:logo",
         "front": "logo (n.)",
-        "back": "=logotype)標識；商標",
+        "back": "(=logotype)標識；商標",
         "example": "The company unveiled a new logo last month.",
         "notes": "【同義詞】\nemblem (n.) 標誌\nsymbol (n.) 商標",
         "tags": [],
@@ -11749,7 +11749,7 @@
       {
         "id": "default-lv6:suffocate",
         "front": "suffocate (v.)",
-        "back": "使)窒息而死",
+        "back": "(使)窒息而死",
         "example": "Passengers nearly suffocated in the crowded train.",
         "notes": "【字根字首】\nsuf-(下) + foc(喉嚨，拉丁 fauces) → 掐住喉嚨 → 窒息\n\n【同義詞】\nsmother (v.) 窒息\nstifle (v.) 悶死\n\n【反義詞】\nbreathe (v.) 呼吸",
         "tags": [],
@@ -11801,7 +11801,7 @@
       {
         "id": "default-lv6:superintendent",
         "front": "superintendent (n.)",
-        "back": "監護人；警長",
+        "back": "監督人；警長",
         "example": "The superintendent oversees all city schools.",
         "notes": "【字根字首】\nsuper-(上) + intend(照看) → 從上照看的人 → 總監\n\n【同義詞】\nsupervisor (n.) 總監\nmanager (n.) 主管",
         "tags": [],
@@ -12060,7 +12060,7 @@
       {
         "id": "default-lv6:tan",
         "front": "tan (adj./n./v.)",
-        "back": "使)曬黑",
+        "back": "(使)曬黑",
         "example": "He got a deep tan during the beach vacation.",
         "notes": "【同義詞】\nbronze (v.) 曬黑\nsunburn (n.) 曬痕（近似）\n\n【反義詞】\npale (adj.) 蒼白的",
         "tags": [],

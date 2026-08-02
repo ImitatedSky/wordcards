@@ -433,17 +433,6 @@
         }
       },
       {
-        "id": "default-supplement-7000:amenna",
-        "front": "amenna (n.)",
-        "back": "觸鬚；天線",
-        "tags": [],
-        "stats": {
-          "correctCount": 0,
-          "incorrectCount": 0,
-          "lastReviewedAt": null
-        }
-      },
-      {
         "id": "default-supplement-7000:ammunition",
         "front": "ammunition (n.)",
         "back": "彈藥",
@@ -532,6 +521,17 @@
         }
       },
       {
+        "id": "default-supplement-7000:antenna",
+        "front": "antenna (n.)",
+        "back": "觸鬚；天線",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
         "id": "default-supplement-7000:antibody",
         "front": "antibody (n.)",
         "back": "抗體",
@@ -556,7 +556,7 @@
       {
         "id": "default-supplement-7000:appal",
         "front": "appal (v.)",
-        "back": "=appall)使驚駭",
+        "back": "(=appall)使驚駭",
         "tags": [],
         "stats": {
           "correctCount": 0,
@@ -589,7 +589,7 @@
       {
         "id": "default-supplement-7000:appetizer",
         "front": "appetizer (n.)",
-        "back": "主菜前用的) 開胃食物",
+        "back": "(主菜前用的)開胃食物",
         "tags": [],
         "stats": {
           "correctCount": 0,
@@ -636,17 +636,6 @@
         "id": "default-supplement-7000:aptitude",
         "front": "aptitude (n.)",
         "back": "資質",
-        "tags": [],
-        "stats": {
-          "correctCount": 0,
-          "incorrectCount": 0,
-          "lastReviewedAt": null
-        }
-      },
-      {
-        "id": "default-supplement-7000:arguement",
-        "front": "arguement (v.)",
-        "back": "n.)爭論；主張",
         "tags": [],
         "stats": {
           "correctCount": 0,
@@ -746,17 +735,6 @@
         "id": "default-supplement-7000:assertively",
         "front": "assertively (adv.)",
         "back": "武斷地",
-        "tags": [],
-        "stats": {
-          "correctCount": 0,
-          "incorrectCount": 0,
-          "lastReviewedAt": null
-        }
-      },
-      {
-        "id": "default-supplement-7000:assig",
-        "front": "assig (n.)",
-        "back": "ment) v.(n.) 指派",
         "tags": [],
         "stats": {
           "correctCount": 0,
@@ -936,17 +914,6 @@
         }
       },
       {
-        "id": "default-supplement-7000:bam",
-        "front": "bam (n.)",
-        "back": "穀倉；牲口棚",
-        "tags": [],
-        "stats": {
-          "correctCount": 0,
-          "incorrectCount": 0,
-          "lastReviewedAt": null
-        }
-      },
-      {
         "id": "default-supplement-7000:baptism",
         "front": "baptism (n.)",
         "back": "洗禮",
@@ -1058,8 +1025,8 @@
       },
       {
         "id": "default-supplement-7000:beijing",
-        "front": "beijing (n.)",
-        "back": "prop.北京",
+        "front": "Beijing (n.)",
+        "back": "北京",
         "tags": [],
         "stats": {
           "correctCount": 0,
@@ -1481,7 +1448,7 @@
       {
         "id": "default-supplement-7000:buck",
         "front": "buck (n.)",
-        "back": "美)元",
+        "back": "(美)元",
         "tags": [],
         "stats": {
           "correctCount": 0,
@@ -1525,7 +1492,7 @@
       {
         "id": "default-supplement-7000:bunker",
         "front": "bunker (n.)",
-        "back": "媒倉；掩體",
+        "back": "煤倉；掩體",
         "tags": [],
         "stats": {
           "correctCount": 0,
@@ -1689,8 +1656,8 @@
       },
       {
         "id": "default-supplement-7000:cd",
-        "front": "cd (n.)",
-        "back": "=compact disc)光碟",
+        "front": "CD (n.)",
+        "back": "(=compact disc)光碟",
         "tags": [],
         "stats": {
           "correctCount": 0,
@@ -1770,17 +1737,6 @@
         "id": "default-supplement-7000:changeable",
         "front": "changeable (adj.)",
         "back": "易變的",
-        "tags": [],
-        "stats": {
-          "correctCount": 0,
-          "incorrectCount": 0,
-          "lastReviewedAt": null
-        }
-      },
-      {
-        "id": "default-supplement-7000:charm nj",
-        "front": "charm nj (v.)",
-        "back": "魅力；使陶醉",
         "tags": [],
         "stats": {
           "correctCount": 0,
@@ -1957,17 +1913,6 @@
         "id": "default-supplement-7000:churchyard",
         "front": "churchyard (n.)",
         "back": "教堂的庭院(墓地)",
-        "tags": [],
-        "stats": {
-          "correctCount": 0,
-          "incorrectCount": 0,
-          "lastReviewedAt": null
-        }
-      },
-      {
-        "id": "default-supplement-7000:citizen'",
-        "front": "citizen' (n.)",
-        "back": "公民；市民",
         "tags": [],
         "stats": {
           "correctCount": 0,
@@ -2628,7 +2573,7 @@
       {
         "id": "default-supplement-7000:cosy",
         "front": "cosy (adj.)",
-        "back": "=cozy)溫暖舒適的",
+        "back": "(=cozy)溫暖舒適的",
         "tags": [],
         "stats": {
           "correctCount": 0,
@@ -2786,7 +2731,7 @@
       {
         "id": "default-supplement-7000:crumble",
         "front": "crumble (v.)",
-        "back": "使)碎成細屑",
+        "back": "(使)碎成細屑",
         "tags": [],
         "stats": {
           "correctCount": 0,
@@ -3140,7 +3085,7 @@
       {
         "id": "default-supplement-7000:demo",
         "front": "demo (n.)",
-        "back": "= demonstration)遊行示威",
+        "back": "(=demonstration)遊行示威",
         "tags": [],
         "stats": {
           "correctCount": 0,
@@ -4199,17 +4144,6 @@
         }
       },
       {
-        "id": "default-supplement-7000:entertai",
-        "front": "entertai (n.)",
-        "back": "ment) v.(n)娛樂",
-        "tags": [],
-        "stats": {
-          "correctCount": 0,
-          "incorrectCount": 0,
-          "lastReviewedAt": null
-        }
-      },
-      {
         "id": "default-supplement-7000:envisage",
         "front": "envisage (v.)",
         "back": "預見",
@@ -4334,17 +4268,6 @@
         "id": "default-supplement-7000:evaporate",
         "front": "evaporate (v.)",
         "back": "蒸發",
-        "tags": [],
-        "stats": {
-          "correctCount": 0,
-          "incorrectCount": 0,
-          "lastReviewedAt": null
-        }
-      },
-      {
-        "id": "default-supplement-7000:examinatio",
-        "front": "examinatio (n.)",
-        "back": "exam n.考試",
         "tags": [],
         "stats": {
           "correctCount": 0,
@@ -4731,7 +4654,7 @@
       {
         "id": "default-supplement-7000:grandchild",
         "front": "grandchild (n.)",
-        "back": "外)孫子／女",
+        "back": "(外)孫子／女",
         "tags": [],
         "stats": {
           "correctCount": 0,
@@ -5063,7 +4986,7 @@
       {
         "id": "default-supplement-7000:herald",
         "front": "herald (n./v.)",
-        "back": "使者；宣布 v.之將臨",
+        "back": "使者；宣布…之將臨",
         "tags": [],
         "stats": {
           "correctCount": 0,
@@ -6617,7 +6540,7 @@
       {
         "id": "default-supplement-7000:mentally",
         "front": "mentally (adv.)",
-        "back": "智力不足的；心理有缺陷的",
+        "back": "精神上；智力上",
         "tags": [],
         "stats": {
           "correctCount": 0,
@@ -7169,7 +7092,7 @@
       {
         "id": "default-supplement-7000:omen",
         "front": "omen (n.)",
-        "back": "微兆；預兆",
+        "back": "徵兆；預兆",
         "tags": [],
         "stats": {
           "correctCount": 0,
@@ -7455,7 +7378,7 @@
       {
         "id": "default-supplement-7000:passerby",
         "front": "passerby (n.)",
-        "back": "穿過；通過",
+        "back": "過路人；行人",
         "tags": [],
         "stats": {
           "correctCount": 0,
@@ -8422,7 +8345,7 @@
       {
         "id": "default-supplement-7000:regiment",
         "front": "regiment (n.)",
-        "back": "軍)團",
+        "back": "(軍)團",
         "tags": [],
         "stats": {
           "correctCount": 0,
@@ -9374,7 +9297,7 @@
       {
         "id": "default-supplement-7000:streetcar",
         "front": "streetcar (n.)",
-        "back": "市內)有軌電車",
+        "back": "(市內)有軌電車",
         "tags": [],
         "stats": {
           "correctCount": 0,
@@ -9629,7 +9552,7 @@
       {
         "id": "default-supplement-7000:tally",
         "front": "tally (n./v.)",
-        "back": "聊天；說話",
+        "back": "計數；符合",
         "tags": [],
         "stats": {
           "correctCount": 0,
@@ -9719,7 +9642,7 @@
       {
         "id": "default-supplement-7000:terminate",
         "front": "terminate (v.)",
-        "back": "使)終止",
+        "back": "(使)終止",
         "example": "Either party may terminate the contract with notice.",
         "notes": "【字根字首】\ntermin(界限) + -ate → 到達界限 → 終止\n\n【同義詞】\nend (v.) 終止\ncancel (v.) 解除\nconclude (v.) 結束\n\n【反義詞】\nrenew (v.) 續約",
         "tags": [],
@@ -10029,7 +9952,7 @@
       {
         "id": "default-supplement-7000:tsunami",
         "front": "tsunami (n.)",
-        "back": "源自日語)海嘯",
+        "back": "(源自日語)海嘯",
         "tags": [],
         "stats": {
           "correctCount": 0,

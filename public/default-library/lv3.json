@@ -234,7 +234,7 @@
       {
         "id": "default-lv3:afford",
         "front": "afford (v.)",
-        "back": "類得起；承擔得起",
+        "back": "買得起；承擔得起",
         "example": "We can't afford a new car this year.",
         "notes": "【同義詞】\nhave the money for (phr.) 負擔得起\nmanage (v.) 承擔",
         "tags": [],
@@ -416,7 +416,7 @@
       {
         "id": "default-lv3:announce",
         "front": "announce (v.)",
-        "back": "n.) 宣布",
+        "back": "宣布",
         "example": "They announced the winners at noon.",
         "notes": "【同義詞】\ndeclare (v.) 宣布\nproclaim (v.) 公布\nreveal (v.) 發表\n\n【反義詞】\nconceal (v.) 隱瞞",
         "tags": [],
@@ -429,7 +429,7 @@
       {
         "id": "default-lv3:announcement",
         "front": "announcement (n.)",
-        "back": "n.) 宣布",
+        "back": "宣布；公告",
         "example": "Please listen for boarding announcements.",
         "notes": "【同義詞】\nstatement (n.) 公告\nnotice (n.) 宣布\nbulletin (n.) 通知",
         "tags": [],
@@ -1246,7 +1246,7 @@
       {
         "id": "default-lv3:boot",
         "front": "boot (n./v.)",
-        "back": "長筒)靴",
+        "back": "(長筒)靴",
         "example": "Wear boots—the trail is muddy.",
         "notes": "【同義詞】\nfootwear (n.) 靴子",
         "tags": [],
@@ -1517,7 +1517,7 @@
       {
         "id": "default-lv3:bull",
         "front": "bull (n.)",
-        "back": "未閹割的) 公牛",
+        "back": "(未閹割的)公牛",
         "example": "The bull charged at the red cape.",
         "notes": "【同義詞】\nox (n.) 公牛\n\n【反義詞】\ncow (n.) 母牛",
         "tags": [],
@@ -1660,7 +1660,7 @@
       {
         "id": "default-lv3:campus",
         "front": "campus (n.)",
-        "back": "大學的) 校園",
+        "back": "(大學的)校園",
         "example": "The campus is beautiful in cherry blossom season.",
         "notes": "【同義詞】\ngrounds (n.) 校園\nschool area (n.) 校區",
         "tags": [],
@@ -1931,7 +1931,7 @@
       {
         "id": "default-lv3:chill",
         "front": "chill (adj./n./v.)",
-        "back": "使)變冷；寒冷的",
+        "back": "(使)變冷；寒冷的",
         "example": "There's a chill in the air tonight.",
         "notes": "【同義詞】\ncoolness (n.) 寒意\ncold (n.) 涼意\nrelax (v.) 放鬆\n\n【反義詞】\nwarmth (n.) 溫暖",
         "tags": [],
@@ -2748,7 +2748,7 @@
       {
         "id": "default-lv3:crew",
         "front": "crew (n.)",
-        "back": "一群)工作人員",
+        "back": "(一群)工作人員",
         "example": "The film crew worked through the night.",
         "notes": "【同義詞】\nteam (n.) 團隊\nstaff (n.) 全體人員\ngang (n.) 組員",
         "tags": [],
@@ -4251,7 +4251,7 @@
       {
         "id": "default-lv3:feather",
         "front": "feather (n.)",
-        "back": "羽毛；鳥類",
+        "back": "羽毛",
         "example": "The pillow is stuffed with goose feathers.",
         "notes": "【同義詞】\nplume (n.) 羽毛\ndown (n.) 絨毛",
         "tags": [],
@@ -4407,7 +4407,7 @@
       {
         "id": "default-lv3:flood",
         "front": "flood (n./v.)",
-        "back": "洪水；淹沒使氾濫",
+        "back": "洪水；淹沒；使氾濫",
         "example": "The flood forced hundreds to evacuate.",
         "notes": "【同義詞】\ndeluge (n.) 洪水\noverflow (v.) 淹沒\ninundate (v.) 氾濫\n\n【反義詞】\ndrought (n.) 乾旱",
         "tags": [],
@@ -5068,7 +5068,7 @@
       {
         "id": "default-lv3:handy",
         "front": "handy (adj.)",
-        "back": "手邊的；巫巧的",
+        "back": "手邊的；靈巧的",
         "example": "A power bank comes in handy while traveling.",
         "notes": "【同義詞】\nuseful (adj.) 方便的\nconvenient (adj.) 好用的\nskillful (adj.) 手巧的\n\n【反義詞】\nuseless (adj.) 無用的",
         "tags": [],
@@ -5198,7 +5198,7 @@
       {
         "id": "default-lv3:headline",
         "front": "headline (n./v.)",
-        "back": "報紙的)標題",
+        "back": "(報紙的)標題",
         "example": "The scandal made headlines worldwide.",
         "notes": "【同義詞】\ntitle (n.) 標題\ncaption (n.) 頭條\nbanner (n.) 大標",
         "tags": [],
@@ -5549,7 +5549,7 @@
       {
         "id": "default-lv3:hum",
         "front": "hum (v.)",
-        "back": "哼唱；嗡嗡聲",
+        "back": "哼唱；發出嗡嗡聲",
         "example": "He hummed a tune while cooking.",
         "notes": "【同義詞】\nbuzz (v.) 嗡嗡叫\ndrone (v.) 哼唱\nmurmur (n.) 嗡鳴",
         "tags": [],
@@ -6068,7 +6068,7 @@
       {
         "id": "default-lv3:jewelry",
         "front": "jewelry (n.)",
-        "back": "總稱)珠寶",
+        "back": "(總稱)珠寶",
         "example": "She keeps her jewelry in a small safe.",
         "notes": "【同義詞】\ngems (n.) 珠寶\nornaments (n.) 首飾\naccessories (n.) 飾品",
         "tags": [],
@@ -6274,7 +6274,7 @@
       {
         "id": "default-lv3:knot",
         "front": "knot (n./v.)",
-        "back": "繩等的)結",
+        "back": "(繩等的)結",
         "example": "The sailor tied a strong knot.",
         "notes": "【同義詞】\ntie (n.) 結\nloop (n.) 繩結\ntangle (n.) 打結",
         "tags": [],
@@ -6403,7 +6403,7 @@
       {
         "id": "default-lv3:leap",
         "front": "leap (n./v.)",
-        "back": "跳躍；舞",
+        "back": "跳躍；躍過",
         "example": "The cat leaped onto the windowsill.",
         "notes": "【同義詞】\njump (v.) 跳躍\nspring (v.) 躍過\nbound (v.) 飛躍",
         "tags": [],
@@ -6972,7 +6972,7 @@
       {
         "id": "default-lv3:meanwhile",
         "front": "meanwhile (adv./n.)",
-        "back": "其問；同時",
+        "back": "其間；同時",
         "example": "Boil the pasta; meanwhile, make the sauce.",
         "notes": "【同義詞】\nin the meantime (phr.) 同時\nat the same time (phr.) 與此同時",
         "tags": [],
@@ -7231,7 +7231,7 @@
       {
         "id": "default-lv3:mobile",
         "front": "mobile (adj.)",
-        "back": "易；汽車",
+        "back": "可移動的；移動式的",
         "example": "The clinic runs a mobile vaccination unit.",
         "notes": "【字根字首】\nmob(移動) + -ile → 能移動的 → 行動的\n\n【同義詞】\nportable (adj.) 可移動的\nmovable (adj.) 行動的\ncell phone (n.) 手機\n\n【反義詞】\nstationary (adj.) 固定的",
         "tags": [],
@@ -7424,7 +7424,7 @@
       {
         "id": "default-lv3:mushroom",
         "front": "mushroom (n./v.)",
-        "back": "香茹；蘑蘋狀的束西",
+        "back": "香菇；蘑菇狀的東西",
         "example": "Wild mushrooms can be poisonous.",
         "notes": "【同義詞】\nfungus (n.) 蘑菇\ntoadstool (n.) 菇類",
         "tags": [],
@@ -7903,7 +7903,7 @@
       {
         "id": "default-lv3:overseas",
         "front": "overseas (adj./adv.)",
-        "back": "ad v.來自海外的",
+        "back": "海外的；在海外",
         "example": "She works for an overseas branch.",
         "notes": "【同義詞】\nabroad (adv.) 在海外\nforeign (adj.) 國外的\ninternational (adj.) 海外的\n\n【反義詞】\ndomestic (adj.) 國內的",
         "tags": [],
@@ -8200,7 +8200,7 @@
       {
         "id": "default-lv3:pave",
         "front": "pave (v.)",
-        "back": "n.)鋪(用於被動)",
+        "back": "鋪(路)",
         "example": "Workers paved the new bike lane.",
         "notes": "【同義詞】\nsurface (v.) 鋪路\ncover (v.) 鋪設",
         "tags": [],
@@ -8213,7 +8213,7 @@
       {
         "id": "default-lv3:pavement",
         "front": "pavement (n.)",
-        "back": "n.)鋪(用於被動)",
+        "back": "人行道；鋪面",
         "example": "Rain made the pavement slippery.",
         "notes": "【同義詞】\nsidewalk (n.) 人行道\nfootpath (n.) 路面",
         "tags": [],
@@ -9678,7 +9678,7 @@
       {
         "id": "default-lv3:rid",
         "front": "rid (adj./v.)",
-        "back": "解除；免談",
+        "back": "解除；免除",
         "example": "How do I get rid of these ants?",
         "notes": "【同義詞】\nremove (v.) 除去\nfree (v.) 擺脫\neliminate (v.) 清除",
         "tags": [],
@@ -10988,7 +10988,7 @@
       {
         "id": "default-lv3:stadium",
         "front": "stadium (n.)",
-        "back": "露天)運動場",
+        "back": "(露天)運動場",
         "example": "The stadium holds fifty thousand fans.",
         "notes": "【同義詞】\narena (n.) 體育場\nfield (n.) 球場\nvenue (n.) 運動場",
         "tags": [],
@@ -11040,7 +11040,7 @@
       {
         "id": "default-lv3:starve",
         "front": "starve (v.)",
-        "back": "使)挨餓",
+        "back": "(使)挨餓",
         "example": "I'm starving—let's eat now.",
         "notes": "【同義詞】\ngo hungry (phr.) 挨餓\nfamish (v.) 餓死\n\n【反義詞】\nfeast (v.) 飽餐",
         "tags": [],
@@ -12014,7 +12014,7 @@
       {
         "id": "default-lv3:tighten",
         "front": "tighten (v.)",
-        "back": "使)繃緊",
+        "back": "(使)繃緊",
         "example": "Tighten the lid so it doesn't spill.",
         "notes": "【同義詞】\nfasten (v.) 拴緊\nsecure (v.) 束緊\nstrengthen (v.) 收緊\n\n【反義詞】\nloosen (v.) 放鬆",
         "tags": [],
@@ -13052,7 +13052,7 @@
       {
         "id": "default-lv3:widen",
         "front": "widen (v.)",
-        "back": "使)變寬",
+        "back": "(使)變寬",
         "example": "Workers are widening the mountain road.",
         "notes": "【同義詞】\nbroaden (v.) 加寬\nexpand (v.) 拓寬\nenlarge (v.) 擴大\n\n【反義詞】\nnarrow (v.) 變窄",
         "tags": [],

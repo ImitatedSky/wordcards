@@ -286,7 +286,7 @@
       {
         "id": "default-lv4:adjust",
         "front": "adjust (v.)",
-        "back": "n.)調整",
+        "back": "調整",
         "example": "Adjust the seat before you start driving.",
         "notes": "【同義詞】\nadapt (v.) 調整\nmodify (v.) 調節\nalter (v.) 校正",
         "tags": [],
@@ -299,7 +299,7 @@
       {
         "id": "default-lv4:adjustment",
         "front": "adjustment (n.)",
-        "back": "n.)調整",
+        "back": "調整",
         "example": "The recipe needs a few minor adjustments.",
         "notes": "【同義詞】\nmodification (n.) 調整\nalteration (n.) 調節\ntweak (n.) 修正",
         "tags": [],
@@ -507,7 +507,7 @@
       {
         "id": "default-lv4:amuse",
         "front": "amuse (v.)",
-        "back": "n.)給～提供娛樂",
+        "back": "逗樂；給～提供娛樂",
         "example": "The clown amused the children for hours.",
         "notes": "【同義詞】\nentertain (v.) 逗樂\ndelight (v.) 娛樂\ntickle (v.) 使發笑\n\n【反義詞】\nbore (v.) 使無聊",
         "tags": [],
@@ -520,7 +520,7 @@
       {
         "id": "default-lv4:amusement",
         "front": "amusement (n.)",
-        "back": "n.)給～提供娛樂",
+        "back": "娛樂；消遣",
         "example": "To everyone's amusement, the cat chased its tail.",
         "notes": "【同義詞】\nentertainment (n.) 娛樂\nfun (n.) 樂趣\nenjoyment (n.) 消遣\n\n【反義詞】\nboredom (n.) 無聊",
         "tags": [],
@@ -1027,7 +1027,7 @@
       {
         "id": "default-lv4:attach",
         "front": "attach (v.)",
-        "back": "n.) 裝上；附加",
+        "back": "裝上；附加",
         "example": "Attach a recent photo to your application.",
         "notes": "【同義詞】\nfasten (v.) 附上\naffix (v.) 貼上\nconnect (v.) 繫上\n\n【反義詞】\ndetach (v.) 拆下",
         "tags": [],
@@ -1040,7 +1040,7 @@
       {
         "id": "default-lv4:attachment",
         "front": "attachment (n.)",
-        "back": "n.) 裝上；附加",
+        "back": "附件；附加物",
         "example": "I forgot to include the attachment in the email.",
         "notes": "【同義詞】\naccessory (n.) 附件\nbond (n.) 依戀\naffection (n.) 情感連結\n\n【反義詞】\ndetachment (n.) 疏離",
         "tags": [],
@@ -1209,7 +1209,7 @@
       {
         "id": "default-lv4:barrier",
         "front": "barrier (n.)",
-        "back": "障礙物；棚欄",
+        "back": "障礙物；柵欄",
         "example": "Language is no longer a barrier with translation apps.",
         "notes": "【同義詞】\nobstacle (n.) 障礙\nwall (n.) 屏障\nhurdle (n.) 阻礙\n\n【反義詞】\nopening (n.) 通道",
         "tags": [],
@@ -2013,7 +2013,7 @@
       {
         "id": "default-lv4:claw",
         "front": "claw (n./v.)",
-        "back": "爪子；鉗；贅",
+        "back": "爪子；鉗；螯",
         "example": "The cat sharpened its claws on the sofa.",
         "notes": "【同義詞】\ntalon (n.) 爪\nnail (n.) 爪子\npincer (n.) 螯",
         "tags": [],
@@ -3065,7 +3065,7 @@
       {
         "id": "default-lv4:coward",
         "front": "coward (n.)",
-        "back": "懦弱的；懦夫",
+        "back": "膽小鬼；懦夫",
         "example": "Only a coward runs from responsibility.",
         "notes": "【同義詞】\nchicken (n.) 懦夫\nweakling (n.) 膽小鬼\n\n【反義詞】\nhero (n.) 英雄",
         "tags": [],
@@ -3377,7 +3377,7 @@
       {
         "id": "default-lv4:decoration",
         "front": "decoration (n.)",
-        "back": "裝飾；裝溝",
+        "back": "裝飾；裝潢",
         "example": "The Christmas decorations go up in December.",
         "notes": "【同義詞】\nornament (n.) 裝飾\nadornment (n.) 佈置\ntrimming (n.) 裝飾品",
         "tags": [],
@@ -3949,7 +3949,7 @@
       {
         "id": "default-lv4:discouragement",
         "front": "discouragement (n.)",
-        "back": "使洩氣；使沮喪",
+        "back": "洩氣；沮喪",
         "example": "He pushed on despite repeated discouragement.",
         "notes": "【同義詞】\ndismay (n.) 氣餒\ndisheartenment (n.) 灰心\n\n【反義詞】\nencouragement (n.) 鼓勵",
         "tags": [],
@@ -4689,7 +4689,7 @@
       {
         "id": "default-lv4:enlarge",
         "front": "enlarge (v.)",
-        "back": "n.)擴大",
+        "back": "擴大",
         "example": "Can you enlarge this photo for printing?",
         "notes": "【同義詞】\nexpand (v.) 擴大\nmagnify (v.) 放大\nextend (v.) 增大\n\n【反義詞】\nshrink (v.) 縮小",
         "tags": [],
@@ -4702,7 +4702,7 @@
       {
         "id": "default-lv4:enlargement",
         "front": "enlargement (n.)",
-        "back": "n.)擴大",
+        "back": "擴大",
         "example": "The clinic offers photo enlargement services.",
         "notes": "【同義詞】\nexpansion (n.) 擴大\nmagnification (n.) 放大\n\n【反義詞】\nreduction (n.) 縮小",
         "tags": [],
@@ -5313,7 +5313,7 @@
       {
         "id": "default-lv4:ferry",
         "front": "ferry (n./v.)",
-        "back": "擺渡；渡輸",
+        "back": "擺渡；渡輪",
         "example": "The ferry crosses the strait twice daily.",
         "notes": "【同義詞】\nboat (n.) 渡輪\nshuttle (n.) 渡船\ntransport (v.) 擺渡",
         "tags": [],
@@ -5650,7 +5650,7 @@
       {
         "id": "default-lv4:frequency",
         "front": "frequency (n.)",
-        "back": "頻率；頻緊",
+        "back": "頻率；頻繁",
         "example": "Earthquakes occur here with alarming frequency.",
         "notes": "【同義詞】\nrate (n.) 頻率\noccurrence (n.) 次數\nregularity (n.) 頻繁度\n\n【反義詞】\nrarity (n.) 罕見",
         "tags": [],
@@ -6065,7 +6065,7 @@
       {
         "id": "default-lv4:gown",
         "front": "gown (n.)",
-        "back": "長禮服；長抱",
+        "back": "長禮服；長袍",
         "example": "She rented a gown for the graduation ball.",
         "notes": "【同義詞】\ndress (n.) 禮服\nrobe (n.) 長袍\nfrock (n.) 長裙",
         "tags": [],
@@ -6533,7 +6533,7 @@
       {
         "id": "default-lv4:homeland",
         "front": "homeland (n.)",
-        "back": "祖國；家夠卜",
+        "back": "祖國；家鄉",
         "example": "After 30 years abroad, he returned to his homeland.",
         "notes": "【同義詞】\nmotherland (n.) 祖國\nnative land (n.) 家園\nhome country (n.) 故土\n\n【反義詞】\nforeign land (n.) 異鄉",
         "tags": [],
@@ -6806,7 +6806,7 @@
       {
         "id": "default-lv4:illustrate",
         "front": "illustrate (v.)",
-        "back": "圖解；說明?",
+        "back": "圖解；說明",
         "example": "The chart illustrates the population trend.",
         "notes": "【字根字首】\nil-(使) + lustr(照亮，同 luster) → 使明亮 → 闡明\n\n【同義詞】\ndemonstrate (v.) 說明\ndepict (v.) 圖解\nexemplify (v.) 舉例說明",
         "tags": [],
@@ -6819,7 +6819,7 @@
       {
         "id": "default-lv4:illustration",
         "front": "illustration (n.)",
-        "back": "圖解；說明?",
+        "back": "圖解；說明",
         "example": "The children's book has beautiful illustrations.",
         "notes": "【同義詞】\ndrawing (n.) 插圖\npicture (n.) 圖解\nexample (n.) 例證",
         "tags": [],
@@ -7521,7 +7521,7 @@
       {
         "id": "default-lv4:invest",
         "front": "invest (v.)",
-        "back": "n.)投資；投入",
+        "back": "投資；投入",
         "example": "They invested their savings in stocks.",
         "notes": "【同義詞】\nfund (v.) 投資\nput money into (phr.) 投入\nback (v.) 挹注\n\n【反義詞】\ndivest (v.) 撤資",
         "tags": [],
@@ -7547,7 +7547,7 @@
       {
         "id": "default-lv4:investment",
         "front": "investment (n.)",
-        "back": "n.)投資；投入",
+        "back": "投資",
         "example": "Education is the best investment in your future.",
         "notes": "【同義詞】\nfunding (n.) 投資\nstake (n.) 投入\ncapital (n.) 資產配置",
         "tags": [],
@@ -9921,7 +9921,7 @@
       {
         "id": "default-lv4:polish",
         "front": "polish (n./v.)",
-        "back": "波蘭的；波蘭人(語)的",
+        "back": "擦亮；磨光",
         "example": "He polished his shoes before the interview.",
         "notes": "【同義詞】\nshine (v.) 擦亮\nbuff (v.) 抛光\nrefine (v.) 潤飾\n\n【反義詞】\ntarnish (v.) 使失去光澤",
         "tags": [],
@@ -10012,7 +10012,7 @@
       {
         "id": "default-lv4:potential",
         "front": "potential (adj./n.)",
-        "back": "潛在的；僭能",
+        "back": "潛在的；潛能",
         "example": "The coach saw great potential in the rookie.",
         "notes": "【同義詞】\npossible (adj.) 潛在的\npromise (n.) 潛力\ncapability (n.) 可能性\n\n【反義詞】\nactual (adj.) 實際的",
         "tags": [],
@@ -11311,7 +11311,7 @@
       {
         "id": "default-lv4:retreat",
         "front": "retreat (n./v.)",
-        "back": "後退；撒退",
+        "back": "後退；撤退",
         "example": "The army was forced to retreat.",
         "notes": "【同義詞】\nwithdraw (v.) 撤退\npull back (phr.) 退卻\ngetaway (n.) 靜修處\n\n【反義詞】\nadvance (v.) 前進",
         "tags": [],
@@ -12338,7 +12338,7 @@
       {
         "id": "default-lv4:sway",
         "front": "sway (n./v.)",
-        "back": "使)搖動",
+        "back": "(使)搖動",
         "example": "The palm trees swayed in the breeze.",
         "notes": "【同義詞】\nswing (v.) 搖擺\nrock (v.) 搖晃\ninfluence (v.) 左右",
         "tags": [],
@@ -12650,7 +12650,7 @@
       {
         "id": "default-lv4:tortoise",
         "front": "tortoise (n.)",
-        "back": "陸)龜",
+        "back": "(陸)龜",
         "example": "The tortoise can live over a hundred years.",
         "notes": "【同義詞】\nturtle (n.) 陸龜（近似）",
         "tags": [],
