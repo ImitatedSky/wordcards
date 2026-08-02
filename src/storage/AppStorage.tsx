@@ -2,17 +2,23 @@ import { useEffect, useState, type ReactNode } from 'react'
 import { IndexedDBStorage } from './indexedDBStorage'
 import { StorageProvider } from './StorageProvider'
 import { seedIfFirstRun } from './firstRunSeed'
+import { seedDefaultLibrary } from './defaultLibrarySeed'
 
 type Props = { children: ReactNode }
 
 export function AppStorage({ children }: Props) {
   const [storage, setStorage] = useState<IndexedDBStorage | null>(null)
   const [error, setError] = useState<Error | null>(null)
+  const [message, setMessage] = useState('載入中…')
 
   useEffect(() => {
     const s = new IndexedDBStorage()
     s.ready()
       .then(() => seedIfFirstRun(s))
+      .then(() => {
+        setMessage('正在準備內建單字庫…')
+        return seedDefaultLibrary(s)
+      })
       .then(() => setStorage(s))
       .catch(e => setError(e instanceof Error ? e : new Error(String(e))))
   }, [])
@@ -31,7 +37,7 @@ export function AppStorage({ children }: Props) {
   if (!storage) {
     return (
       <div className="min-h-screen flex items-center justify-center text-slate-500 text-sm">
-        載入中…
+        {message}
       </div>
     )
   }
