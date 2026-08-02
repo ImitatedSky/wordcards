@@ -5,7 +5,7 @@ export function QuizSessionPage() {
   const { id } = useParams()
   if (!id) return <p>缺少測驗 id。</p>
   return (
-    <div className="p-6 max-w-3xl mx-auto">
+    <div className="mx-auto max-w-4xl p-4 sm:p-6">
       <QuizSession quizId={id} />
     </div>
   )

@@ -1,0 +1,5797 @@
+[
+{
+"word": "accept",
+"pos": "v.",
+"zh": "接受"
+},
+{
+"word": "accomplish",
+"pos": "v.",
+"zh": "完成；達成"
+},
+{
+"word": "account",
+"pos": "n.",
+"zh": "帳戶；客戶"
+},
+{
+"word": "accountant",
+"pos": "n.",
+"zh": "會計師"
+},
+{
+"word": "accounting",
+"pos": "n.",
+"zh": "會計"
+},
+{
+"word": "accurate",
+"pos": "adj.",
+"zh": "準確的"
+},
+{
+"word": "acquisition",
+"pos": "n.",
+"zh": "收購；獲得"
+},
+{
+"word": "address",
+"pos": "v./n.",
+"zh": "處理；演說；地址"
+},
+{
+"word": "adjacent",
+"pos": "adj.",
+"zh": "鄰近的"
+},
+{
+"word": "advance",
+"pos": "n./v.",
+"zh": "預先；進展；提前"
+},
+{
+"word": "advantage",
+"pos": "n.",
+"zh": "優勢"
+},
+{
+"word": "advertising",
+"pos": "n.",
+"zh": "廣告業；廣告"
+},
+{
+"word": "advise",
+"pos": "v.",
+"zh": "建議；通知"
+},
+{
+"word": "affordable",
+"pos": "adj.",
+"zh": "負擔得起的"
+},
+{
+"word": "agenda",
+"pos": "n.",
+"zh": "議程"
+},
+{
+"word": "agency",
+"pos": "n.",
+"zh": "代理商；機構"
+},
+{
+"word": "agent",
+"pos": "n.",
+"zh": "代理人；經紀人"
+},
+{
+"word": "agreement",
+"pos": "n.",
+"zh": "協議；合約"
+},
+{
+"word": "aisle",
+"pos": "n.",
+"zh": "走道"
+},
+{
+"word": "amend",
+"pos": "v.",
+"zh": "修訂；修正"
+},
+{
+"word": "amount",
+"pos": "n.",
+"zh": "金額；數量"
+},
+{
+"word": "analysis",
+"pos": "n.",
+"zh": "分析"
+},
+{
+"word": "anniversary",
+"pos": "n.",
+"zh": "週年紀念"
+},
+{
+"word": "announce",
+"pos": "v.",
+"zh": "宣布"
+},
+{
+"word": "announcement",
+"pos": "n.",
+"zh": "公告；聲明"
+},
+{
+"word": "annual",
+"pos": "adj.",
+"zh": "每年的；年度的"
+},
+{
+"word": "apologize",
+"pos": "v.",
+"zh": "道歉"
+},
+{
+"word": "apology",
+"pos": "n.",
+"zh": "道歉"
+},
+{
+"word": "apparel",
+"pos": "n.",
+"zh": "服裝"
+},
+{
+"word": "appliance",
+"pos": "n.",
+"zh": "家電；器具"
+},
+{
+"word": "applicant",
+"pos": "n.",
+"zh": "申請人；應徵者"
+},
+{
+"word": "application",
+"pos": "n.",
+"zh": "申請；應用程式"
+},
+{
+"word": "apply",
+"pos": "v.",
+"zh": "申請；應用"
+},
+{
+"word": "appointment",
+"pos": "n.",
+"zh": "約會；任命"
+},
+{
+"word": "appraisal",
+"pos": "n.",
+"zh": "評估；考核"
+},
+{
+"word": "appreciate",
+"pos": "v.",
+"zh": "感謝；欣賞；升值"
+},
+{
+"word": "approach",
+"pos": "n./v.",
+"zh": "方法；接近"
+},
+{
+"word": "appropriate",
+"pos": "adj.",
+"zh": "適當的"
+},
+{
+"word": "approval",
+"pos": "n.",
+"zh": "批准；核可"
+},
+{
+"word": "approve",
+"pos": "v.",
+"zh": "批准；贊成"
+},
+{
+"word": "approximately",
+"pos": "adv.",
+"zh": "大約"
+},
+{
+"word": "architect",
+"pos": "n.",
+"zh": "建築師"
+},
+{
+"word": "archive",
+"pos": "n./v.",
+"zh": "檔案庫；歸檔"
+},
+{
+"word": "arrange",
+"pos": "v.",
+"zh": "安排"
+},
+{
+"word": "arrangement",
+"pos": "n.",
+"zh": "安排；布置"
+},
+{
+"word": "arrival",
+"pos": "n.",
+"zh": "到達"
+},
+{
+"word": "article",
+"pos": "n.",
+"zh": "文章；物品；條款"
+},
+{
+"word": "assemble",
+"pos": "v.",
+"zh": "組裝；集合"
+},
+{
+"word": "assembly",
+"pos": "n.",
+"zh": "組裝；集會"
+},
+{
+"word": "asset",
+"pos": "n.",
+"zh": "資產"
+},
+{
+"word": "assist",
+"pos": "v.",
+"zh": "協助"
+},
+{
+"word": "assistance",
+"pos": "n.",
+"zh": "協助；援助"
+},
+{
+"word": "assistant",
+"pos": "n.",
+"zh": "助理"
+},
+{
+"word": "associate",
+"pos": "n./v.",
+"zh": "同事；聯想；使有關聯"
+},
+{
+"word": "assurance",
+"pos": "n.",
+"zh": "保證；把握"
+},
+{
+"word": "assure",
+"pos": "v.",
+"zh": "向…保證"
+},
+{
+"word": "attach",
+"pos": "v.",
+"zh": "附上；貼上"
+},
+{
+"word": "attachment",
+"pos": "n.",
+"zh": "附件"
+},
+{
+"word": "attend",
+"pos": "v.",
+"zh": "出席；參加"
+},
+{
+"word": "attendee",
+"pos": "n.",
+"zh": "出席者"
+},
+{
+"word": "attire",
+"pos": "n.",
+"zh": "服裝；衣著"
+},
+{
+"word": "attract",
+"pos": "v.",
+"zh": "吸引"
+},
+{
+"word": "auction",
+"pos": "n./v.",
+"zh": "拍賣"
+},
+{
+"word": "audience",
+"pos": "n.",
+"zh": "觀眾；聽眾"
+},
+{
+"word": "authority",
+"pos": "n.",
+"zh": "權力；當局"
+},
+{
+"word": "automatically",
+"pos": "adv.",
+"zh": "自動地"
+},
+{
+"word": "automotive",
+"pos": "adj.",
+"zh": "汽車的"
+},
+{
+"word": "availability",
+"pos": "n.",
+"zh": "可得性；有無空檔"
+},
+{
+"word": "balance",
+"pos": "n./v.",
+"zh": "餘額；平衡"
+},
+{
+"word": "ballroom",
+"pos": "n.",
+"zh": "宴會廳"
+},
+{
+"word": "bankrupt",
+"pos": "adj.",
+"zh": "破產的"
+},
+{
+"word": "bankruptcy",
+"pos": "n.",
+"zh": "破產"
+},
+{
+"word": "banquet",
+"pos": "n.",
+"zh": "宴會"
+},
+{
+"word": "bargain",
+"pos": "n./v.",
+"zh": "特價品；討價還價"
+},
+{
+"word": "beverage",
+"pos": "n.",
+"zh": "飲料"
+},
+{
+"word": "bid",
+"pos": "n./v.",
+"zh": "投標；出價"
+},
+{
+"word": "bill",
+"pos": "n.",
+"zh": "帳單；法案"
+},
+{
+"word": "billing",
+"pos": "n.",
+"zh": "開立帳單"
+},
+{
+"word": "board",
+"pos": "n./v.",
+"zh": "董事會；登機"
+},
+{
+"word": "boarding",
+"pos": "n.",
+"zh": "登機；寄宿"
+},
+{
+"word": "bonus",
+"pos": "n.",
+"zh": "獎金；紅利"
+},
+{
+"word": "bookkeeping",
+"pos": "n.",
+"zh": "簿記"
+},
+{
+"word": "boost",
+"pos": "v./n.",
+"zh": "提升；促進"
+},
+{
+"word": "branch",
+"pos": "n.",
+"zh": "分公司；分店"
+},
+{
+"word": "brand",
+"pos": "n.",
+"zh": "品牌"
+},
+{
+"word": "briefcase",
+"pos": "n.",
+"zh": "公事包"
+},
+{
+"word": "briefing",
+"pos": "n.",
+"zh": "簡報；情況說明"
+},
+{
+"word": "brochure",
+"pos": "n.",
+"zh": "小冊子；簡介"
+},
+{
+"word": "budget",
+"pos": "n./v.",
+"zh": "預算"
+},
+{
+"word": "bulletin",
+"pos": "n.",
+"zh": "公告；佈告"
+},
+{
+"word": "bulk",
+"pos": "n.",
+"zh": "大量；大宗"
+},
+{
+"word": "cabinet",
+"pos": "n.",
+"zh": "櫥櫃；內閣"
+},
+{
+"word": "calculate",
+"pos": "v.",
+"zh": "計算"
+},
+{
+"word": "campaign",
+"pos": "n.",
+"zh": "活動；宣傳"
+},
+{
+"word": "cancel",
+"pos": "v.",
+"zh": "取消"
+},
+{
+"word": "cancellation",
+"pos": "n.",
+"zh": "取消"
+},
+{
+"word": "candidate",
+"pos": "n.",
+"zh": "候選人；應徵者"
+},
+{
+"word": "capacity",
+"pos": "n.",
+"zh": "容量；能力"
+},
+{
+"word": "cargo",
+"pos": "n.",
+"zh": "貨物"
+},
+{
+"word": "carrier",
+"pos": "n.",
+"zh": "運輸公司；電信業者"
+},
+{
+"word": "carpool",
+"pos": "n./v.",
+"zh": "共乘"
+},
+{
+"word": "cashier",
+"pos": "n.",
+"zh": "收銀員"
+},
+{
+"word": "catering",
+"pos": "n.",
+"zh": "外燴；餐飲服務"
+},
+{
+"word": "caution",
+"pos": "n.",
+"zh": "謹慎；警告"
+},
+{
+"word": "celebrate",
+"pos": "v.",
+"zh": "慶祝"
+},
+{
+"word": "ceremony",
+"pos": "n.",
+"zh": "典禮"
+},
+{
+"word": "certificate",
+"pos": "n.",
+"zh": "證書；憑證"
+},
+{
+"word": "certification",
+"pos": "n.",
+"zh": "認證"
+},
+{
+"word": "chamber",
+"pos": "n.",
+"zh": "會議廳；商會"
+},
+{
+"word": "charge",
+"pos": "n./v.",
+"zh": "費用；收費；充電"
+},
+{
+"word": "charity",
+"pos": "n.",
+"zh": "慈善機構"
+},
+{
+"word": "checkout",
+"pos": "n.",
+"zh": "結帳；退房"
+},
+{
+"word": "checkup",
+"pos": "n.",
+"zh": "健康檢查"
+},
+{
+"word": "chef",
+"pos": "n.",
+"zh": "主廚"
+},
+{
+"word": "circulation",
+"pos": "n.",
+"zh": "發行量；流通"
+},
+{
+"word": "claim",
+"pos": "n./v.",
+"zh": "索賠；聲稱；領取"
+},
+{
+"word": "client",
+"pos": "n.",
+"zh": "客戶"
+},
+{
+"word": "clientele",
+"pos": "n.",
+"zh": "顧客群"
+},
+{
+"word": "clerk",
+"pos": "n.",
+"zh": "店員；職員"
+},
+{
+"word": "colleague",
+"pos": "n.",
+"zh": "同事"
+},
+{
+"word": "commission",
+"pos": "n.",
+"zh": "佣金；委員會"
+},
+{
+"word": "commitment",
+"pos": "n.",
+"zh": "承諾；投入"
+},
+{
+"word": "committee",
+"pos": "n.",
+"zh": "委員會"
+},
+{
+"word": "commute",
+"pos": "v./n.",
+"zh": "通勤"
+},
+{
+"word": "comparison",
+"pos": "n.",
+"zh": "比較"
+},
+{
+"word": "compensate",
+"pos": "v.",
+"zh": "補償；賠償"
+},
+{
+"word": "compensation",
+"pos": "n.",
+"zh": "補償；薪酬"
+},
+{
+"word": "compete",
+"pos": "v.",
+"zh": "競爭"
+},
+{
+"word": "competition",
+"pos": "n.",
+"zh": "競爭；比賽"
+},
+{
+"word": "competitive",
+"pos": "adj.",
+"zh": "有競爭力的"
+},
+{
+"word": "competitor",
+"pos": "n.",
+"zh": "競爭者"
+},
+{
+"word": "complaint",
+"pos": "n.",
+"zh": "抱怨；投訴"
+},
+{
+"word": "complete",
+"pos": "v./adj.",
+"zh": "完成；完整的"
+},
+{
+"word": "complimentary",
+"pos": "adj.",
+"zh": "贈送的；讚美的"
+},
+{
+"word": "component",
+"pos": "n.",
+"zh": "零件；組成部分"
+},
+{
+"word": "comprehensive",
+"pos": "adj.",
+"zh": "全面的"
+},
+{
+"word": "conclude",
+"pos": "v.",
+"zh": "結束；斷定"
+},
+{
+"word": "conference",
+"pos": "n.",
+"zh": "會議"
+},
+{
+"word": "confidential",
+"pos": "adj.",
+"zh": "機密的"
+},
+{
+"word": "confirm",
+"pos": "v.",
+"zh": "確認"
+},
+{
+"word": "confirmation",
+"pos": "n.",
+"zh": "確認"
+},
+{
+"word": "conform",
+"pos": "v.",
+"zh": "符合；遵守"
+},
+{
+"word": "congratulate",
+"pos": "v.",
+"zh": "祝賀"
+},
+{
+"word": "consent",
+"pos": "n./v.",
+"zh": "同意"
+},
+{
+"word": "considerable",
+"pos": "adj.",
+"zh": "相當大的"
+},
+{
+"word": "consideration",
+"pos": "n.",
+"zh": "考慮；體貼"
+},
+{
+"word": "consist",
+"pos": "v.",
+"zh": "組成；在於"
+},
+{
+"word": "construct",
+"pos": "v.",
+"zh": "建造"
+},
+{
+"word": "construction",
+"pos": "n.",
+"zh": "建設；工程"
+},
+{
+"word": "consult",
+"pos": "v.",
+"zh": "諮詢；查閱"
+},
+{
+"word": "consultant",
+"pos": "n.",
+"zh": "顧問"
+},
+{
+"word": "consultation",
+"pos": "n.",
+"zh": "諮詢"
+},
+{
+"word": "consume",
+"pos": "v.",
+"zh": "消耗；食用"
+},
+{
+"word": "consumer",
+"pos": "n.",
+"zh": "消費者"
+},
+{
+"word": "contract",
+"pos": "n./v.",
+"zh": "合約；訂約"
+},
+{
+"word": "contractor",
+"pos": "n.",
+"zh": "承包商"
+},
+{
+"word": "contribute",
+"pos": "v.",
+"zh": "貢獻；投稿"
+},
+{
+"word": "contribution",
+"pos": "n.",
+"zh": "貢獻；捐款"
+},
+{
+"word": "convention",
+"pos": "n.",
+"zh": "大會；慣例"
+},
+{
+"word": "convenience",
+"pos": "n.",
+"zh": "便利"
+},
+{
+"word": "copier",
+"pos": "n.",
+"zh": "影印機"
+},
+{
+"word": "copyright",
+"pos": "n.",
+"zh": "版權"
+},
+{
+"word": "corporation",
+"pos": "n.",
+"zh": "公司；企業"
+},
+{
+"word": "correspond",
+"pos": "v.",
+"zh": "通信；相符"
+},
+{
+"word": "correspondent",
+"pos": "n.",
+"zh": "通訊記者"
+},
+{
+"word": "coupon",
+"pos": "n.",
+"zh": "折價券"
+},
+{
+"word": "courier",
+"pos": "n.",
+"zh": "快遞員"
+},
+{
+"word": "coverage",
+"pos": "n.",
+"zh": "保險範圍；報導"
+},
+{
+"word": "coworker",
+"pos": "n.",
+"zh": "同事"
+},
+{
+"word": "craft",
+"pos": "n.",
+"zh": "工藝；手藝"
+},
+{
+"word": "credential",
+"pos": "n.",
+"zh": "資格證明"
+},
+{
+"word": "credit",
+"pos": "n.",
+"zh": "信用；學分；讚揚"
+},
+{
+"word": "crew",
+"pos": "n.",
+"zh": "全體工作人員；機組員"
+},
+{
+"word": "critic",
+"pos": "n.",
+"zh": "評論家"
+},
+{
+"word": "cruise",
+"pos": "n./v.",
+"zh": "郵輪旅行；巡航"
+},
+{
+"word": "cubicle",
+"pos": "n.",
+"zh": "辦公隔間"
+},
+{
+"word": "currency",
+"pos": "n.",
+"zh": "貨幣"
+},
+{
+"word": "current",
+"pos": "adj.",
+"zh": "目前的"
+},
+{
+"word": "currently",
+"pos": "adv.",
+"zh": "目前"
+},
+{
+"word": "curriculum",
+"pos": "n.",
+"zh": "課程"
+},
+{
+"word": "customer",
+"pos": "n.",
+"zh": "顧客"
+},
+{
+"word": "customize",
+"pos": "v.",
+"zh": "客製化"
+},
+{
+"word": "deadline",
+"pos": "n.",
+"zh": "截止期限"
+},
+{
+"word": "debt",
+"pos": "n.",
+"zh": "債務"
+},
+{
+"word": "decline",
+"pos": "v./n.",
+"zh": "下降；婉拒"
+},
+{
+"word": "decorate",
+"pos": "v.",
+"zh": "裝飾"
+},
+{
+"word": "decrease",
+"pos": "v./n.",
+"zh": "減少"
+},
+{
+"word": "dedicate",
+"pos": "v.",
+"zh": "奉獻；致力於"
+},
+{
+"word": "deficit",
+"pos": "n.",
+"zh": "赤字；虧損"
+},
+{
+"word": "delay",
+"pos": "n./v.",
+"zh": "延誤；延遲"
+},
+{
+"word": "delegate",
+"pos": "n./v.",
+"zh": "代表；授權"
+},
+{
+"word": "delete",
+"pos": "v.",
+"zh": "刪除"
+},
+{
+"word": "deliver",
+"pos": "v.",
+"zh": "遞送；發表"
+},
+{
+"word": "delivery",
+"pos": "n.",
+"zh": "遞送；交貨"
+},
+{
+"word": "demand",
+"pos": "n./v.",
+"zh": "需求；要求"
+},
+{
+"word": "demonstrate",
+"pos": "v.",
+"zh": "示範；證明"
+},
+{
+"word": "demonstration",
+"pos": "n.",
+"zh": "示範；展示"
+},
+{
+"word": "depart",
+"pos": "v.",
+"zh": "出發；離開"
+},
+{
+"word": "departure",
+"pos": "n.",
+"zh": "出發；離開"
+},
+{
+"word": "deposit",
+"pos": "n./v.",
+"zh": "存款；訂金；存放"
+},
+{
+"word": "description",
+"pos": "n.",
+"zh": "描述"
+},
+{
+"word": "deserve",
+"pos": "v.",
+"zh": "應得"
+},
+{
+"word": "designate",
+"pos": "v.",
+"zh": "指定；指派"
+},
+{
+"word": "destination",
+"pos": "n.",
+"zh": "目的地"
+},
+{
+"word": "detail",
+"pos": "n.",
+"zh": "細節"
+},
+{
+"word": "detour",
+"pos": "n.",
+"zh": "繞道"
+},
+{
+"word": "device",
+"pos": "n.",
+"zh": "裝置；設備"
+},
+{
+"word": "diagnose",
+"pos": "v.",
+"zh": "診斷"
+},
+{
+"word": "diligent",
+"pos": "adj.",
+"zh": "勤勉的"
+},
+{
+"word": "dimension",
+"pos": "n.",
+"zh": "尺寸；面向"
+},
+{
+"word": "directory",
+"pos": "n.",
+"zh": "名錄；目錄"
+},
+{
+"word": "disclose",
+"pos": "v.",
+"zh": "揭露；公開"
+},
+{
+"word": "discount",
+"pos": "n./v.",
+"zh": "折扣"
+},
+{
+"word": "dismiss",
+"pos": "v.",
+"zh": "解雇；解散；駁回"
+},
+{
+"word": "dispatch",
+"pos": "v./n.",
+"zh": "派遣；發送"
+},
+{
+"word": "display",
+"pos": "n./v.",
+"zh": "陳列；顯示"
+},
+{
+"word": "dispute",
+"pos": "n./v.",
+"zh": "爭議；爭論"
+},
+{
+"word": "distribute",
+"pos": "v.",
+"zh": "分發；配送"
+},
+{
+"word": "distribution",
+"pos": "n.",
+"zh": "配送；分布"
+},
+{
+"word": "distributor",
+"pos": "n.",
+"zh": "經銷商"
+},
+{
+"word": "district",
+"pos": "n.",
+"zh": "區域；行政區"
+},
+{
+"word": "dividend",
+"pos": "n.",
+"zh": "股利"
+},
+{
+"word": "division",
+"pos": "n.",
+"zh": "部門；分配"
+},
+{
+"word": "document",
+"pos": "n./v.",
+"zh": "文件；記錄"
+},
+{
+"word": "documentation",
+"pos": "n.",
+"zh": "文件資料"
+},
+{
+"word": "domestic",
+"pos": "adj.",
+"zh": "國內的；家庭的"
+},
+{
+"word": "donate",
+"pos": "v.",
+"zh": "捐贈"
+},
+{
+"word": "donation",
+"pos": "n.",
+"zh": "捐款；捐贈"
+},
+{
+"word": "downtown",
+"pos": "n./adv.",
+"zh": "市中心"
+},
+{
+"word": "draft",
+"pos": "n./v.",
+"zh": "草稿；起草"
+},
+{
+"word": "dramatically",
+"pos": "adv.",
+"zh": "大幅地；戲劇性地"
+},
+{
+"word": "due",
+"pos": "adj.",
+"zh": "到期的；預定的"
+},
+{
+"word": "durable",
+"pos": "adj.",
+"zh": "耐用的"
+},
+{
+"word": "duration",
+"pos": "n.",
+"zh": "持續期間"
+},
+{
+"word": "duty",
+"pos": "n.",
+"zh": "職責；關稅"
+},
+{
+"word": "earnings",
+"pos": "n.",
+"zh": "收入；盈餘"
+},
+{
+"word": "economical",
+"pos": "adj.",
+"zh": "節省的；經濟實惠的"
+},
+{
+"word": "edit",
+"pos": "v.",
+"zh": "編輯"
+},
+{
+"word": "edition",
+"pos": "n.",
+"zh": "版本"
+},
+{
+"word": "efficiency",
+"pos": "n.",
+"zh": "效率"
+},
+{
+"word": "efficient",
+"pos": "adj.",
+"zh": "有效率的"
+},
+{
+"word": "electrician",
+"pos": "n.",
+"zh": "電工"
+},
+{
+"word": "eligible",
+"pos": "adj.",
+"zh": "有資格的"
+},
+{
+"word": "embassy",
+"pos": "n.",
+"zh": "大使館"
+},
+{
+"word": "emphasize",
+"pos": "v.",
+"zh": "強調"
+},
+{
+"word": "employ",
+"pos": "v.",
+"zh": "雇用"
+},
+{
+"word": "employee",
+"pos": "n.",
+"zh": "員工"
+},
+{
+"word": "employer",
+"pos": "n.",
+"zh": "雇主"
+},
+{
+"word": "employment",
+"pos": "n.",
+"zh": "就業；雇用"
+},
+{
+"word": "enclose",
+"pos": "v.",
+"zh": "隨函附上；圍住"
+},
+{
+"word": "enclosure",
+"pos": "n.",
+"zh": "附件；圍場"
+},
+{
+"word": "encounter",
+"pos": "v./n.",
+"zh": "遭遇；偶遇"
+},
+{
+"word": "endorse",
+"pos": "v.",
+"zh": "背書；代言"
+},
+{
+"word": "enforce",
+"pos": "v.",
+"zh": "執行；強制"
+},
+{
+"word": "enlarge",
+"pos": "v.",
+"zh": "擴大"
+},
+{
+"word": "enroll",
+"pos": "v.",
+"zh": "註冊；報名"
+},
+{
+"word": "ensure",
+"pos": "v.",
+"zh": "確保"
+},
+{
+"word": "envelope",
+"pos": "n.",
+"zh": "信封"
+},
+{
+"word": "equip",
+"pos": "v.",
+"zh": "配備"
+},
+{
+"word": "equipment",
+"pos": "n.",
+"zh": "設備"
+},
+{
+"word": "errand",
+"pos": "n.",
+"zh": "跑腿；差事"
+},
+{
+"word": "establish",
+"pos": "v.",
+"zh": "建立；創立"
+},
+{
+"word": "estimate",
+"pos": "n./v.",
+"zh": "估價；估計"
+},
+{
+"word": "evaluate",
+"pos": "v.",
+"zh": "評估"
+},
+{
+"word": "evaluation",
+"pos": "n.",
+"zh": "評估；考核"
+},
+{
+"word": "exceptional",
+"pos": "adj.",
+"zh": "傑出的；例外的"
+},
+{
+"word": "exchange",
+"pos": "n./v.",
+"zh": "交換；匯兌"
+},
+{
+"word": "exclusively",
+"pos": "adv.",
+"zh": "獨家地；僅"
+},
+{
+"word": "excursion",
+"pos": "n.",
+"zh": "短途旅行"
+},
+{
+"word": "executive",
+"pos": "n./adj.",
+"zh": "主管；行政的"
+},
+{
+"word": "exhibit",
+"pos": "n./v.",
+"zh": "展覽；展出"
+},
+{
+"word": "exhibition",
+"pos": "n.",
+"zh": "展覽會"
+},
+{
+"word": "expand",
+"pos": "v.",
+"zh": "擴大；擴張"
+},
+{
+"word": "expansion",
+"pos": "n.",
+"zh": "擴張"
+},
+{
+"word": "expedite",
+"pos": "v.",
+"zh": "加速；加快"
+},
+{
+"word": "expertise",
+"pos": "n.",
+"zh": "專業知識"
+},
+{
+"word": "expire",
+"pos": "v.",
+"zh": "到期；過期"
+},
+{
+"word": "extend",
+"pos": "v.",
+"zh": "延長；擴展"
+},
+{
+"word": "extension",
+"pos": "n.",
+"zh": "延期；分機"
+},
+{
+"word": "extensive",
+"pos": "adj.",
+"zh": "廣泛的"
+},
+{
+"word": "facility",
+"pos": "n.",
+"zh": "設施"
+},
+{
+"word": "factor",
+"pos": "n.",
+"zh": "因素"
+},
+{
+"word": "factory",
+"pos": "n.",
+"zh": "工廠"
+},
+{
+"word": "faculty",
+"pos": "n.",
+"zh": "全體教職員；能力"
+},
+{
+"word": "fare",
+"pos": "n.",
+"zh": "車資；票價"
+},
+{
+"word": "feature",
+"pos": "n./v.",
+"zh": "特色；以…為特色"
+},
+{
+"word": "fee",
+"pos": "n.",
+"zh": "費用"
+},
+{
+"word": "finance",
+"pos": "n./v.",
+"zh": "財務；金融；資助"
+},
+{
+"word": "financial",
+"pos": "adj.",
+"zh": "財務的；金融的"
+},
+{
+"word": "firm",
+"pos": "n./adj.",
+"zh": "公司；堅定的"
+},
+{
+"word": "fitness",
+"pos": "n.",
+"zh": "健身；健康"
+},
+{
+"word": "flavor",
+"pos": "n.",
+"zh": "口味"
+},
+{
+"word": "flexible",
+"pos": "adj.",
+"zh": "彈性的；靈活的"
+},
+{
+"word": "fluent",
+"pos": "adj.",
+"zh": "流利的"
+},
+{
+"word": "forecast",
+"pos": "n./v.",
+"zh": "預測；預報"
+},
+{
+"word": "forward",
+"pos": "v./adv.",
+"zh": "轉寄；向前"
+},
+{
+"word": "found",
+"pos": "v.",
+"zh": "創立"
+},
+{
+"word": "foundation",
+"pos": "n.",
+"zh": "基金會；基礎"
+},
+{
+"word": "founder",
+"pos": "n.",
+"zh": "創辦人"
+},
+{
+"word": "fragrance",
+"pos": "n.",
+"zh": "香味；香水"
+},
+{
+"word": "freelance",
+"pos": "adj.",
+"zh": "自由接案的"
+},
+{
+"word": "frequent",
+"pos": "adj.",
+"zh": "頻繁的"
+},
+{
+"word": "fuel",
+"pos": "n.",
+"zh": "燃料"
+},
+{
+"word": "fund",
+"pos": "n./v.",
+"zh": "基金；資助"
+},
+{
+"word": "furnish",
+"pos": "v.",
+"zh": "配置家具；提供"
+},
+{
+"word": "furniture",
+"pos": "n.",
+"zh": "家具"
+},
+{
+"word": "gallery",
+"pos": "n.",
+"zh": "畫廊；美術館"
+},
+{
+"word": "garage",
+"pos": "n.",
+"zh": "車庫；修車廠"
+},
+{
+"word": "generate",
+"pos": "v.",
+"zh": "產生；創造"
+},
+{
+"word": "generous",
+"pos": "adj.",
+"zh": "慷慨的"
+},
+{
+"word": "grocery",
+"pos": "n.",
+"zh": "雜貨；食品雜貨店"
+},
+{
+"word": "guarantee",
+"pos": "n./v.",
+"zh": "保證"
+},
+{
+"word": "guideline",
+"pos": "n.",
+"zh": "準則；指導方針"
+},
+{
+"word": "handout",
+"pos": "n.",
+"zh": "講義；傳單"
+},
+{
+"word": "headquarters",
+"pos": "n.",
+"zh": "總部"
+},
+{
+"word": "hire",
+"pos": "v.",
+"zh": "雇用"
+},
+{
+"word": "host",
+"pos": "n./v.",
+"zh": "主人；主辦"
+},
+{
+"word": "household",
+"pos": "n./adj.",
+"zh": "家庭；家用的"
+},
+{
+"word": "housing",
+"pos": "n.",
+"zh": "住房；住宅"
+},
+{
+"word": "identification",
+"pos": "n.",
+"zh": "身分證明"
+},
+{
+"word": "identify",
+"pos": "v.",
+"zh": "辨識；確認"
+},
+{
+"word": "immediately",
+"pos": "adv.",
+"zh": "立即"
+},
+{
+"word": "implement",
+"pos": "v.",
+"zh": "實施；執行"
+},
+{
+"word": "import",
+"pos": "n./v.",
+"zh": "進口"
+},
+{
+"word": "impression",
+"pos": "n.",
+"zh": "印象"
+},
+{
+"word": "improve",
+"pos": "v.",
+"zh": "改善"
+},
+{
+"word": "improvement",
+"pos": "n.",
+"zh": "改善；進步"
+},
+{
+"word": "incentive",
+"pos": "n.",
+"zh": "獎勵；誘因"
+},
+{
+"word": "inconvenience",
+"pos": "n.",
+"zh": "不便"
+},
+{
+"word": "increase",
+"pos": "v./n.",
+"zh": "增加"
+},
+{
+"word": "indicate",
+"pos": "v.",
+"zh": "指出；顯示"
+},
+{
+"word": "industry",
+"pos": "n.",
+"zh": "產業；工業"
+},
+{
+"word": "inform",
+"pos": "v.",
+"zh": "通知"
+},
+{
+"word": "ingredient",
+"pos": "n.",
+"zh": "原料；成分"
+},
+{
+"word": "initiate",
+"pos": "v.",
+"zh": "開始；發起"
+},
+{
+"word": "innovation",
+"pos": "n.",
+"zh": "創新"
+},
+{
+"word": "inspect",
+"pos": "v.",
+"zh": "檢查；視察"
+},
+{
+"word": "inspection",
+"pos": "n.",
+"zh": "檢查；檢驗"
+},
+{
+"word": "installment",
+"pos": "n.",
+"zh": "分期付款"
+},
+{
+"word": "institution",
+"pos": "n.",
+"zh": "機構"
+},
+{
+"word": "instruct",
+"pos": "v.",
+"zh": "指示；教導"
+},
+{
+"word": "instruction",
+"pos": "n.",
+"zh": "說明；指示"
+},
+{
+"word": "insurance",
+"pos": "n.",
+"zh": "保險"
+},
+{
+"word": "intend",
+"pos": "v.",
+"zh": "打算"
+},
+{
+"word": "intern",
+"pos": "n.",
+"zh": "實習生"
+},
+{
+"word": "internship",
+"pos": "n.",
+"zh": "實習"
+},
+{
+"word": "interview",
+"pos": "n./v.",
+"zh": "面試；訪談"
+},
+{
+"word": "introduce",
+"pos": "v.",
+"zh": "介紹；推出"
+},
+{
+"word": "invest",
+"pos": "v.",
+"zh": "投資"
+},
+{
+"word": "investment",
+"pos": "n.",
+"zh": "投資"
+},
+{
+"word": "investor",
+"pos": "n.",
+"zh": "投資人"
+},
+{
+"word": "invoice",
+"pos": "n.",
+"zh": "發票；請款單"
+},
+{
+"word": "itinerary",
+"pos": "n.",
+"zh": "行程表"
+},
+{
+"word": "janitorial",
+"pos": "adj.",
+"zh": "清潔工作的"
+},
+{
+"word": "jewelry",
+"pos": "n.",
+"zh": "珠寶"
+},
+{
+"word": "keynote",
+"pos": "n.",
+"zh": "主題演講"
+},
+{
+"word": "labor",
+"pos": "n.",
+"zh": "勞工；勞動"
+},
+{
+"word": "laboratory",
+"pos": "n.",
+"zh": "實驗室"
+},
+{
+"word": "landlord",
+"pos": "n.",
+"zh": "房東"
+},
+{
+"word": "launch",
+"pos": "v./n.",
+"zh": "推出；發射"
+},
+{
+"word": "laundry",
+"pos": "n.",
+"zh": "洗衣；洗衣店"
+},
+{
+"word": "lease",
+"pos": "n./v.",
+"zh": "租約；出租"
+},
+{
+"word": "lecture",
+"pos": "n.",
+"zh": "演講；講課"
+},
+{
+"word": "legal",
+"pos": "adj.",
+"zh": "法律的；合法的"
+},
+{
+"word": "leisure",
+"pos": "n.",
+"zh": "休閒"
+},
+{
+"word": "loan",
+"pos": "n./v.",
+"zh": "貸款；借出"
+},
+{
+"word": "logistics",
+"pos": "n.",
+"zh": "物流"
+},
+{
+"word": "loyal",
+"pos": "adj.",
+"zh": "忠誠的"
+},
+{
+"word": "luggage",
+"pos": "n.",
+"zh": "行李"
+},
+{
+"word": "luncheon",
+"pos": "n.",
+"zh": "午餐會"
+},
+{
+"word": "machinery",
+"pos": "n.",
+"zh": "機械"
+},
+{
+"word": "maintain",
+"pos": "v.",
+"zh": "維持；保養"
+},
+{
+"word": "malfunction",
+"pos": "n./v.",
+"zh": "故障"
+},
+{
+"word": "manage",
+"pos": "v.",
+"zh": "管理；設法做到"
+},
+{
+"word": "management",
+"pos": "n.",
+"zh": "管理；管理階層"
+},
+{
+"word": "mandatory",
+"pos": "adj.",
+"zh": "強制的；必須的"
+},
+{
+"word": "manufacture",
+"pos": "v./n.",
+"zh": "製造"
+},
+{
+"word": "manufacturer",
+"pos": "n.",
+"zh": "製造商"
+},
+{
+"word": "manuscript",
+"pos": "n.",
+"zh": "手稿；原稿"
+},
+{
+"word": "markdown",
+"pos": "n.",
+"zh": "降價"
+},
+{
+"word": "marketing",
+"pos": "n.",
+"zh": "行銷"
+},
+{
+"word": "marketplace",
+"pos": "n.",
+"zh": "市場"
+},
+{
+"word": "material",
+"pos": "n.",
+"zh": "材料；資料"
+},
+{
+"word": "maximize",
+"pos": "v.",
+"zh": "最大化"
+},
+{
+"word": "measure",
+"pos": "n./v.",
+"zh": "措施；測量"
+},
+{
+"word": "medication",
+"pos": "n.",
+"zh": "藥物"
+},
+{
+"word": "memo",
+"pos": "n.",
+"zh": "備忘錄"
+},
+{
+"word": "memorandum",
+"pos": "n.",
+"zh": "備忘錄"
+},
+{
+"word": "mentor",
+"pos": "n.",
+"zh": "導師；良師"
+},
+{
+"word": "merchant",
+"pos": "n.",
+"zh": "商人"
+},
+{
+"word": "merger",
+"pos": "n.",
+"zh": "（公司）合併"
+},
+{
+"word": "minimum",
+"pos": "n./adj.",
+"zh": "最低限度；最小的"
+},
+{
+"word": "minutes",
+"pos": "n.",
+"zh": "會議紀錄"
+},
+{
+"word": "monitor",
+"pos": "v./n.",
+"zh": "監控；螢幕"
+},
+{
+"word": "monthly",
+"pos": "adj./adv.",
+"zh": "每月的"
+},
+{
+"word": "morale",
+"pos": "n.",
+"zh": "士氣"
+},
+{
+"word": "mortgage",
+"pos": "n.",
+"zh": "房屋貸款"
+},
+{
+"word": "motivate",
+"pos": "v.",
+"zh": "激勵"
+},
+{
+"word": "multiple",
+"pos": "adj.",
+"zh": "多個的"
+},
+{
+"word": "negotiate",
+"pos": "v.",
+"zh": "談判；協商"
+},
+{
+"word": "newsletter",
+"pos": "n.",
+"zh": "電子報；通訊"
+},
+{
+"word": "nominate",
+"pos": "v.",
+"zh": "提名"
+},
+{
+"word": "notify",
+"pos": "v.",
+"zh": "通知"
+},
+{
+"word": "numerous",
+"pos": "adj.",
+"zh": "許多的"
+},
+{
+"word": "nutrition",
+"pos": "n.",
+"zh": "營養"
+},
+{
+"word": "objective",
+"pos": "n./adj.",
+"zh": "目標；客觀的"
+},
+{
+"word": "obtain",
+"pos": "v.",
+"zh": "取得"
+},
+{
+"word": "occupancy",
+"pos": "n.",
+"zh": "入住率；占用"
+},
+{
+"word": "occupation",
+"pos": "n.",
+"zh": "職業"
+},
+{
+"word": "occupy",
+"pos": "v.",
+"zh": "占用；占據"
+},
+{
+"word": "offer",
+"pos": "v./n.",
+"zh": "提供；報價"
+},
+{
+"word": "official",
+"pos": "adj./n.",
+"zh": "正式的；官員"
+},
+{
+"word": "operational",
+"pos": "adj.",
+"zh": "營運的；可運作的"
+},
+{
+"word": "organize",
+"pos": "v.",
+"zh": "組織；安排"
+},
+{
+"word": "outlet",
+"pos": "n.",
+"zh": "暢貨中心；插座"
+},
+{
+"word": "outline",
+"pos": "n./v.",
+"zh": "大綱；概述"
+},
+{
+"word": "outstanding",
+"pos": "adj.",
+"zh": "傑出的；未付清的"
+},
+{
+"word": "overdue",
+"pos": "adj.",
+"zh": "逾期的"
+},
+{
+"word": "overhaul",
+"pos": "n./v.",
+"zh": "大修；徹底檢修"
+},
+{
+"word": "overload",
+"pos": "v.",
+"zh": "超載"
+},
+{
+"word": "overtime",
+"pos": "n./adv.",
+"zh": "加班"
+},
+{
+"word": "overview",
+"pos": "n.",
+"zh": "概觀；概要"
+},
+{
+"word": "overwhelm",
+"pos": "v.",
+"zh": "使不知所措；壓倒"
+},
+{
+"word": "packaging",
+"pos": "n.",
+"zh": "包裝"
+},
+{
+"word": "paycheck",
+"pos": "n.",
+"zh": "薪資支票"
+},
+{
+"word": "payment",
+"pos": "n.",
+"zh": "付款"
+},
+{
+"word": "payroll",
+"pos": "n.",
+"zh": "薪資名冊"
+},
+{
+"word": "pedestrian",
+"pos": "n.",
+"zh": "行人"
+},
+{
+"word": "pension",
+"pos": "n.",
+"zh": "退休金"
+},
+{
+"word": "performance",
+"pos": "n.",
+"zh": "表現；業績；表演"
+},
+{
+"word": "periodically",
+"pos": "adv.",
+"zh": "定期地"
+},
+{
+"word": "permanent",
+"pos": "adj.",
+"zh": "永久的"
+},
+{
+"word": "permission",
+"pos": "n.",
+"zh": "許可"
+},
+{
+"word": "permit",
+"pos": "n./v.",
+"zh": "許可證；允許"
+},
+{
+"word": "pharmaceutical",
+"pos": "adj.",
+"zh": "製藥的"
+},
+{
+"word": "pharmacy",
+"pos": "n.",
+"zh": "藥局"
+},
+{
+"word": "photocopy",
+"pos": "n./v.",
+"zh": "影印"
+},
+{
+"word": "physician",
+"pos": "n.",
+"zh": "醫師"
+},
+{
+"word": "plumber",
+"pos": "n.",
+"zh": "水管工"
+},
+{
+"word": "policy",
+"pos": "n.",
+"zh": "政策；保單"
+},
+{
+"word": "portfolio",
+"pos": "n.",
+"zh": "作品集；投資組合"
+},
+{
+"word": "postage",
+"pos": "n.",
+"zh": "郵資"
+},
+{
+"word": "postpone",
+"pos": "v.",
+"zh": "延期"
+},
+{
+"word": "potential",
+"pos": "n./adj.",
+"zh": "潛力；潛在的"
+},
+{
+"word": "praise",
+"pos": "n./v.",
+"zh": "讚美"
+},
+{
+"word": "precaution",
+"pos": "n.",
+"zh": "預防措施"
+},
+{
+"word": "prefer",
+"pos": "v.",
+"zh": "偏好"
+},
+{
+"word": "preference",
+"pos": "n.",
+"zh": "偏好"
+},
+{
+"word": "preliminary",
+"pos": "adj.",
+"zh": "初步的"
+},
+{
+"word": "premise",
+"pos": "n.",
+"zh": "前提；（複數）營業場所"
+},
+{
+"word": "premium",
+"pos": "n./adj.",
+"zh": "保險費；高級的"
+},
+{
+"word": "prescription",
+"pos": "n.",
+"zh": "處方箋"
+},
+{
+"word": "presentation",
+"pos": "n.",
+"zh": "簡報；發表"
+},
+{
+"word": "preside",
+"pos": "v.",
+"zh": "主持"
+},
+{
+"word": "pricing",
+"pos": "n.",
+"zh": "定價"
+},
+{
+"word": "procedure",
+"pos": "n.",
+"zh": "程序；步驟"
+},
+{
+"word": "proceed",
+"pos": "v.",
+"zh": "繼續進行"
+},
+{
+"word": "proceeds",
+"pos": "n.",
+"zh": "收益；收入"
+},
+{
+"word": "process",
+"pos": "n./v.",
+"zh": "過程；處理"
+},
+{
+"word": "productive",
+"pos": "adj.",
+"zh": "有生產力的"
+},
+{
+"word": "productivity",
+"pos": "n.",
+"zh": "生產力"
+},
+{
+"word": "profession",
+"pos": "n.",
+"zh": "職業"
+},
+{
+"word": "professional",
+"pos": "adj./n.",
+"zh": "專業的；專業人士"
+},
+{
+"word": "profit",
+"pos": "n.",
+"zh": "利潤"
+},
+{
+"word": "profitable",
+"pos": "adj.",
+"zh": "有利潤的"
+},
+{
+"word": "progress",
+"pos": "n./v.",
+"zh": "進度；進展"
+},
+{
+"word": "prohibit",
+"pos": "v.",
+"zh": "禁止"
+},
+{
+"word": "promote",
+"pos": "v.",
+"zh": "升遷；促銷"
+},
+{
+"word": "promotion",
+"pos": "n.",
+"zh": "升遷；促銷活動"
+},
+{
+"word": "promptly",
+"pos": "adv.",
+"zh": "迅速地；準時地"
+},
+{
+"word": "proofread",
+"pos": "v.",
+"zh": "校對"
+},
+{
+"word": "property",
+"pos": "n.",
+"zh": "財產；房地產"
+},
+{
+"word": "proposal",
+"pos": "n.",
+"zh": "提案；求婚"
+},
+{
+"word": "propose",
+"pos": "v.",
+"zh": "提議"
+},
+{
+"word": "prospect",
+"pos": "n.",
+"zh": "前景；潛在客戶"
+},
+{
+"word": "prosperity",
+"pos": "n.",
+"zh": "繁榮"
+},
+{
+"word": "protective",
+"pos": "adj.",
+"zh": "保護的"
+},
+{
+"word": "provide",
+"pos": "v.",
+"zh": "提供"
+},
+{
+"word": "provider",
+"pos": "n.",
+"zh": "供應商；提供者"
+},
+{
+"word": "publication",
+"pos": "n.",
+"zh": "出版；出版品"
+},
+{
+"word": "publicity",
+"pos": "n.",
+"zh": "宣傳；知名度"
+},
+{
+"word": "publish",
+"pos": "v.",
+"zh": "出版；發表"
+},
+{
+"word": "publisher",
+"pos": "n.",
+"zh": "出版社"
+},
+{
+"word": "purchase",
+"pos": "v./n.",
+"zh": "購買"
+},
+{
+"word": "pursue",
+"pos": "v.",
+"zh": "追求；從事"
+},
+{
+"word": "qualify",
+"pos": "v.",
+"zh": "使有資格"
+},
+{
+"word": "quarter",
+"pos": "n.",
+"zh": "季度；四分之一"
+},
+{
+"word": "quarterly",
+"pos": "adj./adv.",
+"zh": "每季的"
+},
+{
+"word": "questionnaire",
+"pos": "n.",
+"zh": "問卷"
+},
+{
+"word": "quotation",
+"pos": "n.",
+"zh": "報價單；引文"
+},
+{
+"word": "quote",
+"pos": "n./v.",
+"zh": "報價；引用"
+},
+{
+"word": "rate",
+"pos": "n./v.",
+"zh": "費率；比率；評價"
+},
+{
+"word": "real estate",
+"pos": "n.",
+"zh": "房地產"
+},
+{
+"word": "reasonable",
+"pos": "adj.",
+"zh": "合理的"
+},
+{
+"word": "rebate",
+"pos": "n.",
+"zh": "退款；回扣"
+},
+{
+"word": "receipt",
+"pos": "n.",
+"zh": "收據"
+},
+{
+"word": "reception",
+"pos": "n.",
+"zh": "接待處；歡迎會"
+},
+{
+"word": "receptionist",
+"pos": "n.",
+"zh": "接待員"
+},
+{
+"word": "recession",
+"pos": "n.",
+"zh": "經濟衰退"
+},
+{
+"word": "recognition",
+"pos": "n.",
+"zh": "表彰；認可"
+},
+{
+"word": "recognize",
+"pos": "v.",
+"zh": "認出；表彰"
+},
+{
+"word": "recruit",
+"pos": "v./n.",
+"zh": "招募；新進人員"
+},
+{
+"word": "recruitment",
+"pos": "n.",
+"zh": "招募"
+},
+{
+"word": "reduce",
+"pos": "v.",
+"zh": "減少"
+},
+{
+"word": "refer",
+"pos": "v.",
+"zh": "參考；提及；轉介"
+},
+{
+"word": "reference",
+"pos": "n.",
+"zh": "參考；推薦人"
+},
+{
+"word": "refreshments",
+"pos": "n.",
+"zh": "茶點"
+},
+{
+"word": "refund",
+"pos": "n./v.",
+"zh": "退款"
+},
+{
+"word": "region",
+"pos": "n.",
+"zh": "地區"
+},
+{
+"word": "register",
+"pos": "v./n.",
+"zh": "登記；收銀機"
+},
+{
+"word": "registration",
+"pos": "n.",
+"zh": "註冊；報名"
+},
+{
+"word": "regulation",
+"pos": "n.",
+"zh": "規定；法規"
+},
+{
+"word": "reimburse",
+"pos": "v.",
+"zh": "核銷；償還"
+},
+{
+"word": "reimbursement",
+"pos": "n.",
+"zh": "核銷；退款"
+},
+{
+"word": "relocate",
+"pos": "v.",
+"zh": "搬遷；調職"
+},
+{
+"word": "remark",
+"pos": "n./v.",
+"zh": "評論；發言"
+},
+{
+"word": "remind",
+"pos": "v.",
+"zh": "提醒"
+},
+{
+"word": "remodel",
+"pos": "v.",
+"zh": "改建；翻新"
+},
+{
+"word": "remote",
+"pos": "adj.",
+"zh": "遙遠的；遠端的"
+},
+{
+"word": "renew",
+"pos": "v.",
+"zh": "續約；更新"
+},
+{
+"word": "renewal",
+"pos": "n.",
+"zh": "續約；更新"
+},
+{
+"word": "renovate",
+"pos": "v.",
+"zh": "翻修"
+},
+{
+"word": "renovation",
+"pos": "n.",
+"zh": "翻修工程"
+},
+{
+"word": "rent",
+"pos": "n./v.",
+"zh": "租金；租用"
+},
+{
+"word": "repair",
+"pos": "n./v.",
+"zh": "修理"
+},
+{
+"word": "replicate",
+"pos": "v.",
+"zh": "複製"
+},
+{
+"word": "representative",
+"pos": "n.",
+"zh": "代表；業務代表"
+},
+{
+"word": "reputation",
+"pos": "n.",
+"zh": "名聲"
+},
+{
+"word": "request",
+"pos": "n./v.",
+"zh": "請求；要求"
+},
+{
+"word": "require",
+"pos": "v.",
+"zh": "需要；要求"
+},
+{
+"word": "requirement",
+"pos": "n.",
+"zh": "要求；必要條件"
+},
+{
+"word": "reschedule",
+"pos": "v.",
+"zh": "重新安排時間"
+},
+{
+"word": "reservation",
+"pos": "n.",
+"zh": "預約；保留"
+},
+{
+"word": "reserve",
+"pos": "v.",
+"zh": "預訂；保留"
+},
+{
+"word": "resign",
+"pos": "v.",
+"zh": "辭職"
+},
+{
+"word": "resignation",
+"pos": "n.",
+"zh": "辭職"
+},
+{
+"word": "resolve",
+"pos": "v.",
+"zh": "解決；決心"
+},
+{
+"word": "resource",
+"pos": "n.",
+"zh": "資源"
+},
+{
+"word": "respond",
+"pos": "v.",
+"zh": "回應"
+},
+{
+"word": "response",
+"pos": "n.",
+"zh": "回應"
+},
+{
+"word": "responsibility",
+"pos": "n.",
+"zh": "責任"
+},
+{
+"word": "restore",
+"pos": "v.",
+"zh": "恢復；修復"
+},
+{
+"word": "resume",
+"pos": "v.",
+"zh": "恢復；繼續"
+},
+{
+"word": "résumé",
+"pos": "n.",
+"zh": "履歷表"
+},
+{
+"word": "retail",
+"pos": "n./adj.",
+"zh": "零售"
+},
+{
+"word": "retailer",
+"pos": "n.",
+"zh": "零售商"
+},
+{
+"word": "retreat",
+"pos": "n.",
+"zh": "靜修會；撤退"
+},
+{
+"word": "revise",
+"pos": "v.",
+"zh": "修訂"
+},
+{
+"word": "revision",
+"pos": "n.",
+"zh": "修訂"
+},
+{
+"word": "reward",
+"pos": "n./v.",
+"zh": "獎勵；報酬"
+},
+{
+"word": "routine",
+"pos": "n./adj.",
+"zh": "例行公事；例行的"
+},
+{
+"word": "salary",
+"pos": "n.",
+"zh": "薪水"
+},
+{
+"word": "sample",
+"pos": "n./v.",
+"zh": "樣品；試吃"
+},
+{
+"word": "satisfaction",
+"pos": "n.",
+"zh": "滿意"
+},
+{
+"word": "satisfy",
+"pos": "v.",
+"zh": "使滿意"
+},
+{
+"word": "schedule",
+"pos": "n./v.",
+"zh": "時程表；排定"
+},
+{
+"word": "scheme",
+"pos": "n.",
+"zh": "方案；計畫"
+},
+{
+"word": "seating",
+"pos": "n.",
+"zh": "座位安排"
+},
+{
+"word": "secretary",
+"pos": "n.",
+"zh": "秘書"
+},
+{
+"word": "security",
+"pos": "n.",
+"zh": "安全；保全"
+},
+{
+"word": "seminar",
+"pos": "n.",
+"zh": "研討會"
+},
+{
+"word": "session",
+"pos": "n.",
+"zh": "場次；會議"
+},
+{
+"word": "settle",
+"pos": "v.",
+"zh": "解決；結清；定居"
+},
+{
+"word": "settlement",
+"pos": "n.",
+"zh": "和解；結算"
+},
+{
+"word": "shareholder",
+"pos": "n.",
+"zh": "股東"
+},
+{
+"word": "shift",
+"pos": "n./v.",
+"zh": "輪班；轉移"
+},
+{
+"word": "ship",
+"pos": "v.",
+"zh": "運送；出貨"
+},
+{
+"word": "shipment",
+"pos": "n.",
+"zh": "出貨；貨物"
+},
+{
+"word": "shipping",
+"pos": "n.",
+"zh": "運輸；運費"
+},
+{
+"word": "shortage",
+"pos": "n.",
+"zh": "短缺"
+},
+{
+"word": "showroom",
+"pos": "n.",
+"zh": "展示間"
+},
+{
+"word": "signature",
+"pos": "n.",
+"zh": "簽名"
+},
+{
+"word": "significantly",
+"pos": "adv.",
+"zh": "顯著地"
+},
+{
+"word": "sponsor",
+"pos": "n./v.",
+"zh": "贊助商；贊助"
+},
+{
+"word": "spreadsheet",
+"pos": "n.",
+"zh": "試算表"
+},
+{
+"word": "stationery",
+"pos": "n.",
+"zh": "文具"
+},
+{
+"word": "statistics",
+"pos": "n.",
+"zh": "統計資料"
+},
+{
+"word": "stock",
+"pos": "n./v.",
+"zh": "股票；庫存；進貨"
+},
+{
+"word": "storage",
+"pos": "n.",
+"zh": "儲存；倉儲"
+},
+{
+"word": "strategy",
+"pos": "n.",
+"zh": "策略"
+},
+{
+"word": "streamline",
+"pos": "v.",
+"zh": "簡化；使效率化"
+},
+{
+"word": "submit",
+"pos": "v.",
+"zh": "提交"
+},
+{
+"word": "subscribe",
+"pos": "v.",
+"zh": "訂閱"
+},
+{
+"word": "subsidiary",
+"pos": "n.",
+"zh": "子公司"
+},
+{
+"word": "suggestion",
+"pos": "n.",
+"zh": "建議"
+},
+{
+"word": "summary",
+"pos": "n.",
+"zh": "摘要"
+},
+{
+"word": "supervise",
+"pos": "v.",
+"zh": "監督"
+},
+{
+"word": "supervisor",
+"pos": "n.",
+"zh": "主管；上司"
+},
+{
+"word": "supplier",
+"pos": "n.",
+"zh": "供應商"
+},
+{
+"word": "supply",
+"pos": "n./v.",
+"zh": "供應；用品"
+},
+{
+"word": "surcharge",
+"pos": "n.",
+"zh": "附加費"
+},
+{
+"word": "survey",
+"pos": "n./v.",
+"zh": "調查；問卷"
+},
+{
+"word": "suspend",
+"pos": "v.",
+"zh": "暫停；中止"
+},
+{
+"word": "tailor",
+"pos": "v./n.",
+"zh": "量身打造；裁縫師"
+},
+{
+"word": "takeover",
+"pos": "n.",
+"zh": "收購；接管"
+},
+{
+"word": "tariff",
+"pos": "n.",
+"zh": "關稅"
+},
+{
+"word": "tax",
+"pos": "n.",
+"zh": "稅"
+},
+{
+"word": "technician",
+"pos": "n.",
+"zh": "技術人員"
+},
+{
+"word": "telecommute",
+"pos": "v.",
+"zh": "遠距工作"
+},
+{
+"word": "temporary",
+"pos": "adj.",
+"zh": "暫時的"
+},
+{
+"word": "tenant",
+"pos": "n.",
+"zh": "房客；承租人"
+},
+{
+"word": "tentative",
+"pos": "adj.",
+"zh": "暫定的"
+},
+{
+"word": "terminal",
+"pos": "n.",
+"zh": "航廈；終點站"
+},
+{
+"word": "terminate",
+"pos": "v.",
+"zh": "終止"
+},
+{
+"word": "testimonial",
+"pos": "n.",
+"zh": "推薦文；證言"
+},
+{
+"word": "textile",
+"pos": "n.",
+"zh": "紡織品"
+},
+{
+"word": "timeline",
+"pos": "n.",
+"zh": "時間表；時間軸"
+},
+{
+"word": "toll",
+"pos": "n.",
+"zh": "通行費"
+},
+{
+"word": "tourism",
+"pos": "n.",
+"zh": "觀光業"
+},
+{
+"word": "trade",
+"pos": "n./v.",
+"zh": "貿易；交易"
+},
+{
+"word": "transfer",
+"pos": "v./n.",
+"zh": "轉帳；調職；轉乘"
+},
+{
+"word": "transit",
+"pos": "n.",
+"zh": "運輸；過境"
+},
+{
+"word": "translate",
+"pos": "v.",
+"zh": "翻譯"
+},
+{
+"word": "transport",
+"pos": "v./n.",
+"zh": "運輸"
+},
+{
+"word": "turnover",
+"pos": "n.",
+"zh": "營業額；人員流動率"
+},
+{
+"word": "undergo",
+"pos": "v.",
+"zh": "經歷；接受"
+},
+{
+"word": "unemployment",
+"pos": "n.",
+"zh": "失業"
+},
+{
+"word": "unveiling",
+"pos": "n.",
+"zh": "揭幕儀式"
+},
+{
+"word": "upcoming",
+"pos": "adj.",
+"zh": "即將到來的"
+},
+{
+"word": "upgrade",
+"pos": "v./n.",
+"zh": "升級"
+},
+{
+"word": "urgent",
+"pos": "adj.",
+"zh": "緊急的"
+},
+{
+"word": "utility",
+"pos": "n.",
+"zh": "水電瓦斯；公用事業"
+},
+{
+"word": "vacancy",
+"pos": "n.",
+"zh": "職缺；空房"
+},
+{
+"word": "vacant",
+"pos": "adj.",
+"zh": "空的；空缺的"
+},
+{
+"word": "vehicle",
+"pos": "n.",
+"zh": "車輛"
+},
+{
+"word": "venture",
+"pos": "n.",
+"zh": "創業；冒險事業"
+},
+{
+"word": "verify",
+"pos": "v.",
+"zh": "核實；驗證"
+},
+{
+"word": "via",
+"pos": "prep.",
+"zh": "經由"
+},
+{
+"word": "vicinity",
+"pos": "n.",
+"zh": "鄰近地區"
+},
+{
+"word": "violate",
+"pos": "v.",
+"zh": "違反"
+},
+{
+"word": "voucher",
+"pos": "n.",
+"zh": "抵用券；憑證"
+},
+{
+"word": "wage",
+"pos": "n.",
+"zh": "時薪；工資"
+},
+{
+"word": "warranty",
+"pos": "n.",
+"zh": "保固"
+},
+{
+"word": "wholesale",
+"pos": "n./adj.",
+"zh": "批發"
+},
+{
+"word": "withdraw",
+"pos": "v.",
+"zh": "提款；撤回"
+},
+{
+"word": "withdrawal",
+"pos": "n.",
+"zh": "提款；撤回"
+},
+{
+"word": "workload",
+"pos": "n.",
+"zh": "工作量"
+},
+{
+"word": "workstation",
+"pos": "n.",
+"zh": "工作站"
+},
+{
+"word": "wrap",
+"pos": "v.",
+"zh": "包裝；結束"
+},
+{
+"word": "yield",
+"pos": "n./v.",
+"zh": "收益；產出；讓步"
+},
+{
+"word": "absence",
+"pos": "n.",
+"zh": "缺席；不在"
+},
+{
+"word": "accessible",
+"pos": "adj.",
+"zh": "可到達的；易取得的"
+},
+{
+"word": "accommodating",
+"pos": "adj.",
+"zh": "樂於助人的；肯通融的"
+},
+{
+"word": "accordingly",
+"pos": "adv.",
+"zh": "因此；相應地"
+},
+{
+"word": "accountability",
+"pos": "n.",
+"zh": "當責；問責"
+},
+{
+"word": "achievement",
+"pos": "n.",
+"zh": "成就"
+},
+{
+"word": "activate",
+"pos": "v.",
+"zh": "啟用；啟動"
+},
+{
+"word": "adapt",
+"pos": "v.",
+"zh": "適應；改編"
+},
+{
+"word": "adequately",
+"pos": "adv.",
+"zh": "充分地"
+},
+{
+"word": "adjust",
+"pos": "v.",
+"zh": "調整"
+},
+{
+"word": "adjustment",
+"pos": "n.",
+"zh": "調整"
+},
+{
+"word": "admission",
+"pos": "n.",
+"zh": "入場費；准許進入"
+},
+{
+"word": "admit",
+"pos": "v.",
+"zh": "承認；准許進入"
+},
+{
+"word": "adopt",
+"pos": "v.",
+"zh": "採用；領養"
+},
+{
+"word": "advisory",
+"pos": "adj./n.",
+"zh": "諮詢的；警報"
+},
+{
+"word": "affect",
+"pos": "v.",
+"zh": "影響"
+},
+{
+"word": "affiliation",
+"pos": "n.",
+"zh": "隸屬關係"
+},
+{
+"word": "afterwards",
+"pos": "adv.",
+"zh": "之後"
+},
+{
+"word": "allocate",
+"pos": "v.",
+"zh": "分配；撥出"
+},
+{
+"word": "alternative",
+"pos": "n./adj.",
+"zh": "替代方案；另類的"
+},
+{
+"word": "ambitious",
+"pos": "adj.",
+"zh": "有野心的"
+},
+{
+"word": "ample",
+"pos": "adj.",
+"zh": "充足的"
+},
+{
+"word": "anticipated",
+"pos": "adj.",
+"zh": "預期的"
+},
+{
+"word": "apparently",
+"pos": "adv.",
+"zh": "顯然"
+},
+{
+"word": "appeal",
+"pos": "n./v.",
+"zh": "吸引力；呼籲；上訴"
+},
+{
+"word": "applaud",
+"pos": "v.",
+"zh": "鼓掌；讚賞"
+},
+{
+"word": "aspect",
+"pos": "n.",
+"zh": "方面"
+},
+{
+"word": "assign",
+"pos": "v.",
+"zh": "指派"
+},
+{
+"word": "assignment",
+"pos": "n.",
+"zh": "任務；作業"
+},
+{
+"word": "assume",
+"pos": "v.",
+"zh": "假定；承擔"
+},
+{
+"word": "attempt",
+"pos": "n./v.",
+"zh": "嘗試"
+},
+{
+"word": "attendance",
+"pos": "n.",
+"zh": "出席"
+},
+{
+"word": "attentive",
+"pos": "adj.",
+"zh": "周到的；專注的"
+},
+{
+"word": "attribute",
+"pos": "v./n.",
+"zh": "歸因於；特質"
+},
+{
+"word": "audit",
+"pos": "n./v.",
+"zh": "稽核；查帳"
+},
+{
+"word": "authentic",
+"pos": "adj.",
+"zh": "道地的；真正的"
+},
+{
+"word": "authorization",
+"pos": "n.",
+"zh": "授權"
+},
+{
+"word": "authorize",
+"pos": "v.",
+"zh": "授權"
+},
+{
+"word": "await",
+"pos": "v.",
+"zh": "等候"
+},
+{
+"word": "awards",
+"pos": "n.",
+"zh": "獎項"
+},
+{
+"word": "aware",
+"pos": "adj.",
+"zh": "知道的"
+},
+{
+"word": "backorder",
+"pos": "n.",
+"zh": "缺貨補單"
+},
+{
+"word": "baggage",
+"pos": "n.",
+"zh": "行李"
+},
+{
+"word": "barely",
+"pos": "adv.",
+"zh": "勉強；幾乎不"
+},
+{
+"word": "belongings",
+"pos": "n.",
+"zh": "隨身物品"
+},
+{
+"word": "beneficial",
+"pos": "adj.",
+"zh": "有益的"
+},
+{
+"word": "benefit",
+"pos": "n./v.",
+"zh": "福利；好處；受益"
+},
+{
+"word": "biography",
+"pos": "n.",
+"zh": "傳記"
+},
+{
+"word": "blueprint",
+"pos": "n.",
+"zh": "藍圖"
+},
+{
+"word": "bookstore",
+"pos": "n.",
+"zh": "書店"
+},
+{
+"word": "borrow",
+"pos": "v.",
+"zh": "借入"
+},
+{
+"word": "breach",
+"pos": "n./v.",
+"zh": "違約；違反"
+},
+{
+"word": "broadcast",
+"pos": "v./n.",
+"zh": "播出；廣播"
+},
+{
+"word": "browse",
+"pos": "v.",
+"zh": "瀏覽"
+},
+{
+"word": "cafeteria",
+"pos": "n.",
+"zh": "自助餐廳；員工餐廳"
+},
+{
+"word": "calculator",
+"pos": "n.",
+"zh": "計算機"
+},
+{
+"word": "capable",
+"pos": "adj.",
+"zh": "有能力的"
+},
+{
+"word": "caption",
+"pos": "n.",
+"zh": "圖說；字幕"
+},
+{
+"word": "cater",
+"pos": "v.",
+"zh": "承辦外燴；迎合"
+},
+{
+"word": "cautious",
+"pos": "adj.",
+"zh": "謹慎的"
+},
+{
+"word": "cease",
+"pos": "v.",
+"zh": "停止"
+},
+{
+"word": "celebrity",
+"pos": "n.",
+"zh": "名人"
+},
+{
+"word": "chairperson",
+"pos": "n.",
+"zh": "主席"
+},
+{
+"word": "challenging",
+"pos": "adj.",
+"zh": "有挑戰性的"
+},
+{
+"word": "characteristic",
+"pos": "n.",
+"zh": "特徵"
+},
+{
+"word": "chronic",
+"pos": "adj.",
+"zh": "慢性的；長期的"
+},
+{
+"word": "circumstance",
+"pos": "n.",
+"zh": "情況；境遇"
+},
+{
+"word": "clarify",
+"pos": "v.",
+"zh": "澄清"
+},
+{
+"word": "classified",
+"pos": "adj.",
+"zh": "分類的；機密的"
+},
+{
+"word": "clause",
+"pos": "n.",
+"zh": "條款"
+},
+{
+"word": "closure",
+"pos": "n.",
+"zh": "關閉；結束"
+},
+{
+"word": "collateral",
+"pos": "n.",
+"zh": "擔保品"
+},
+{
+"word": "collaborate",
+"pos": "v.",
+"zh": "合作"
+},
+{
+"word": "combine",
+"pos": "v.",
+"zh": "結合"
+},
+{
+"word": "commemorate",
+"pos": "v.",
+"zh": "紀念"
+},
+{
+"word": "commence",
+"pos": "v.",
+"zh": "開始"
+},
+{
+"word": "commercial",
+"pos": "adj./n.",
+"zh": "商業的；廣告"
+},
+{
+"word": "companion",
+"pos": "n.",
+"zh": "同伴"
+},
+{
+"word": "comparably",
+"pos": "adv.",
+"zh": "同等地"
+},
+{
+"word": "compatible",
+"pos": "adj.",
+"zh": "相容的"
+},
+{
+"word": "compile",
+"pos": "v.",
+"zh": "彙編；編纂"
+},
+{
+"word": "complement",
+"pos": "v./n.",
+"zh": "補足；互補"
+},
+{
+"word": "complicated",
+"pos": "adj.",
+"zh": "複雜的"
+},
+{
+"word": "comply",
+"pos": "v.",
+"zh": "遵守"
+},
+{
+"word": "compromise",
+"pos": "n./v.",
+"zh": "妥協"
+},
+{
+"word": "conclusion",
+"pos": "n.",
+"zh": "結論"
+},
+{
+"word": "concrete",
+"pos": "adj./n.",
+"zh": "具體的；混凝土"
+},
+{
+"word": "condition",
+"pos": "n.",
+"zh": "狀況；條件"
+},
+{
+"word": "conduct",
+"pos": "v./n.",
+"zh": "進行；行為"
+},
+{
+"word": "confide",
+"pos": "v.",
+"zh": "吐露"
+},
+{
+"word": "confidence",
+"pos": "n.",
+"zh": "信心"
+},
+{
+"word": "congestion",
+"pos": "n.",
+"zh": "壅塞"
+},
+{
+"word": "consecutive",
+"pos": "adj.",
+"zh": "連續的"
+},
+{
+"word": "consequence",
+"pos": "n.",
+"zh": "後果"
+},
+{
+"word": "conserve",
+"pos": "v.",
+"zh": "節約；保護"
+},
+{
+"word": "considerably",
+"pos": "adv.",
+"zh": "相當大地"
+},
+{
+"word": "consistent",
+"pos": "adj.",
+"zh": "一致的；穩定的"
+},
+{
+"word": "consistently",
+"pos": "adv.",
+"zh": "一貫地"
+},
+{
+"word": "consolidate",
+"pos": "v.",
+"zh": "整合；鞏固"
+},
+{
+"word": "constraint",
+"pos": "n.",
+"zh": "限制"
+},
+{
+"word": "contain",
+"pos": "v.",
+"zh": "包含"
+},
+{
+"word": "container",
+"pos": "n.",
+"zh": "容器；貨櫃"
+},
+{
+"word": "contemporary",
+"pos": "adj.",
+"zh": "當代的"
+},
+{
+"word": "contents",
+"pos": "n.",
+"zh": "內容物；目錄"
+},
+{
+"word": "continually",
+"pos": "adv.",
+"zh": "持續地"
+},
+{
+"word": "convene",
+"pos": "v.",
+"zh": "召開"
+},
+{
+"word": "convenient",
+"pos": "adj.",
+"zh": "方便的"
+},
+{
+"word": "convert",
+"pos": "v.",
+"zh": "轉換"
+},
+{
+"word": "convince",
+"pos": "v.",
+"zh": "說服"
+},
+{
+"word": "cooperate",
+"pos": "v.",
+"zh": "合作；配合"
+},
+{
+"word": "cooperation",
+"pos": "n.",
+"zh": "合作"
+},
+{
+"word": "coordinate",
+"pos": "v.",
+"zh": "協調"
+},
+{
+"word": "coordinator",
+"pos": "n.",
+"zh": "協調人；統籌者"
+},
+{
+"word": "cordially",
+"pos": "adv.",
+"zh": "誠摯地"
+},
+{
+"word": "costly",
+"pos": "adj.",
+"zh": "昂貴的"
+},
+{
+"word": "councilman",
+"pos": "n.",
+"zh": "市議員"
+},
+{
+"word": "counterpart",
+"pos": "n.",
+"zh": "對應的人或物"
+},
+{
+"word": "courteous",
+"pos": "adj.",
+"zh": "有禮貌的"
+},
+{
+"word": "critique",
+"pos": "n.",
+"zh": "評論"
+},
+{
+"word": "crossing",
+"pos": "n.",
+"zh": "路口；穿越道"
+},
+{
+"word": "crucial",
+"pos": "adj.",
+"zh": "關鍵的"
+},
+{
+"word": "culinary",
+"pos": "adj.",
+"zh": "烹飪的"
+},
+{
+"word": "cultivate",
+"pos": "v.",
+"zh": "培養；耕作"
+},
+{
+"word": "curb",
+"pos": "n./v.",
+"zh": "路緣；抑制"
+},
+{
+"word": "custom",
+"pos": "n./adj.",
+"zh": "習俗；訂製的"
+},
+{
+"word": "dairy",
+"pos": "n./adj.",
+"zh": "乳製品"
+},
+{
+"word": "damage",
+"pos": "n./v.",
+"zh": "損害"
+},
+{
+"word": "debate",
+"pos": "n./v.",
+"zh": "辯論"
+},
+{
+"word": "decade",
+"pos": "n.",
+"zh": "十年"
+},
+{
+"word": "defect",
+"pos": "n.",
+"zh": "瑕疵；缺陷"
+},
+{
+"word": "defective",
+"pos": "adj.",
+"zh": "有瑕疵的"
+},
+{
+"word": "definitely",
+"pos": "adv.",
+"zh": "肯定地"
+},
+{
+"word": "degree",
+"pos": "n.",
+"zh": "學位；程度"
+},
+{
+"word": "deliberately",
+"pos": "adv.",
+"zh": "故意地"
+},
+{
+"word": "delicate",
+"pos": "adj.",
+"zh": "精緻的；易碎的"
+},
+{
+"word": "delighted",
+"pos": "adj.",
+"zh": "高興的"
+},
+{
+"word": "depend",
+"pos": "v.",
+"zh": "依賴；取決於"
+},
+{
+"word": "dependable",
+"pos": "adj.",
+"zh": "可靠的"
+},
+{
+"word": "depict",
+"pos": "v.",
+"zh": "描繪"
+},
+{
+"word": "desirable",
+"pos": "adj.",
+"zh": "理想的；令人嚮往的"
+},
+{
+"word": "desktop",
+"pos": "n.",
+"zh": "桌上型電腦；桌面"
+},
+{
+"word": "detach",
+"pos": "v.",
+"zh": "拆下；分離"
+},
+{
+"word": "detailed",
+"pos": "adj.",
+"zh": "詳細的"
+},
+{
+"word": "detect",
+"pos": "v.",
+"zh": "偵測"
+},
+{
+"word": "deteriorate",
+"pos": "v.",
+"zh": "惡化"
+},
+{
+"word": "determine",
+"pos": "v.",
+"zh": "決定；判定"
+},
+{
+"word": "develop",
+"pos": "v.",
+"zh": "開發；發展"
+},
+{
+"word": "developer",
+"pos": "n.",
+"zh": "開發商；開發者"
+},
+{
+"word": "development",
+"pos": "n.",
+"zh": "發展；開發案"
+},
+{
+"word": "devote",
+"pos": "v.",
+"zh": "投入；奉獻"
+},
+{
+"word": "diagram",
+"pos": "n.",
+"zh": "圖表；示意圖"
+},
+{
+"word": "differ",
+"pos": "v.",
+"zh": "不同"
+},
+{
+"word": "digit",
+"pos": "n.",
+"zh": "數字；位數"
+},
+{
+"word": "diner",
+"pos": "n.",
+"zh": "用餐者；小餐館"
+},
+{
+"word": "diploma",
+"pos": "n.",
+"zh": "文憑"
+},
+{
+"word": "disability",
+"pos": "n.",
+"zh": "身心障礙"
+},
+{
+"word": "disappointed",
+"pos": "adj.",
+"zh": "失望的"
+},
+{
+"word": "discard",
+"pos": "v.",
+"zh": "丟棄"
+},
+{
+"word": "discontinue",
+"pos": "v.",
+"zh": "停產；中止"
+},
+{
+"word": "discrepancy",
+"pos": "n.",
+"zh": "不一致；出入"
+},
+{
+"word": "discretion",
+"pos": "n.",
+"zh": "裁量權；謹慎"
+},
+{
+"word": "discuss",
+"pos": "v.",
+"zh": "討論"
+},
+{
+"word": "disposal",
+"pos": "n.",
+"zh": "處理；處置"
+},
+{
+"word": "dispose",
+"pos": "v.",
+"zh": "處理掉"
+},
+{
+"word": "disruption",
+"pos": "n.",
+"zh": "中斷；干擾"
+},
+{
+"word": "distinguish",
+"pos": "v.",
+"zh": "區分"
+},
+{
+"word": "diverse",
+"pos": "adj.",
+"zh": "多元的"
+},
+{
+"word": "diversity",
+"pos": "n.",
+"zh": "多樣性"
+},
+{
+"word": "downsize",
+"pos": "v.",
+"zh": "縮編；裁員"
+},
+{
+"word": "dozen",
+"pos": "n.",
+"zh": "一打"
+},
+{
+"word": "drastically",
+"pos": "adv.",
+"zh": "劇烈地"
+},
+{
+"word": "drawback",
+"pos": "n.",
+"zh": "缺點"
+},
+{
+"word": "dress code",
+"pos": "n.",
+"zh": "服裝規定"
+},
+{
+"word": "driveway",
+"pos": "n.",
+"zh": "私人車道"
+},
+{
+"word": "drought",
+"pos": "n.",
+"zh": "乾旱"
+},
+{
+"word": "editorial",
+"pos": "n./adj.",
+"zh": "社論；編輯的"
+},
+{
+"word": "effective",
+"pos": "adj.",
+"zh": "有效的；生效的"
+},
+{
+"word": "effectiveness",
+"pos": "n.",
+"zh": "有效性"
+},
+{
+"word": "elaborate",
+"pos": "adj./v.",
+"zh": "精心製作的；詳述"
+},
+{
+"word": "elect",
+"pos": "v.",
+"zh": "選舉；選擇"
+},
+{
+"word": "eliminate",
+"pos": "v.",
+"zh": "消除；淘汰"
+},
+{
+"word": "emerge",
+"pos": "v.",
+"zh": "出現"
+},
+{
+"word": "emergency",
+"pos": "n.",
+"zh": "緊急狀況"
+},
+{
+"word": "emission",
+"pos": "n.",
+"zh": "排放"
+},
+{
+"word": "enable",
+"pos": "v.",
+"zh": "使能夠"
+},
+{
+"word": "encourage",
+"pos": "v.",
+"zh": "鼓勵"
+},
+{
+"word": "engagement",
+"pos": "n.",
+"zh": "約定；參與；訂婚"
+},
+{
+"word": "enhance",
+"pos": "v.",
+"zh": "提升；增強"
+},
+{
+"word": "enthusiasm",
+"pos": "n.",
+"zh": "熱忱"
+},
+{
+"word": "enthusiastic",
+"pos": "adj.",
+"zh": "熱情的"
+},
+{
+"word": "entire",
+"pos": "adj.",
+"zh": "整個的"
+},
+{
+"word": "entitle",
+"pos": "v.",
+"zh": "使有權"
+},
+{
+"word": "entrepreneur",
+"pos": "n.",
+"zh": "創業家"
+},
+{
+"word": "entry",
+"pos": "n.",
+"zh": "進入；參賽作品；條目"
+},
+{
+"word": "environmentally",
+"pos": "adv.",
+"zh": "環境上"
+},
+{
+"word": "essential",
+"pos": "adj.",
+"zh": "必要的"
+},
+{
+"word": "exceed",
+"pos": "v.",
+"zh": "超過"
+},
+{
+"word": "excel",
+"pos": "v.",
+"zh": "擅長；勝過"
+},
+{
+"word": "excellence",
+"pos": "n.",
+"zh": "卓越"
+},
+{
+"word": "exception",
+"pos": "n.",
+"zh": "例外"
+},
+{
+"word": "excerpt",
+"pos": "n.",
+"zh": "摘錄"
+},
+{
+"word": "excessive",
+"pos": "adj.",
+"zh": "過度的"
+},
+{
+"word": "exclusive",
+"pos": "adj.",
+"zh": "獨家的"
+},
+{
+"word": "expectation",
+"pos": "n.",
+"zh": "期望"
+},
+{
+"word": "expenditure",
+"pos": "n.",
+"zh": "支出"
+},
+{
+"word": "expense",
+"pos": "n.",
+"zh": "費用"
+},
+{
+"word": "experienced",
+"pos": "adj.",
+"zh": "有經驗的"
+},
+{
+"word": "experiment",
+"pos": "n./v.",
+"zh": "實驗"
+},
+{
+"word": "explanation",
+"pos": "n.",
+"zh": "解釋"
+},
+{
+"word": "explore",
+"pos": "v.",
+"zh": "探索；探討"
+},
+{
+"word": "exposure",
+"pos": "n.",
+"zh": "曝光；接觸"
+},
+{
+"word": "extraordinary",
+"pos": "adj.",
+"zh": "非凡的"
+},
+{
+"word": "extremely",
+"pos": "adv.",
+"zh": "極度地"
+},
+{
+"word": "fabricate",
+"pos": "v.",
+"zh": "製造；捏造"
+},
+{
+"word": "familiarize",
+"pos": "v.",
+"zh": "使熟悉"
+},
+{
+"word": "faulty",
+"pos": "adj.",
+"zh": "有故障的"
+},
+{
+"word": "favorable",
+"pos": "adj.",
+"zh": "有利的；好評的"
+},
+{
+"word": "feasibility",
+"pos": "n.",
+"zh": "可行性"
+},
+{
+"word": "fertilizer",
+"pos": "n.",
+"zh": "肥料"
+},
+{
+"word": "fill out",
+"pos": "phr.",
+"zh": "填寫"
+},
+{
+"word": "finalize",
+"pos": "v.",
+"zh": "定案；完成"
+},
+{
+"word": "findings",
+"pos": "n.",
+"zh": "調查結果"
+},
+{
+"word": "fine print",
+"pos": "n.",
+"zh": "細則；小字條款"
+},
+{
+"word": "fiscal",
+"pos": "adj.",
+"zh": "財政的；會計的"
+},
+{
+"word": "flaw",
+"pos": "n.",
+"zh": "瑕疵"
+},
+{
+"word": "fleet",
+"pos": "n.",
+"zh": "車隊；船隊"
+},
+{
+"word": "fluctuate",
+"pos": "v.",
+"zh": "波動"
+},
+{
+"word": "following",
+"pos": "adj./prep.",
+"zh": "接下來的；在…之後"
+},
+{
+"word": "forbid",
+"pos": "v.",
+"zh": "禁止"
+},
+{
+"word": "foreman",
+"pos": "n.",
+"zh": "工頭；領班"
+},
+{
+"word": "formal",
+"pos": "adj.",
+"zh": "正式的"
+},
+{
+"word": "former",
+"pos": "adj.",
+"zh": "前任的；前者"
+},
+{
+"word": "formula",
+"pos": "n.",
+"zh": "公式；配方"
+},
+{
+"word": "foster",
+"pos": "v.",
+"zh": "促進；培養"
+},
+{
+"word": "fragile",
+"pos": "adj.",
+"zh": "易碎的"
+},
+{
+"word": "freighter",
+"pos": "n.",
+"zh": "貨輪"
+},
+{
+"word": "frequently",
+"pos": "adv.",
+"zh": "經常"
+},
+{
+"word": "fulfill",
+"pos": "v.",
+"zh": "履行；滿足"
+},
+{
+"word": "fundraiser",
+"pos": "n.",
+"zh": "募款活動"
+},
+{
+"word": "garment",
+"pos": "n.",
+"zh": "服裝"
+},
+{
+"word": "gathering",
+"pos": "n.",
+"zh": "聚會"
+},
+{
+"word": "gauge",
+"pos": "v./n.",
+"zh": "評估；量表"
+},
+{
+"word": "genuine",
+"pos": "adj.",
+"zh": "真正的；真誠的"
+},
+{
+"word": "glitch",
+"pos": "n.",
+"zh": "小故障"
+},
+{
+"word": "gourmet",
+"pos": "n./adj.",
+"zh": "美食家；美食的"
+},
+{
+"word": "gradually",
+"pos": "adv.",
+"zh": "逐漸地"
+},
+{
+"word": "grant",
+"pos": "v./n.",
+"zh": "授予；補助金"
+},
+{
+"word": "gratitude",
+"pos": "n.",
+"zh": "感激"
+},
+{
+"word": "greet",
+"pos": "v.",
+"zh": "迎接；問候"
+},
+{
+"word": "guidance",
+"pos": "n.",
+"zh": "指導"
+},
+{
+"word": "hallway",
+"pos": "n.",
+"zh": "走廊"
+},
+{
+"word": "handbook",
+"pos": "n.",
+"zh": "手冊"
+},
+{
+"word": "handle",
+"pos": "v.",
+"zh": "處理"
+},
+{
+"word": "hands-on",
+"pos": "adj.",
+"zh": "實作的；親自動手的"
+},
+{
+"word": "hazardous",
+"pos": "adj.",
+"zh": "危險的"
+},
+{
+"word": "hesitant",
+"pos": "adj.",
+"zh": "猶豫的"
+},
+{
+"word": "honor",
+"pos": "v./n.",
+"zh": "表彰；榮譽；兌現"
+},
+{
+"word": "hospitality",
+"pos": "n.",
+"zh": "款待；餐旅業"
+},
+{
+"word": "humid",
+"pos": "adj.",
+"zh": "潮濕的"
+},
+{
+"word": "illegible",
+"pos": "adj.",
+"zh": "難以辨認的"
+},
+{
+"word": "immediate",
+"pos": "adj.",
+"zh": "立即的"
+},
+{
+"word": "impact",
+"pos": "n./v.",
+"zh": "影響；衝擊"
+},
+{
+"word": "imperative",
+"pos": "adj.",
+"zh": "必要的；當務之急的"
+},
+{
+"word": "imply",
+"pos": "v.",
+"zh": "暗示"
+},
+{
+"word": "impose",
+"pos": "v.",
+"zh": "課徵；強加"
+},
+{
+"word": "impressive",
+"pos": "adj.",
+"zh": "令人印象深刻的"
+},
+{
+"word": "inadequate",
+"pos": "adj.",
+"zh": "不足的"
+},
+{
+"word": "inclement",
+"pos": "adj.",
+"zh": "（天氣）惡劣的"
+},
+{
+"word": "income",
+"pos": "n.",
+"zh": "收入"
+},
+{
+"word": "incorporate",
+"pos": "v.",
+"zh": "納入；併入"
+},
+{
+"word": "incur",
+"pos": "v.",
+"zh": "招致；產生（費用）"
+},
+{
+"word": "indefinitely",
+"pos": "adv.",
+"zh": "無限期地"
+},
+{
+"word": "informal",
+"pos": "adj.",
+"zh": "非正式的"
+},
+{
+"word": "initial",
+"pos": "adj.",
+"zh": "最初的"
+},
+{
+"word": "initiative",
+"pos": "n.",
+"zh": "倡議；主動性"
+},
+{
+"word": "inquire",
+"pos": "v.",
+"zh": "詢問"
+},
+{
+"word": "inquiry",
+"pos": "n.",
+"zh": "詢問"
+},
+{
+"word": "insert",
+"pos": "v.",
+"zh": "插入"
+},
+{
+"word": "insight",
+"pos": "n.",
+"zh": "洞見"
+},
+{
+"word": "insist",
+"pos": "v.",
+"zh": "堅持"
+},
+{
+"word": "inspiration",
+"pos": "n.",
+"zh": "靈感；激勵"
+},
+{
+"word": "install",
+"pos": "v.",
+"zh": "安裝"
+},
+{
+"word": "installation",
+"pos": "n.",
+"zh": "安裝"
+},
+{
+"word": "instantly",
+"pos": "adv.",
+"zh": "立即"
+},
+{
+"word": "institute",
+"pos": "n./v.",
+"zh": "機構；制定"
+},
+{
+"word": "instrument",
+"pos": "n.",
+"zh": "儀器；樂器"
+},
+{
+"word": "insufficient",
+"pos": "adj.",
+"zh": "不足的"
+},
+{
+"word": "intact",
+"pos": "adj.",
+"zh": "完好無損的"
+},
+{
+"word": "integral",
+"pos": "adj.",
+"zh": "不可或缺的"
+},
+{
+"word": "intensive",
+"pos": "adj.",
+"zh": "密集的"
+},
+{
+"word": "interfere",
+"pos": "v.",
+"zh": "干涉；妨礙"
+},
+{
+"word": "interruption",
+"pos": "n.",
+"zh": "中斷"
+},
+{
+"word": "intersection",
+"pos": "n.",
+"zh": "十字路口"
+},
+{
+"word": "inventory",
+"pos": "n.",
+"zh": "庫存；盤點"
+},
+{
+"word": "issue",
+"pos": "v./n.",
+"zh": "核發；議題"
+},
+{
+"word": "laptop",
+"pos": "n.",
+"zh": "筆記型電腦"
+},
+{
+"word": "lastly",
+"pos": "adv.",
+"zh": "最後"
+},
+{
+"word": "latest",
+"pos": "adj.",
+"zh": "最新的"
+},
+{
+"word": "latter",
+"pos": "n./adj.",
+"zh": "後者"
+},
+{
+"word": "leadership",
+"pos": "n.",
+"zh": "領導能力"
+},
+{
+"word": "leaflet",
+"pos": "n.",
+"zh": "傳單"
+},
+{
+"word": "legislation",
+"pos": "n.",
+"zh": "立法"
+},
+{
+"word": "liability",
+"pos": "n.",
+"zh": "負債；法律責任"
+},
+{
+"word": "librarian",
+"pos": "n.",
+"zh": "圖書館員"
+},
+{
+"word": "license",
+"pos": "n./v.",
+"zh": "執照；授權"
+},
+{
+"word": "likely",
+"pos": "adj./adv.",
+"zh": "可能的"
+},
+{
+"word": "limitation",
+"pos": "n.",
+"zh": "限制"
+},
+{
+"word": "literature",
+"pos": "n.",
+"zh": "文學；印刷宣傳品"
+},
+{
+"word": "lobby",
+"pos": "n./v.",
+"zh": "大廳；遊說"
+},
+{
+"word": "locate",
+"pos": "v.",
+"zh": "找出位置；設立於"
+},
+{
+"word": "lucrative",
+"pos": "adj.",
+"zh": "獲利豐厚的"
+},
+{
+"word": "mailing",
+"pos": "n.",
+"zh": "郵寄"
+},
+{
+"word": "majority",
+"pos": "n.",
+"zh": "多數"
+},
+{
+"word": "malfunctioning",
+"pos": "adj.",
+"zh": "故障的"
+},
+{
+"word": "markedly",
+"pos": "adv.",
+"zh": "顯著地"
+},
+{
+"word": "means",
+"pos": "n.",
+"zh": "方法；手段"
+},
+{
+"word": "meanwhile",
+"pos": "adv.",
+"zh": "同時"
+},
+{
+"word": "mechanical",
+"pos": "adj.",
+"zh": "機械的"
+},
+{
+"word": "merchandise",
+"pos": "n.",
+"zh": "商品"
+},
+{
+"word": "merit",
+"pos": "n.",
+"zh": "優點；功績"
+},
+{
+"word": "milestone",
+"pos": "n.",
+"zh": "里程碑"
+},
+{
+"word": "mingle",
+"pos": "v.",
+"zh": "交際；混合"
+},
+{
+"word": "miscellaneous",
+"pos": "adj.",
+"zh": "雜項的"
+},
+{
+"word": "mission",
+"pos": "n.",
+"zh": "使命；任務"
+},
+{
+"word": "modest",
+"pos": "adj.",
+"zh": "適度的；謙虛的"
+},
+{
+"word": "modification",
+"pos": "n.",
+"zh": "修改"
+},
+{
+"word": "momentum",
+"pos": "n.",
+"zh": "動能；勢頭"
+},
+{
+"word": "motivated",
+"pos": "adj.",
+"zh": "積極的；有幹勁的"
+},
+{
+"word": "mutual",
+"pos": "adj.",
+"zh": "相互的；共同的"
+},
+{
+"word": "mutually",
+"pos": "adv.",
+"zh": "互相地"
+},
+{
+"word": "nearby",
+"pos": "adj./adv.",
+"zh": "附近的"
+},
+{
+"word": "nevertheless",
+"pos": "adv.",
+"zh": "儘管如此"
+},
+{
+"word": "noteworthy",
+"pos": "adj.",
+"zh": "值得注意的"
+},
+{
+"word": "notice",
+"pos": "n./v.",
+"zh": "通知；注意到"
+},
+{
+"word": "notification",
+"pos": "n.",
+"zh": "通知"
+},
+{
+"word": "novel",
+"pos": "n./adj.",
+"zh": "小說；新穎的"
+},
+{
+"word": "nowadays",
+"pos": "adv.",
+"zh": "現今"
+},
+{
+"word": "obligated",
+"pos": "adj.",
+"zh": "有義務的"
+},
+{
+"word": "observe",
+"pos": "v.",
+"zh": "觀察；遵守"
+},
+{
+"word": "obstacle",
+"pos": "n.",
+"zh": "障礙"
+},
+{
+"word": "occasion",
+"pos": "n.",
+"zh": "場合；時機"
+},
+{
+"word": "occasionally",
+"pos": "adv.",
+"zh": "偶爾"
+},
+{
+"word": "opening",
+"pos": "n.",
+"zh": "職缺；開幕"
+},
+{
+"word": "optimistic",
+"pos": "adj.",
+"zh": "樂觀的"
+},
+{
+"word": "option",
+"pos": "n.",
+"zh": "選項"
+},
+{
+"word": "otherwise",
+"pos": "adv.",
+"zh": "否則"
+},
+{
+"word": "outage",
+"pos": "n.",
+"zh": "停電；斷線"
+},
+{
+"word": "outcome",
+"pos": "n.",
+"zh": "結果"
+},
+{
+"word": "outdated",
+"pos": "adj.",
+"zh": "過時的"
+},
+{
+"word": "outfit",
+"pos": "n.",
+"zh": "服裝"
+},
+{
+"word": "outreach",
+"pos": "n.",
+"zh": "外展服務；推廣"
+},
+{
+"word": "outsource",
+"pos": "v.",
+"zh": "外包"
+},
+{
+"word": "overall",
+"pos": "adj./adv.",
+"zh": "整體的"
+},
+{
+"word": "overcome",
+"pos": "v.",
+"zh": "克服"
+},
+{
+"word": "overlook",
+"pos": "v.",
+"zh": "忽略；俯瞰"
+},
+{
+"word": "overseas",
+"pos": "adj./adv.",
+"zh": "海外的"
+},
+{
+"word": "oversight",
+"pos": "n.",
+"zh": "疏忽；監管"
+},
+{
+"word": "panel",
+"pos": "n.",
+"zh": "小組；面板"
+},
+{
+"word": "paperwork",
+"pos": "n.",
+"zh": "文書工作"
+},
+{
+"word": "partial",
+"pos": "adj.",
+"zh": "部分的"
+},
+{
+"word": "participant",
+"pos": "n.",
+"zh": "參與者"
+},
+{
+"word": "participate",
+"pos": "v.",
+"zh": "參加"
+},
+{
+"word": "particular",
+"pos": "adj.",
+"zh": "特定的"
+},
+{
+"word": "partnership",
+"pos": "n.",
+"zh": "合夥關係"
+},
+{
+"word": "patio",
+"pos": "n.",
+"zh": "露臺"
+},
+{
+"word": "patron",
+"pos": "n.",
+"zh": "顧客；贊助者"
+},
+{
+"word": "peak",
+"pos": "n./adj.",
+"zh": "高峰；尖峰的"
+},
+{
+"word": "per",
+"pos": "prep.",
+"zh": "每"
+},
+{
+"word": "periodical",
+"pos": "n.",
+"zh": "期刊"
+},
+{
+"word": "perishable",
+"pos": "adj.",
+"zh": "易腐壞的"
+},
+{
+"word": "personalized",
+"pos": "adj.",
+"zh": "個人化的"
+},
+{
+"word": "persuade",
+"pos": "v.",
+"zh": "說服"
+},
+{
+"word": "pertain",
+"pos": "v.",
+"zh": "關於；屬於"
+},
+{
+"word": "petition",
+"pos": "n./v.",
+"zh": "請願書；請願"
+},
+{
+"word": "plaque",
+"pos": "n.",
+"zh": "獎牌；匾額"
+},
+{
+"word": "pleased",
+"pos": "adj.",
+"zh": "高興的"
+},
+{
+"word": "plumbing",
+"pos": "n.",
+"zh": "水管系統"
+},
+{
+"word": "possess",
+"pos": "v.",
+"zh": "擁有"
+},
+{
+"word": "potentially",
+"pos": "adv.",
+"zh": "潛在地"
+},
+{
+"word": "practical",
+"pos": "adj.",
+"zh": "實用的"
+},
+{
+"word": "precise",
+"pos": "adj.",
+"zh": "精確的"
+},
+{
+"word": "predict",
+"pos": "v.",
+"zh": "預測"
+},
+{
+"word": "prestigious",
+"pos": "adj.",
+"zh": "有聲望的"
+},
+{
+"word": "previous",
+"pos": "adj.",
+"zh": "先前的"
+},
+{
+"word": "previously",
+"pos": "adv.",
+"zh": "先前"
+},
+{
+"word": "primarily",
+"pos": "adv.",
+"zh": "主要地"
+},
+{
+"word": "priority",
+"pos": "n.",
+"zh": "優先事項"
+},
+{
+"word": "probation",
+"pos": "n.",
+"zh": "試用期；緩刑"
+},
+{
+"word": "productively",
+"pos": "adv.",
+"zh": "有成效地"
+},
+{
+"word": "proficient",
+"pos": "adj.",
+"zh": "精通的"
+},
+{
+"word": "prominent",
+"pos": "adj.",
+"zh": "著名的；顯著的"
+},
+{
+"word": "proximity",
+"pos": "n.",
+"zh": "鄰近"
+},
+{
+"word": "punctual",
+"pos": "adj.",
+"zh": "準時的"
+},
+{
+"word": "quality",
+"pos": "n./adj.",
+"zh": "品質；優質的"
+},
+{
+"word": "quantity",
+"pos": "n.",
+"zh": "數量"
+},
+{
+"word": "ramp",
+"pos": "n.",
+"zh": "坡道；匝道"
+},
+{
+"word": "rapidly",
+"pos": "adv.",
+"zh": "迅速地"
+},
+{
+"word": "rarely",
+"pos": "adv.",
+"zh": "很少"
+},
+{
+"word": "reach",
+"pos": "v.",
+"zh": "到達；聯繫"
+},
+{
+"word": "rectify",
+"pos": "v.",
+"zh": "矯正；修正"
+},
+{
+"word": "redeem",
+"pos": "v.",
+"zh": "兌換；贖回"
+},
+{
+"word": "referral",
+"pos": "n.",
+"zh": "轉介；推薦"
+},
+{
+"word": "refrain",
+"pos": "v.",
+"zh": "克制；避免"
+},
+{
+"word": "regarding",
+"pos": "prep.",
+"zh": "關於"
+},
+{
+"word": "regional",
+"pos": "adj.",
+"zh": "區域的"
+},
+{
+"word": "regret",
+"pos": "v./n.",
+"zh": "遺憾；後悔"
+},
+{
+"word": "regularly",
+"pos": "adv.",
+"zh": "定期地"
+},
+{
+"word": "relevant",
+"pos": "adj.",
+"zh": "相關的"
+},
+{
+"word": "reliable",
+"pos": "adj.",
+"zh": "可靠的"
+},
+{
+"word": "relieve",
+"pos": "v.",
+"zh": "緩解；接替"
+},
+{
+"word": "remainder",
+"pos": "n.",
+"zh": "其餘部分"
+},
+{
+"word": "remarkable",
+"pos": "adj.",
+"zh": "卓越的；顯著的"
+},
+{
+"word": "remedy",
+"pos": "n./v.",
+"zh": "補救措施"
+},
+{
+"word": "reminder",
+"pos": "n.",
+"zh": "提醒通知"
+},
+{
+"word": "remittance",
+"pos": "n.",
+"zh": "匯款"
+},
+{
+"word": "replacement",
+"pos": "n.",
+"zh": "替換；接替者"
+},
+{
+"word": "reportedly",
+"pos": "adv.",
+"zh": "據報導"
+},
+{
+"word": "represent",
+"pos": "v.",
+"zh": "代表"
+},
+{
+"word": "resolution",
+"pos": "n.",
+"zh": "決議；解決"
+},
+{
+"word": "respectively",
+"pos": "adv.",
+"zh": "分別地"
+},
+{
+"word": "restock",
+"pos": "v.",
+"zh": "補貨"
+},
+{
+"word": "restructure",
+"pos": "v.",
+"zh": "重組"
+},
+{
+"word": "retain",
+"pos": "v.",
+"zh": "留住；保留"
+},
+{
+"word": "revenue",
+"pos": "n.",
+"zh": "營收"
+},
+{
+"word": "review",
+"pos": "n./v.",
+"zh": "審查；評論"
+},
+{
+"word": "rigorous",
+"pos": "adj.",
+"zh": "嚴格的"
+},
+{
+"word": "rotate",
+"pos": "v.",
+"zh": "輪調；旋轉"
+},
+{
+"word": "roughly",
+"pos": "adv.",
+"zh": "大約"
+},
+{
+"word": "sanitation",
+"pos": "n.",
+"zh": "衛生"
+},
+{
+"word": "scenery",
+"pos": "n.",
+"zh": "風景"
+},
+{
+"word": "scent",
+"pos": "n.",
+"zh": "香氣"
+},
+{
+"word": "scrutiny",
+"pos": "n.",
+"zh": "詳細審查"
+},
+{
+"word": "sculpture",
+"pos": "n.",
+"zh": "雕塑"
+},
+{
+"word": "seasonal",
+"pos": "adj.",
+"zh": "季節性的"
+},
+{
+"word": "seldom",
+"pos": "adv.",
+"zh": "很少"
+},
+{
+"word": "sequel",
+"pos": "n.",
+"zh": "續集"
+},
+{
+"word": "shortly",
+"pos": "adv.",
+"zh": "不久"
+},
+{
+"word": "sightseeing",
+"pos": "n.",
+"zh": "觀光"
+},
+{
+"word": "significant",
+"pos": "adj.",
+"zh": "重大的；顯著的"
+},
+{
+"word": "simplify",
+"pos": "v.",
+"zh": "簡化"
+},
+{
+"word": "simultaneously",
+"pos": "adv.",
+"zh": "同時地"
+},
+{
+"word": "skeptical",
+"pos": "adj.",
+"zh": "存疑的"
+},
+{
+"word": "solely",
+"pos": "adv.",
+"zh": "僅僅；單獨地"
+},
+{
+"word": "solicit",
+"pos": "v.",
+"zh": "徵求；懇求"
+},
+{
+"word": "souvenir",
+"pos": "n.",
+"zh": "紀念品"
+},
+{
+"word": "specification",
+"pos": "n.",
+"zh": "規格"
+},
+{
+"word": "spokesperson",
+"pos": "n.",
+"zh": "發言人"
+},
+{
+"word": "stability",
+"pos": "n.",
+"zh": "穩定性"
+},
+{
+"word": "stable",
+"pos": "adj.",
+"zh": "穩定的"
+},
+{
+"word": "stack",
+"pos": "n./v.",
+"zh": "一疊；堆放"
+},
+{
+"word": "staffing",
+"pos": "n.",
+"zh": "人力配置"
+},
+{
+"word": "standard",
+"pos": "n./adj.",
+"zh": "標準"
+},
+{
+"word": "steady",
+"pos": "adj.",
+"zh": "穩定的"
+},
+{
+"word": "stimulus",
+"pos": "n.",
+"zh": "刺激；激勵"
+},
+{
+"word": "stopover",
+"pos": "n.",
+"zh": "中途停留"
+},
+{
+"word": "strive",
+"pos": "v.",
+"zh": "努力"
+},
+{
+"word": "structural",
+"pos": "adj.",
+"zh": "結構性的"
+},
+{
+"word": "submission",
+"pos": "n.",
+"zh": "提交；投稿"
+},
+{
+"word": "subsequently",
+"pos": "adv.",
+"zh": "隨後"
+},
+{
+"word": "substantially",
+"pos": "adv.",
+"zh": "大幅地"
+},
+{
+"word": "substitute",
+"pos": "n./v.",
+"zh": "代替品；代課"
+},
+{
+"word": "sufficient",
+"pos": "adj.",
+"zh": "足夠的"
+},
+{
+"word": "suitable",
+"pos": "adj.",
+"zh": "合適的"
+},
+{
+"word": "suite",
+"pos": "n.",
+"zh": "套房"
+},
+{
+"word": "superb",
+"pos": "adj.",
+"zh": "極好的"
+},
+{
+"word": "superior",
+"pos": "adj./n.",
+"zh": "優越的；上司"
+},
+{
+"word": "supplement",
+"pos": "n./v.",
+"zh": "補充；補給品"
+},
+{
+"word": "surge",
+"pos": "n./v.",
+"zh": "激增"
+},
+{
+"word": "surpass",
+"pos": "v.",
+"zh": "超越"
+},
+{
+"word": "surroundings",
+"pos": "n.",
+"zh": "周遭環境"
+},
+{
+"word": "suspension",
+"pos": "n.",
+"zh": "暫停；停職"
+},
+{
+"word": "sustainability",
+"pos": "n.",
+"zh": "永續性"
+},
+{
+"word": "tackle",
+"pos": "v.",
+"zh": "處理；應對"
+},
+{
+"word": "tardiness",
+"pos": "n.",
+"zh": "遲到"
+},
+{
+"word": "technical",
+"pos": "adj.",
+"zh": "技術性的"
+},
+{
+"word": "tenure",
+"pos": "n.",
+"zh": "任期"
+},
+{
+"word": "testify",
+"pos": "v.",
+"zh": "作證"
+},
+{
+"word": "thorough",
+"pos": "adj.",
+"zh": "徹底的"
+},
+{
+"word": "thoroughly",
+"pos": "adv.",
+"zh": "徹底地"
+},
+{
+"word": "thrive",
+"pos": "v.",
+"zh": "蓬勃發展"
+},
+{
+"word": "timely",
+"pos": "adj.",
+"zh": "及時的"
+},
+{
+"word": "tow",
+"pos": "v.",
+"zh": "拖吊"
+},
+{
+"word": "transition",
+"pos": "n.",
+"zh": "過渡；轉型"
+},
+{
+"word": "tremendous",
+"pos": "adj.",
+"zh": "巨大的"
+},
+{
+"word": "trim",
+"pos": "v.",
+"zh": "修剪；削減"
+},
+{
+"word": "troubleshoot",
+"pos": "v.",
+"zh": "排除故障"
+},
+{
+"word": "ultimately",
+"pos": "adv.",
+"zh": "最終"
+},
+{
+"word": "unanimously",
+"pos": "adv.",
+"zh": "全數通過地"
+},
+{
+"word": "unavailable",
+"pos": "adj.",
+"zh": "無法取得的；沒空的"
+},
+{
+"word": "undertake",
+"pos": "v.",
+"zh": "承擔；著手"
+},
+{
+"word": "unfortunately",
+"pos": "adv.",
+"zh": "遺憾地"
+},
+{
+"word": "unlimited",
+"pos": "adj.",
+"zh": "無限的"
+},
+{
+"word": "unprecedented",
+"pos": "adj.",
+"zh": "史無前例的"
+},
+{
+"word": "upholstery",
+"pos": "n.",
+"zh": "傢俱布面"
+},
+{
+"word": "utensil",
+"pos": "n.",
+"zh": "餐具；器具"
+},
+{
+"word": "valid",
+"pos": "adj.",
+"zh": "有效的"
+},
+{
+"word": "validate",
+"pos": "v.",
+"zh": "驗證；使生效"
+},
+{
+"word": "valuables",
+"pos": "n.",
+"zh": "貴重物品"
+},
+{
+"word": "variable",
+"pos": "n./adj.",
+"zh": "變數；多變的"
+},
+{
+"word": "vary",
+"pos": "v.",
+"zh": "變化；不同"
+},
+{
+"word": "vast",
+"pos": "adj.",
+"zh": "廣大的"
+},
+{
+"word": "vendor",
+"pos": "n.",
+"zh": "供應商；攤販"
+},
+{
+"word": "venue",
+"pos": "n.",
+"zh": "場地"
+},
+{
+"word": "verdict",
+"pos": "n.",
+"zh": "判決"
+},
+{
+"word": "versatile",
+"pos": "adj.",
+"zh": "多才多藝的；多用途的"
+},
+{
+"word": "veterinary",
+"pos": "adj.",
+"zh": "獸醫的"
+},
+{
+"word": "viable",
+"pos": "adj.",
+"zh": "可行的"
+},
+{
+"word": "virtually",
+"pos": "adv.",
+"zh": "幾乎；虛擬地"
+},
+{
+"word": "visibility",
+"pos": "n.",
+"zh": "能見度；曝光度"
+},
+{
+"word": "vital",
+"pos": "adj.",
+"zh": "至關重要的"
+},
+{
+"word": "volume",
+"pos": "n.",
+"zh": "數量；音量；冊"
+},
+{
+"word": "voluntary",
+"pos": "adj.",
+"zh": "自願的"
+},
+{
+"word": "volunteer",
+"pos": "n./v.",
+"zh": "志工；自願"
+},
+{
+"word": "warehouse",
+"pos": "n.",
+"zh": "倉庫"
+},
+{
+"word": "waive",
+"pos": "v.",
+"zh": "免除；放棄"
+},
+{
+"word": "weigh",
+"pos": "v.",
+"zh": "秤重；權衡"
+},
+{
+"word": "welfare",
+"pos": "n.",
+"zh": "福利"
+},
+{
+"word": "workshop",
+"pos": "n.",
+"zh": "工作坊"
+},
+{
+"word": "worthwhile",
+"pos": "adj.",
+"zh": "值得的"
+}
+]

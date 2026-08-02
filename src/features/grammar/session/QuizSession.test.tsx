@@ -67,6 +67,7 @@ describe('QuizSession', () => {
     await screen.findByRole('heading', { name: '測驗設定' })
     const shuffle = screen.getByLabelText('隨機出題') as HTMLInputElement
     if (shuffle.checked) await user.click(shuffle)
+    await user.click(screen.getByRole('button', { name: '100%' })) // run all questions
     await user.click(screen.getByRole('button', { name: '開始' }))
 
     await screen.findByText('mc prompt')

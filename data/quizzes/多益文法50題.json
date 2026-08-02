@@ -1,0 +1,966 @@
+{
+  "format": "english-app-grammar-quiz",
+  "version": 1,
+  "data": {
+    "id": "f16fec8d-ced2-469d-ac87-92c7b334b8cc",
+    "name": "多益文法 Part 5 精選",
+    "description": "TOEIC Part 5 風格文法題：時態、詞性、介係詞、連接詞、關係代名詞、假設語氣等",
+    "language": "en",
+    "questions": [
+      {
+        "id": "90cce0eb-a77c-4090-af63-7bb3c305581a",
+        "type": "multiple_choice",
+        "prompt": "The marketing team will submit the proposal ___ the end of this week.",
+        "options": [
+          "by",
+          "until",
+          "on",
+          "in"
+        ],
+        "correctIndex": 0,
+        "explanation": "by + 時間點表示「在…之前完成」；until 強調持續到某時間點。提案是一次性完成的動作，用 by。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "063d25c4-1733-4ad9-9dc7-2e9b45e2e317",
+        "type": "multiple_choice",
+        "prompt": "All employees are required to attend the ___ scheduled training session.",
+        "options": [
+          "regular",
+          "regularly",
+          "regularity",
+          "regularize"
+        ],
+        "correctIndex": 1,
+        "explanation": "空格修飾過去分詞 scheduled（排定的），修飾形容詞/分詞要用副詞 regularly。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "ba177cb5-0191-45f8-b142-57989d94a4e4",
+        "type": "multiple_choice",
+        "prompt": "___ the heavy rain, the outdoor event proceeded as planned.",
+        "options": [
+          "Despite",
+          "Although",
+          "Because",
+          "However"
+        ],
+        "correctIndex": 0,
+        "explanation": "Despite + 名詞片語；Although + 子句；However 是副詞不能直接接名詞。空格後是名詞 the heavy rain，故用 Despite。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "4d3eca1e-802c-426e-a77c-bb3d22ec5a51",
+        "type": "multiple_choice",
+        "prompt": "The new software makes it much easier ___ customer data.",
+        "options": [
+          "analyze",
+          "analyzed",
+          "to analyze",
+          "analyzing"
+        ],
+        "correctIndex": 2,
+        "explanation": "make it + 形容詞 + to V 是固定句型，it 是虛受詞，真正的受詞是不定詞片語。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "48ad21fd-3891-4c35-a94c-857152de8146",
+        "type": "multiple_choice",
+        "prompt": "Ms. Chen, ___ joined the company last month, has already exceeded her sales targets.",
+        "options": [
+          "who",
+          "which",
+          "whose",
+          "whom"
+        ],
+        "correctIndex": 0,
+        "explanation": "先行詞是人（Ms. Chen）且在子句中當主詞，用關係代名詞 who。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "aaf946a9-a168-485f-b40b-271fa30ae16f",
+        "type": "multiple_choice",
+        "prompt": "The quarterly report must be reviewed ___ it is sent to the board.",
+        "options": [
+          "before",
+          "during",
+          "despite",
+          "among"
+        ],
+        "correctIndex": 0,
+        "explanation": "before 引導時間子句「在送交董事會之前」。during/despite/among 是介係詞，不能接完整子句。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "cc16b39b-1f42-44d7-8934-4f932291a4fa",
+        "type": "multiple_choice",
+        "prompt": "Employees who work overtime will receive ___ compensation.",
+        "options": [
+          "addition",
+          "additional",
+          "additionally",
+          "add"
+        ],
+        "correctIndex": 1,
+        "explanation": "空格修飾名詞 compensation，用形容詞 additional。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "4e08575e-0f1e-4d01-9ef8-0c56135d4d26",
+        "type": "multiple_choice",
+        "prompt": "If the shipment ___ on time, we would not have lost the client.",
+        "options": [
+          "arrived",
+          "had arrived",
+          "arrives",
+          "would arrive"
+        ],
+        "correctIndex": 1,
+        "explanation": "與過去事實相反的假設：If + 過去完成式（had arrived），主句用 would have + p.p.。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "ae8ffd9f-b308-4aec-bbab-e2d7d8738913",
+        "type": "multiple_choice",
+        "prompt": "The CEO's speech was both informative ___ inspiring.",
+        "options": [
+          "or",
+          "and",
+          "but",
+          "so"
+        ],
+        "correctIndex": 1,
+        "explanation": "both A and B 是固定搭配的對等連接詞。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "428038f1-4a60-4c42-8d70-bcd883d628bc",
+        "type": "multiple_choice",
+        "prompt": "___ of the two candidates has the qualifications we are looking for.",
+        "options": [
+          "Neither",
+          "Both",
+          "All",
+          "Every"
+        ],
+        "correctIndex": 0,
+        "explanation": "動詞 has 是單數 → 主詞須為單數；Neither of the two（兩者皆非）符合單數動詞。Both/All 接複數動詞。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "8c269d46-66bf-423b-840d-504aea38404c",
+        "type": "multiple_choice",
+        "prompt": "The factory has increased its output ___ 15 percent since January.",
+        "options": [
+          "by",
+          "at",
+          "with",
+          "from"
+        ],
+        "correctIndex": 0,
+        "explanation": "increase by + 幅度表示「增加了…（幅度）」。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "2efb817f-dada-40dd-bb69-785db6329214",
+        "type": "multiple_choice",
+        "prompt": "Please review the attached document and return it ___ your earliest convenience.",
+        "options": [
+          "in",
+          "at",
+          "on",
+          "for"
+        ],
+        "correctIndex": 1,
+        "explanation": "at one's earliest convenience（儘早）是商業書信固定用法。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "066c6691-3019-4632-976a-01c12040088e",
+        "type": "multiple_choice",
+        "prompt": "The training manual is intended for employees ___ are new to the accounting system.",
+        "options": [
+          "which",
+          "who",
+          "whose",
+          "where"
+        ],
+        "correctIndex": 1,
+        "explanation": "先行詞 employees 是人且當子句主詞，用 who。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "93c79723-28c6-494a-b5cf-ec48dde9d6e8",
+        "type": "multiple_choice",
+        "prompt": "Sales figures for the third quarter were ___ higher than expected.",
+        "options": [
+          "significant",
+          "significantly",
+          "significance",
+          "signify"
+        ],
+        "correctIndex": 1,
+        "explanation": "修飾比較級形容詞 higher 要用副詞 significantly。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "a3c8a3e2-866b-4971-88f6-f71a671105d8",
+        "type": "multiple_choice",
+        "prompt": "___ completing the internship program, participants will receive a certificate.",
+        "options": [
+          "Upon",
+          "During",
+          "While",
+          "Since"
+        ],
+        "correctIndex": 0,
+        "explanation": "Upon + V-ing 表示「一…就…」。While 接子句或分詞但語意（同時）不合；完成後才發證書。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "ba12194e-2877-42fd-a780-916159918919",
+        "type": "multiple_choice",
+        "prompt": "The committee has not yet decided ___ to approve the budget increase.",
+        "options": [
+          "what",
+          "whether",
+          "that",
+          "if only"
+        ],
+        "correctIndex": 1,
+        "explanation": "decide whether to V（決定是否要…）；whether 可直接接不定詞，if 不行。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "c24d4431-5f41-477d-99a8-86419a1b1e30",
+        "type": "multiple_choice",
+        "prompt": "Neither the manager nor the assistants ___ aware of the schedule change.",
+        "options": [
+          "was",
+          "were",
+          "is",
+          "has been"
+        ],
+        "correctIndex": 1,
+        "explanation": "neither A nor B 的動詞與最近的主詞一致（就近原則）：assistants 是複數 → were。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "96609e86-0432-4010-812d-c73a7dd23f99",
+        "type": "multiple_choice",
+        "prompt": "The company picnic has been postponed ___ next Friday due to the weather forecast.",
+        "options": [
+          "until",
+          "by",
+          "in",
+          "since"
+        ],
+        "correctIndex": 0,
+        "explanation": "postpone until（延到…）表示延續到新的時間點。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "64eb310a-23c1-46dd-86c2-7a32f92ecd06",
+        "type": "multiple_choice",
+        "prompt": "Applicants must submit their résumés ___ two letters of recommendation.",
+        "options": [
+          "along with",
+          "in order to",
+          "as well",
+          "instead"
+        ],
+        "correctIndex": 0,
+        "explanation": "along with + 名詞（連同…一起）。as well 放句尾；in order to 接動詞。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "5b68ff55-62b5-48e9-8aa4-3e9013af55a0",
+        "type": "multiple_choice",
+        "prompt": "The new security system is far more reliable than the ___ one.",
+        "options": [
+          "previous",
+          "previously",
+          "preview",
+          "precede"
+        ],
+        "correctIndex": 0,
+        "explanation": "修飾名詞 one 用形容詞 previous（之前的）。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "6640d9f3-ab69-42b2-8766-c91df24d6528",
+        "type": "multiple_choice",
+        "prompt": "___ signing the contract, please read the terms and conditions carefully.",
+        "options": [
+          "Before",
+          "Until",
+          "Unless",
+          "Whether"
+        ],
+        "correctIndex": 0,
+        "explanation": "Before + V-ing「在簽約之前」。分詞構句中 before 可直接接動名詞。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "44554a93-cee2-4a4a-ae6f-b88006f46255",
+        "type": "multiple_choice",
+        "prompt": "The manager asked that the report ___ submitted by noon.",
+        "options": [
+          "is",
+          "was",
+          "be",
+          "been"
+        ],
+        "correctIndex": 2,
+        "explanation": "ask/suggest/require that + S + (should) + 原形動詞（假設語氣）：that 子句用原形 be。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "babff52d-f2c0-4810-a516-0a49e5ca8c6b",
+        "type": "multiple_choice",
+        "prompt": "Our customer service representatives are trained to handle complaints ___.",
+        "options": [
+          "profession",
+          "professional",
+          "professionally",
+          "professionalism"
+        ],
+        "correctIndex": 2,
+        "explanation": "修飾動詞 handle 用副詞 professionally。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "aef0540f-115f-438e-9a87-09d1ca8489c3",
+        "type": "multiple_choice",
+        "prompt": "___ arrives at the office first should turn on the air conditioning.",
+        "options": [
+          "Whoever",
+          "Whomever",
+          "Whatever",
+          "However"
+        ],
+        "correctIndex": 0,
+        "explanation": "Whoever（任何…的人）引導名詞子句並在子句中當主詞。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "06b91af9-3125-4d0b-ba08-cb695ba159cd",
+        "type": "multiple_choice",
+        "prompt": "The seminar has been rescheduled, ___ all participants should check the new agenda.",
+        "options": [
+          "so",
+          "because",
+          "although",
+          "unless"
+        ],
+        "correctIndex": 0,
+        "explanation": "前後為因果關係：研討會改期，「所以」參加者要確認新議程，用 so。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "044ea6f4-855d-43b3-9fe4-62b154741ad3",
+        "type": "multiple_choice",
+        "prompt": "Ticket holders must present ___ identification at the entrance.",
+        "options": [
+          "they",
+          "their",
+          "them",
+          "theirs"
+        ],
+        "correctIndex": 1,
+        "explanation": "空格修飾名詞 identification，用所有格 their。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "b694dd1f-dfed-4752-b9f2-e4f3a471b225",
+        "type": "multiple_choice",
+        "prompt": "The proposal was rejected because it was ___ expensive to implement.",
+        "options": [
+          "so",
+          "very much",
+          "far",
+          "too"
+        ],
+        "correctIndex": 3,
+        "explanation": "too + adj. + to V（太…而無法…）。too expensive to implement 太貴而無法執行。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "0b10836f-8086-4715-8325-b6c9f15260de",
+        "type": "multiple_choice",
+        "prompt": "___ the merger is finalized, the two companies will operate independently.",
+        "options": [
+          "Until",
+          "By",
+          "As soon as",
+          "During"
+        ],
+        "correctIndex": 0,
+        "explanation": "「在合併定案之前」兩家公司持續獨立營運 — 持續狀態用 Until。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "40401303-4862-4f5d-bd82-b23bdb8f5246",
+        "type": "multiple_choice",
+        "prompt": "The IT department is responsible ___ maintaining the company's servers.",
+        "options": [
+          "to",
+          "for",
+          "with",
+          "of"
+        ],
+        "correctIndex": 1,
+        "explanation": "be responsible for + N/V-ing（負責…）是固定搭配。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "e6325b1f-9d49-40a5-8ce3-809c99da0df5",
+        "type": "multiple_choice",
+        "prompt": "Had we known about the traffic, we ___ earlier.",
+        "options": [
+          "would leave",
+          "left",
+          "would have left",
+          "had left"
+        ],
+        "correctIndex": 2,
+        "explanation": "Had we known = If we had known（與過去事實相反），主句用 would have + p.p.。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "946fdf65-1fef-4e58-b099-c078015afa8e",
+        "type": "multiple_choice",
+        "prompt": "The hotel offers a complimentary shuttle service ___ the airport.",
+        "options": [
+          "to",
+          "in",
+          "at",
+          "on"
+        ],
+        "correctIndex": 0,
+        "explanation": "shuttle service to + 地點（往…的接駁服務），表示方向用 to。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "be79b267-1529-4185-ad45-f089b1d9de71",
+        "type": "multiple_choice",
+        "prompt": "Ms. Patel will act as interim director ___ a permanent replacement is found.",
+        "options": [
+          "until",
+          "by the time",
+          "so that",
+          "now that"
+        ],
+        "correctIndex": 0,
+        "explanation": "「直到找到正式接任者為止」持續代理，用 until。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "c6badad2-7c15-4ecf-bdfd-7e0823ddc10e",
+        "type": "multiple_choice",
+        "prompt": "The audit revealed several ___ in the financial records.",
+        "options": [
+          "discrepancy",
+          "discrepancies",
+          "discrepant",
+          "discrepantly"
+        ],
+        "correctIndex": 1,
+        "explanation": "several + 可數名詞複數 → discrepancies（不一致之處）。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "8be6a867-dd1c-4800-8f6d-721e690e07ea",
+        "type": "multiple_choice",
+        "prompt": "Employees may park in the visitor lot ___ they obtain a permit from security.",
+        "options": [
+          "provided that",
+          "in spite of",
+          "regardless",
+          "due to"
+        ],
+        "correctIndex": 0,
+        "explanation": "provided that + 子句（只要；條件是）。in spite of / due to 接名詞。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "21af7bd9-592a-4781-86c0-cbf34f87c4ee",
+        "type": "multiple_choice",
+        "prompt": "The keynote speaker, ___ book became a bestseller, will sign copies after the talk.",
+        "options": [
+          "who",
+          "whom",
+          "whose",
+          "which"
+        ],
+        "correctIndex": 2,
+        "explanation": "表示「他的書」— 所有格關係代名詞 whose + 名詞。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "e96747e4-2f1a-4b68-8e4e-e9ffd36af45c",
+        "type": "multiple_choice",
+        "prompt": "Production costs have risen steadily ___ the past three years.",
+        "options": [
+          "over",
+          "since",
+          "from",
+          "between"
+        ],
+        "correctIndex": 0,
+        "explanation": "over the past + 期間（在過去…期間）搭配現在完成式。since 接時間起點而非期間。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "8c029af3-ffef-421e-9a05-163eab0f9d8e",
+        "type": "multiple_choice",
+        "prompt": "Please ensure that all equipment is turned off before ___ the laboratory.",
+        "options": [
+          "leave",
+          "leaving",
+          "left",
+          "to leave"
+        ],
+        "correctIndex": 1,
+        "explanation": "介係詞 before 之後接動名詞 leaving。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "10ee060a-a951-487e-afd6-16239d789dc2",
+        "type": "multiple_choice",
+        "prompt": "The company's profits doubled ___ the efficient new management structure.",
+        "options": [
+          "thanks to",
+          "in case of",
+          "as long as",
+          "even though"
+        ],
+        "correctIndex": 0,
+        "explanation": "thanks to + 名詞（多虧了；由於）表正面原因。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "ab0f42d8-3884-4939-a3f5-9aba244b6df5",
+        "type": "multiple_choice",
+        "prompt": "Neither of the printers on the third floor ___ working properly.",
+        "options": [
+          "are",
+          "is",
+          "were",
+          "have been"
+        ],
+        "correctIndex": 1,
+        "explanation": "neither of + 複數名詞當主詞時，正式用法動詞用單數 is。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "17503253-e0aa-4f61-8f80-605fdb12045e",
+        "type": "multiple_choice",
+        "prompt": "The design team presented three logo options, ___ was ultimately selected.",
+        "options": [
+          "none of which",
+          "which none",
+          "that none",
+          "none that"
+        ],
+        "correctIndex": 0,
+        "explanation": "非限定關係子句中「其中沒有一個」= none of which。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "26826471-34fa-4e51-afcc-774701d03dc7",
+        "type": "multiple_choice",
+        "prompt": "___ its compact size, the new printer produces professional-quality documents.",
+        "options": [
+          "Given",
+          "Despite",
+          "Except",
+          "Unless"
+        ],
+        "correctIndex": 1,
+        "explanation": "「儘管體積小巧」與後句形成對比，Despite + 名詞片語。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "39330ca6-ad5d-4cfa-b26c-8f2284ab4414",
+        "type": "multiple_choice",
+        "prompt": "The refund will be processed ___ five business days of receiving the returned item.",
+        "options": [
+          "within",
+          "among",
+          "during",
+          "across"
+        ],
+        "correctIndex": 0,
+        "explanation": "within + 期間（在…之內）表期限。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "a4eb9a20-17ae-4a51-badd-3e4b9ab12503",
+        "type": "multiple_choice",
+        "prompt": "Mr. Torres is considered one of the most ___ analysts in the industry.",
+        "options": [
+          "respect",
+          "respectful",
+          "respected",
+          "respecting"
+        ],
+        "correctIndex": 2,
+        "explanation": "respected（受敬重的）過去分詞當形容詞；respectful 是「恭敬的（對人有禮）」語意不合。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "a7caadaa-01fc-4d90-934e-8eda0f725774",
+        "type": "multiple_choice",
+        "prompt": "___ you have any questions about your benefits, please contact Human Resources.",
+        "options": [
+          "Should",
+          "Would",
+          "Could",
+          "Might"
+        ],
+        "correctIndex": 0,
+        "explanation": "Should you have... = If you should have...（倒裝條件句，萬一…）是正式商業書信常見句型。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "18cb8a88-f765-40e2-8926-8b674fdc0648",
+        "type": "multiple_choice",
+        "prompt": "The two firms agreed to share the development costs ___.",
+        "options": [
+          "equal",
+          "equally",
+          "equality",
+          "equalize"
+        ],
+        "correctIndex": 1,
+        "explanation": "修飾動詞 share 用副詞 equally。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "2291aea3-7719-4027-9ab6-006a8a2737a6",
+        "type": "multiple_choice",
+        "prompt": "All visitors must sign in at the front desk ___ entering the building.",
+        "options": [
+          "when",
+          "upon",
+          "while",
+          "during"
+        ],
+        "correctIndex": 1,
+        "explanation": "upon + V-ing（一…就…）：進入大樓時立即簽到。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "454d2330-8b52-4546-91a6-d03b2b022b0c",
+        "type": "multiple_choice",
+        "prompt": "The workshop was so popular that a second session ___ for next month.",
+        "options": [
+          "schedules",
+          "was scheduled",
+          "scheduling",
+          "to schedule"
+        ],
+        "correctIndex": 1,
+        "explanation": "session 是被安排的對象 → 被動語態 was scheduled。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "f82a9340-c063-43ad-b2a2-c986076fd93c",
+        "type": "multiple_choice",
+        "prompt": "Employees are encouraged to submit suggestions for ___ office efficiency.",
+        "options": [
+          "improve",
+          "improved",
+          "improving",
+          "improvement of"
+        ],
+        "correctIndex": 2,
+        "explanation": "介係詞 for 後接動名詞 improving + 受詞。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "b4e5451b-cf28-41f7-bf64-d7e5c68269ef",
+        "type": "multiple_choice",
+        "prompt": "The conference room on the fifth floor can accommodate ___ fifty people.",
+        "options": [
+          "up to",
+          "as far as",
+          "so much as",
+          "along"
+        ],
+        "correctIndex": 0,
+        "explanation": "up to + 數量（最多達…）。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "607b7a2d-ecda-47e2-8f46-49e425160636",
+        "type": "multiple_choice",
+        "prompt": "___ the report is finished, please email it to the regional office.",
+        "options": [
+          "As soon as",
+          "In addition to",
+          "In spite of",
+          "Rather than"
+        ],
+        "correctIndex": 0,
+        "explanation": "As soon as + 子句（一旦…就…）表時間。其餘選項為介係詞片語不接完整子句。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      }
+    ],
+    "tags": [],
+    "createdAt": 1785458879248,
+    "updatedAt": 1785458879248
+  },
+  "tags": []
+}

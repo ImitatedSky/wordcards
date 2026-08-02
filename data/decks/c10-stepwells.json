@@ -1,0 +1,500 @@
+{
+  "format": "english-app-vocab-deck",
+  "version": 1,
+  "data": {
+    "id": "9fba597f-e202-496d-a6ec-67ae31b736bf",
+    "name": "C10 · Stepwells",
+    "description": "由 vocab.csv 匯入（C10 / Stepwells）",
+    "language": {
+      "front": "en",
+      "back": "zh"
+    },
+    "cards": [
+      {
+        "id": "c87771b9-5dfe-47be-a792-2774b3ede2f4",
+        "front": "Fundamental (adj.)",
+        "back": "基礎的、根本的、至關重要的",
+        "example": "Water is fundamental to human survival and the development of civilisations.",
+        "notes": "【精準字義】\n形容某事非常基本，是其他所有事物的基石；或指極其重要、不可或缺（原文指階梯井在印度乾燥地區是生活中不可或缺的一部分）。\n\n【同義詞】\nEssential (adj.) 必不可少的、本質的\nCrucial (adj.) 至關重要的\nRadical (adj.) 根本的、激進的\n\n【詞性變化】\nFundamentally (adv.) 根本地、從本質上\nFundamentals (n. pl.) 基本原則、基礎",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "a23457c6-3811-4f11-b597-bd20e674bf8a",
+        "front": "Access (n./v.)",
+        "back": "接近或使用的權利/機會、通道",
+        "example": "Everyone should have equal access to high-quality higher education.",
+        "notes": "【精準字義】\n【雅思超級必考大字！】 指進入某個地方、使用某種資源（如乾淨水源、教育、醫療）的權利或途徑（原文指當地人發展出獲取乾淨地下水的方法 access to clean groundwater）。\n\n【同義詞】\nAdmission (n.) 入場權、准許進入\nApproach (n.) 接近、方法、通道\nAvailability (n.) 可獲得性、可用性\n\n【詞性變化】\nAccessible (adj.) 可接近的、可得到的（常搭配 to）\nAccessibility (n.) 可及性、便利性\n\n【易混淆】\n易混淆單字\nAssess (v.) 評估、評定（拼法極像，音標與意思完全不同！）\nExcess (n./adj.) 過量、過剩的",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "03e08743-3946-4591-a066-c1ea808278fd",
+        "front": "Utilitarian (adj.)",
+        "back": "實用的、功利主義的",
+        "example": "The building has a strictly utilitarian design, focusing on safety rather than beauty.",
+        "notes": "【精準字義】\n形容設計或發明完全是以「實用、功能性」為唯一導向，而不考慮美觀、舒適或裝飾（原文指階梯井的意義超越了實用價值 beyond its utilitarian application）。\n\n【同義詞】\nPragmatic (adj. 寫作高階字) 務實的、實事求是的\nFunctional (adj.) 功能性的、實用的\nPractical (adj.) 實用的\n\n【詞性變化】\nUtilitarianism (n.) 功利主義\nUtility (n.) 實用、效用 / 公共事業（如水電）",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "1e9c456a-6006-4ae2-8ff3-c25a5b7abfde",
+        "front": "Recedes (v. 第三人稱單數)",
+        "back": "後退、退去、變模糊（原形：revert / recede）",
+        "example": "As the floodwaters recede, the true scale of the disaster becomes clear.",
+        "notes": "【精準字義】\n指水、潮水、頭髮或記憶「逐漸往後退、遠離或減少」（原文指雨季過後，地下水源水位逐漸下降後退 as it recedes following the rains）。\n\n【同義詞】\nWithdraws (v. 還記得嗎？) 撤回、退後\nRetreats (v.) 後退、撤退\nDiminishes (v.) 減少、減弱\n\n【詞性變化】\nRecession (n. 經濟大字) 經濟衰退（原本繁榮的經濟往後退）\n\n【易混淆】\n雅思高頻字字首大混淆（都是 re- 開頭的動詞）\nRecede (v.) 後退、變弱\nRevert (v. 還記得嗎？) 回復、恢復（常接 to）\nReduce (v.) 減少、降低",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "f3cf25b2-6e1f-419d-ba3a-14bf279454aa",
+        "front": "Elaborate (adj.)",
+        "back": "精心製作的、複雜精美的 / (v.) 詳盡闡述",
+        "example": "The ancient dancers wore elaborate costumes decorated with pearls and gold.",
+        "notes": "【精準字義】\n當形容詞時（發音 /iˈlæb.ɚ.ət/），形容計畫、設計、工藝非常「複雜、細緻且充滿精心雕琢的細節」（原文形容某些階梯井設計更為複雜精美 Others are more elaborate）。當動詞時，常接 on 指詳細說明。\n\n【同義詞】\nIntricate (adj. 原文也用了這個字喔！) 錯綜複雜的、精細的\nSophisticated (adj. 還記得嗎？) 複雜精密的\nDetailed (adj.) 詳盡的\n\n【詞性變化】\nElaborately (adv.) 精心、精細地\nElaboration (n.) 精心策劃、詳盡闡述",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "147fb77c-fe76-4605-81d1-99d7a6499863",
+        "front": "Derelict (adj.)",
+        "back": "荒廢的、被拋棄的、破舊的",
+        "example": "The old factory has been derelict for years, and its windows are all broken.",
+        "notes": "【精準字義】\n專指建築物、土地或船隻因為長期沒有人使用、照顧，而變得「破爛、荒廢且處於極差狀態」（原文形容許多階梯井已乾涸荒廢 many are derelict and dry）。\n\n【同義詞】\nAbandoned (adj.) 被拋棄的、荒廢的\nDilapidated (adj. 高級字) 破舊的、倒塌的\nNeglected (adj.) 受到忽視的、缺乏照顧的\n\n【詞性變化】\nDereliction (n.) 玩忽職守、荒廢",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "f6ab6f91-cbab-4909-ae03-14bfc7b802c5",
+        "front": "Pristine (adj.)",
+        "back": "原始的、嶄新的、一塵不染的",
+        "example": "The island is famous for its pristine sand beaches and crystal clear water.",
+        "notes": "【精準字義】\n形容某物（如自然環境、古蹟）保持在最原始、最純潔、完全沒有受到破壞或污染的完美狀態（原文形容經過修復後，女王階梯井現處於 pristine condition 完好如初的狀態）。\n\n【同義詞】\nImmaculate (adj. 高級字) 潔淨的、無瑕的\nFlawless (adj.) 完美無瑕的\nUntouched (adj.) 未受破壞的、原始的",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "1a7173d7-edf8-413d-9af6-0a6444520881",
+        "front": "Ingenuity (n.)",
+        "back": "心靈手巧、獨創性、聰明才智",
+        "example": "The ancient irrigation system demonstrates the incredible ingenuity of the villagers. A bygone era (n. phr.)：一個過去的時代、逝去的歲月。 例句：These monuments serve as a reminder of a bygone era.（這些歷史遺跡讓人聯想起那段逝去的歲月。） Water table (n. phr.)：地下水位 雅思點：環境科學、地理類文章（如探討農業、地下水枯竭）的必考術語。 Dry spells (n. phr.)：乾旱期、連日不雨 解析：Spell 在這裡當名詞，指「一段持續的短暫時間」。 Silted up (phr. v.)：被泥沙淤積、堵塞 例句：The harbor became silted up following the heavy flood.（大水過後，港口被泥沙完全淤積了。） Survive an earthquake (v. phr.)：在地震中倖存（survive 後面直接接災難名詞，不加 in）。",
+        "notes": "【精準字義】\n指發明、設計新事物或解決棘手問題時，所展現出的「聰明才智與原創巧思」（原文讚嘆古代文明的智慧 remind us of the ingenuity and artistry）。\n\n【同義詞】\nInventiveness (n.) 發明才能、獨創性\nCreativity (n.) 創造力\nIntelligence (n.) 智慧、才智\n\n【詞性變化】\nIngenious (adj. 記得嗎？) 聰明的、精妙的（形容計畫或發明）\n\n【易混淆】\n世紀超級易混淆字（長得很像，字義十萬八千里！）\nIngenuity (n.) 聰明才智、獨創性（來自 ingenious）\nIndigenous (adj. 還記得嗎？) 土著的、土生土長的",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "76779413-f133-4209-9020-89ae34ca89c2",
+        "front": "Document (v.)",
+        "back": "紀錄、記載 / (n.) 文件",
+        "example": "The team travelled to remote villages to document the vanishing languages.",
+        "notes": "【精準字義】\n【雅思多義字考點！】 當名詞是文件。但在本文中是動詞，指透過拍攝、寫作、錄音等方式「詳細記錄、記載」歷史事實或科學現象。\n\n【同義詞】\nRecord (v.) 記錄、記載\nArchive (v. 高級字) 存檔、把……收集歸檔\nRegister (v.) 登記、註冊\n\n【詞性變化】\nDocumentation (n.) 紀錄影片、文獻資料\nDocumentary (n.) 紀錄片",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "6c6257b9-06d8-4449-b443-0f88b575d9a1",
+        "front": "Monument (n.)",
+        "back": "歷史遺跡、紀念碑",
+        "example": "The government allocated a large grant to preserve ancient monuments.",
+        "notes": "【精準字義】\n指為了紀念重要人物、歷史事件，或是具有極高歷史文化價值的古老「建築物、遺跡」。\n\n【同義詞】\nHistorical site (n. phr.) 歷史古蹟\nLandmark (n.) 地標、里程碑\nHeritage (n. 通常指文化遺產) 遺產\n\n【詞性變化】\nMonumental (adj.) 巨大的、具紀念意義的（寫作高級形容詞，如 a monumental achievement 偉大的成就）",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "4cca1b3d-3cce-4ccb-bd61-23b95ba57734",
+        "front": "Irrigation (n.)",
+        "back": "灌溉",
+        "example": "The newly constructed stepwell provided reliable water for crops irrigation.",
+        "notes": "【精準字義】\n農業與環境科學核心字。指透過人工修築水渠、管道，引水澆灌農田、作物的工程技術。\n\n【同義詞】\nWatering (n.) 澆水\nAqueduct (n.) 引水渠、渡槽\n\n【詞性變化】\nIrrigate (v.) 灌溉",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "c31473ba-173f-4f02-803b-29ad3a431e37",
+        "front": "Heyday (n.)",
+        "back": "全盛時期、鼎盛時期",
+        "example": "During its heyday in the 1970s, the City Pop genre dominated the music industry.",
+        "notes": "【精準字義】\n指某個人、國家、政權或某種建築技術「最繁榮、成功、最具影響力」的黃金時代（原文指 During their heyday，階梯井是村民聚集的中心）。\n\n【同義詞】\nGolden age (n. phr.) 黃金時代\nPeak / Prime (n.) 巔峰、全盛期",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "a31bd245-9c4c-4db9-82b9-7573a11314f8",
+        "front": "Comprise (v.)",
+        "back": "包含、由……組成",
+        "example": "The training program comprises both theoretical lessons and practical workouts.",
+        "notes": "【精準字義】\n學術寫作（Task 1 描述圖表組成成分、Task 2 論證）的頂級必備動詞。指某個整體「由哪些部分所構成」。\n\n【同義詞】\nConsist of (phr. v. ⚠️注意：這個片語絕無被動) 由……組成\nBe composed of (phr.) 由……組成\nConstitute / Make up (v.) 構成、組成\n\n【易混淆】\n考場常見文法錯誤\ncomprise 本身就是主動動詞，後面直接加名詞（例：The club comprises ten members.）。\n考生常把它跟 be composed of 混淆而寫成 be comprised of，雖然現代美式英語接受，但在嚴謹的雅思學術寫作中建議使用主動形態。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "d9e2230b-46fa-483c-bb98-b2c81cec52d1",
+        "front": "Relentless (adj.)",
+        "back": "持續嚴厲的、不放棄的、無情的",
+        "example": "The sales team faced relentless pressure to meet their monthly targets.",
+        "notes": "【精準字義】\n形容某種不好的狀況（如酷熱的天氣、嚴格的批評、無休止的壓力）「極其猛烈、持續不斷且毫無減弱跡象」（原文形容階梯井的涼亭能幫旅客阻擋 relentless heat 狂暴的酷熱）。\n\n【同義詞】\nUnremitting (adj. 高級字) 不停的、無休止的\nIncessant (adj.) 連續不斷的、沒完沒了的\nHarsh (adj. 還記得嗎？) 嚴酷的、惡劣的\n\n【詞性變化】\nRelentlessly (adv.) 無情地、持續不斷地",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "bb507d79-a48f-4df9-84da-fc76fb7981ff",
+        "front": "Intricate (adj.)",
+        "back": "錯綜複雜的、精細的",
+        "example": "The ancient monument is famous for its intricate stone carvings.",
+        "notes": "【精準字義】\n形容設計、圖案、系統或問題包含許多精細、交織的細節，非常「精美且複雜」。\n\n【同義詞】\nElaborate (adj. 本文孿生字) 精心製作的、複雜精美的\nSophisticated (adj.) 複雜精密的\nComplex (adj.) 複雜的\n\n【詞性變化】\nIntricately (adv.) 錯綜複雜地、精細地\nIntricacy (n.) 錯綜複雜的細節",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "c39361f9-6cf6-4ce6-913e-061d6134e014",
+        "front": "Embellish (v.)",
+        "back": "裝飾、美化 / 渲染（故事）",
+        "example": "The medieval castle walls were embellished with grand tapestries.",
+        "notes": "【精準字義】\n指藉由加上裝飾品、雕刻或細節，使建築物、物品的外觀變得更美麗、華麗（原文指 sculptures that embellish many stepwells）。在口說中也可指「添油加醋地渲染情節」。\n\n【同義詞】\nDecorate (v.) 裝飾、布置\nAdorn (v. 高級字) 裝飾、使生色\nBeautify (v.) 美化\n\n【詞性變化】\nEmbellishment (n.) 裝飾物、潤色",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "e880bfe1-e87e-4ac3-9045-b90404804530",
+        "front": "Diverted (v. 過去式)",
+        "back": "使轉向、轉移、分流（原形：divert）",
+        "example": "The budget was diverted from infrastructure to educational facilities.",
+        "notes": "【精準字義】\n指強行改變河流、交通路線、資金、注意力或資源的「前進方向」（原文指地下水被 diverted for industrial use 分流工業使用，導致階梯井乾涸）。\n\n【同義詞】\nRedirected (v.) 重新定向、轉移\nChannelled (v.) 引導、開導（水或資金）\nDistracted (v. 特指注意力被轉移) 使分心\n\n【詞性變化】\nDiversion (n.) 轉向、消遣娛樂\n\n【易混淆】\n易混淆單字\nDivorced (adj.) 離婚的",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "f7895c20-ac55-4016-b9a0-4806887df808",
+        "front": "Restoration (n.)",
+        "back": "修復、復原、恢復",
+        "example": "The architectural survey team is responsible for the restoration of historical monuments.",
+        "notes": "【精準字義】\n(註：這個字前面出現過，但它在閱讀測驗古蹟類主題中是 100% 必考的黃金答案詞，再次幫你強化！)\n\n【同義詞】\nRenovation (建築翻新)、Rehabilitation (修復、康復)",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "90fc9c91-8bf7-4498-88c5-9eac439c7001",
+        "front": "Resembles (v. 第三人稱單數)",
+        "back": "看起來像、與……相似（原形：resemble）",
+        "example": "The new digital HR platform closely resembles our old social media interface.",
+        "notes": "【精準字義】\n形容外表、外觀、特徵上跟另一個人或物「極其相似」（原文指 Surya Kund 這座階梯井 resembles a tank 看起來更像一個蓄水池）。\n\n【同義詞】\nLooks like (phr. v.) 看起來像\nMirrors (v.) 反映、與……極相似\nCorresponds to (phr. v.) 與……相對應/相似\n\n【詞性變化】\nResemblance (n.) 相似、相似之處（常見搭配：bear a striking resemblance to 與……有驚人的相似之處）\n\n【易混淆】\n易混淆單字\nAssemble (v.) 集合、組裝",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "bf9c7fde-2a68-4cfc-a737-63ff9a864c74",
+        "front": "Hallmarks (n. pl.)",
+        "back": "特點、標誌、特徵（原形：hallmark）",
+        "example": "Attention to historical detail is one of the hallmarks of this architect's work.",
+        "notes": "【精準字義】\n原本指金銀器皿上的純度印記。引申為某種建築風格、優秀品質或某人作品中最具代表性、最顯著的「品質標誌或特徵」。\n\n【同義詞】\nTrademarks (n. pl.) 商標、特徵\nCharacteristics / Features (n. pl. 還記得嗎？) 特徵 / 特色\nSignatures (n. pl.) 簽名、鮮明特色",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "40b977a5-c8ee-44be-afba-579c46e5880b",
+        "front": "Striking (adj.)",
+        "back": "驚人的、顯著的、引人注目的",
+        "example": "The contrast between the medieval castle and modern skyscrapers is very striking.",
+        "notes": "【精準字義】\n形容外觀非常漂亮、奇特，或是兩者之間的差異極大，以至於讓人「一眼看到就留下深刻印象」。\n\n【同義詞】\nRemarkable (adj.) 非凡的、顯著的\nStunning (adj. 本文也用了這個字！) 極漂亮的、令人震驚的\nConspicuous (adj. 高級字) 顯眼的、引人注目的\n\n【詞性變化】\nStrike (v./n.) 罷工、打擊\nStrikingly (adv.) 顯著地、驚人地",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "8f519871-d947-4c1e-8575-ca9653bb3704",
+        "front": "Neglect (n./v.)",
+        "back": "疏忽、忽略、疏於照顧",
+        "example": "The historical building fell into disrepair due to decades of municipal neglect.",
+        "notes": "【精準字義】\n指因為不小心、不負責任或故意放任，而「沒有給予應有的照顧、關注或維護」（原文指 following years of neglect，許多階梯井終於被救了回來）。\n\n【同義詞】\nAbandonment (n.) 拋棄、放任\nOverlook (v. 還記得嗎？這是動詞形式的漏看) 忽略\nDisregard (n./v.) 漠視、不理會\n\n【詞性變化】\nNegligent (adj.) 疏忽的、玩忽職守的",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "b2fd89d0-f3e2-4afa-af83-cbd292af960b",
+        "front": "Civilisations / Civilizations (n. pl.)",
+        "back": "文明、文明世界（原形：civilisation",
+        "example": "Water resource management was fundamental to the survival of ancient civilisations.",
+        "notes": "【精準字義】\n指人類社會發展到較高階段，在文化、科技、政治和藝術上取得高度成就的社會形態（如古代印度文明）。\n\n【同義詞】\nSocieties (n. pl.) 社會\nCultures (n. pl.) 文化\n\n【詞性變化】\nCivilize (v.) 使文明、開化\nCivil (adj.) 公民的、民事的",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "6ca6b0c1-fb53-441d-867d-88909b6fe952",
+        "front": "Spectacular (adj.)",
+        "back": "壯觀的、雄偉的、令人驚嘆的",
+        "example": "The sunrise over the ancient temple was absolutely spectacular.",
+        "notes": "【精準字義】\n形容景象、表演或建築非常壯麗、宏偉，給人帶來極大的視覺震撼（原文指 document these spectacular monuments 記錄這些壯觀的古蹟）。\n\n【同義詞】\nBreathtaking (adj.) 激動人心的、美到令人窒息的\nMagnificent (adj. 還記得嗎？) 宏偉的、壯麗的\nGrand (adj.) 宏大的、堂皇的\n\n【詞性變化】\nSpectacle (n.) 奇觀、壯觀場面 / Spectacles (n. pl.) 眼鏡\nSpectacularly (adv.) 壯觀地、驚人地",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "85551a9e-0cad-4576-a599-4f96313964b9",
+        "front": "Geometrical / Geometric (adj.)",
+        "back": "幾何圖形的、幾何學的",
+        "example": "The modern art gallery features a unique geometrical design with clean lines.",
+        "notes": "【精準字義】\n形容形狀、線條、圖案由圓形、方形、三角形等規則的幾何圖形構成，非常有規律與對稱美（原文形容階梯井的樓梯呈現 stunning geometrical formation 迷人的幾何構造）。\n\n【詞性變化】\nGeometry (n.) 幾何學\nGeometrically (adv.) 幾何學上地、成幾何級數地",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "6a8d953d-3288-4c2f-8ff0-6485336e28e9",
+        "front": "Formation (n.)",
+        "back": "構造、形成、排列、隊形",
+        "example": "The tourists marveled at the spectacular rock formations along the coastline.",
+        "notes": "【精準字義】\n指某物經過自然演變或刻意排列後，所呈現出的特定「結構、外形」；在地理學上指岩層或地形。\n\n【同義詞】\nStructure (n.) 結構、建築物\nArrangement (n. 還記得嗎？) 排列、安排\nConfiguration (n. 高級學術字) 結構、配置\n\n【詞性變化】\nForm (v.) 形成 / (n.) 表格、外形",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "c8f730ac-2b6a-409d-a2d9-6617a9cfd852",
+        "front": "Terraces (n. pl.)",
+        "back": "平台、梯田、露臺（原形：terrace）",
+        "example": "The hotel rooms featured open terraces overlooking the oceanfront.",
+        "notes": "【精準字義】\n指在一整片斜坡上，刻意修築出的一層層平坦的「階梯式平台、平地」（原文指階梯井側邊一層層的露臺 The terraces house 108 small... shrines）。\n\n【同義詞】\nPlatforms (n. pl.) 平台\nTiers (n. pl. 原文也用了這個字喔！) 層、階層",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "994e4095-df4c-41b7-a439-1e72a40bcb0a",
+        "front": "Pattern (n.)",
+        "back": "圖案、模式、規律",
+        "example": "The zigzagging steps of the stepwell create a striking pattern from afar.",
+        "notes": "【精準字義】\n指由線條、顏色或形狀重複出現所構成的「裝飾圖案」；在學術中指事情發展的「固定模式、規律」。\n\n【同義詞】\nDesign / Motif (n.) 設計 / （裝飾的）主題圖案\nTrend / Model (n.) 趨勢 / 模型、模式",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "b0c2be3e-4617-4a9d-9c61-c1337b7b776b",
+        "front": "Worship (n./v.)",
+        "back": "崇拜、敬神、祈禱、禮拜",
+        "example": "Ancient civilisations built magnificent temples for the worship of the sun god.",
+        "notes": "【精準字義】\n指對神明表達極大的敬意與崇拜，進行宗教儀式；或是盲目崇拜某人（原文指階梯井是 villagers 進行 worship 祭祀神明的地方）。\n\n【同義詞】\nReverence (n./v. 高級字) 尊敬、崇敬\nVeneration (n. 還記得嗎？) 尊敬、崇拜\nAdoration (n.) 狂熱的愛慕、崇拜",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "1fd3a1f4-f2e2-4b4e-8d8f-59281bce9bb7",
+        "front": "Shrines (n. pl.)",
+        "back": "神龕、聖地、小神廟（原形：shrine）",
+        "example": "Local residents regularly place fresh flowers at the street shrines.",
+        "notes": "【精準字義】\n指供奉神像、聖物或紀念神聖人物的「小型神龕、祭壇、聖地」（原文指階梯之間建有 108 small, intricately carved shrines 108座雕刻精美的小神龕）。\n\n【同義詞】\nAltars (n. pl.) 祭壇\nSanctuaries (n. pl. 雅思環境/宗教大字) 避難所 / 聖殿、神聖場所\nTemples (n. pl.) 寺廟",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "709e5486-575f-4151-9e5b-d71629516885",
+        "front": "Inhabitants (n. pl.)",
+        "back": "居民、棲息者（原形：inhabitant）",
+        "example": "The inhabitants of the island relied heavily on fishing for their livelihoods.",
+        "notes": "【精準字義】\n【雅思聽力、閱讀超級核心大字！】 專指長期居住在某個國家、城市、地區的人或動物（原文指 the inhabitants of the modern-day states 當地居民）。\n\n【同義詞】\nResidents / Dwellers (n. pl.) 居民（如 urban dwellers 都市居民）\nCitizens (n. pl.) 市民、公民\nOccupants (n. pl.) 居住者、佔用者\n\n【詞性變化】\nInhabit (v. 還記得嗎？) 居住於、棲息於\nHabitat (n. 靈熊主題核心字！) 棲息地",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "f9ecad96-8b75-4453-bade-52f86ecc3a63",
+        "front": "Descend (v. 常搭配 to / from)",
+        "back": "下降、下來、走下去",
+        "example": "Visitors must descend 170 stone steps to reach the deepest water source.",
+        "notes": "【精準字義】\n指沿著樓梯、斜坡、道路「由高處往低處移動」的學術大字。相反詞為 Ascend（上升、走上去）。\n\n【同義詞】\nGo down / Decline (v.) 下去 / 下降\nPlunge (v. 常用於數據暴跌) 驟降、猛跌\n\n【詞性變化】\nDescendant (n. ⚠️注意拼字！常考）後代、子孫（從祖先一代代傳下來的人）\nDescent (n.) 下降、血統\n\n【易混淆】\n易混淆單字\nDefend (v.) 防禦、辯護",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "adeee97b-c476-40d6-b897-883e6a337344",
+        "front": "Sheltered (adj./v. 過去式)",
+        "back": "受保護的、提供遮蔽的（原形：shelter）",
+        "example": "The old pavilion provided a sheltered area for travellers during the rainstorm.",
+        "notes": "【精準字義】\n指受到建築、硬體結構或外力遮擋，免受狂風、暴雨、酷熱或危險侵襲的狀態。\n\n【同義詞】\nShielded (adj.) 受到保護的、被遮擋的\nProtected (adj.) 受到保護的\nShaded (adj. 特指被遮陽的) 蔽蔭的\n\n【詞性變化】\nShelter (n./v.) 避難所、遮蔽 / 提供遮蔽",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "e0191879-8d9b-494b-8163-feffe9074314",
+        "front": "Elaborate (adj.)",
+        "back": "精心製作的、複雜精美的 / (v.) 詳盡闡述",
+        "example": "形容詞用法：The ancient passage of the stepwell features an elaborate architectural design. 動詞用法：Could you please elaborate on your research methodology?",
+        "notes": "【精準字義】\n當形容詞時（發音 /iˈlæb.ɚ.ət/）：形容計畫、設計、工藝、衣服或系統包含了大量精心雕琢的細節，非常「複雜、細緻且耗費心血」。 當動詞時（發音 /iˈlæb.ə.reɪt/）：常用於學術或口說，後面常接 on，意為「進一步詳細說明、闡述、補充細節」。\n\n【同義詞】\nIntricate (adj.) 錯綜複雜的、精細的\nDetailed (adj.) 詳盡的\nExpand on (phr. v. 對應動詞詞性) 闡述、擴充（觀點）\n\n【詞性變化】\nElaborately (adv.) 精心、精細地\nElaboration (n.) 精心策劃、詳盡闡述\n\n【易混淆】\n易混淆單字\nCollaborate (v.) 合作、協作（字首多了 col-）\nEvaporate (v.) 蒸發、消失",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "79fe9c51-fac5-44d9-9a9d-963f742b966a",
+        "front": "Stunning (adj.)",
+        "back": "極漂亮的、令人震驚的、絕美的",
+        "example": "The sets of steps descend to the bottom in a stunning geometrical formation.",
+        "notes": "【精準字義】\n原本的動詞 stun 是指「把人打暈、使人震驚」。轉為形容詞後，形容某個景觀、外貌、服飾或成就「漂亮或傑出到讓人目瞪口呆、瞬間失去思考能力」，比一般的 beautiful 強烈很多。\n\n【同義詞】\nSpectacular (adj.) 壯觀的、雄偉的（特別形容宏偉的景觀或古蹟）\nStriking (adj.) 驚人的、引人注目的（因為對比強烈或新奇而吸引人）\nBreathtaking (adj.) 美到令人窒息的\nAstonishing (adj.) 令人震驚的、驚人的\n\n【詞性變化】\nStun (v.) 使震驚、使目瞪口呆\nStunningly (adv.) 絕美地、令人震驚地",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "8c3fd084-9748-4db5-a008-45cbc7e76cbc",
+        "front": "Intricately (adv.)",
+        "back": "錯綜複雜地、精細地",
+        "example": "The stone terraces house 108 small, intricately carved shrines.",
+        "notes": "【精準字義】\n形容做事、雕刻、編織或運作時，將無數細小的零件、線條或情節「交織、組合得極其細密且複雜」。在雅思中，它是用來形容「手工藝、石雕（carved）、構造」最頂級的副詞。\n\n【同義詞】\nElaborately (adv.) 精心製作地、精細地\nComplexly (adv.) 複雜地\nMeticulously (adv.) 一絲不苟地、極其細緻地\n\n【詞性變化】\nIntricate (adj.) 錯綜複雜的、精細的\nIntricacy (n.) 錯綜複雜的細節、複雜性",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "7a9b1d24-cd39-4dc1-b08a-5206b0ef6f4f",
+        "front": "Ingenuity (n.)",
+        "back": "聰明才智、獨創性、原創巧思",
+        "example": "These architectural marvels serve as a reminder of the ingenuity of ancient civilisations.",
+        "notes": "【精準字義】\n指在發明、設計新事物或解決棘手問題時，所展現出的「聰明才智、原創巧思與心靈手巧」。這個字在雅思閱讀中，常用來讚嘆古代文明的工程智慧或科學家的創新能力。\n\n【同義詞】\nInventiveness (n.) 發明才能、獨創性\nCreativity (n.) 創造力\nResourcefulness (n.) 足智多謀、善於隨機應變的能力\n\n【詞性變化】\nIngenious (adj. ⚠️注意：它的形容詞字尾是 -ious，長得很像 genius 天才，意思也是形容計畫或發明很精妙）\n\n【易混淆】\n考場魔鬼易混淆字（拼法極像，意思完全無關！）\nIngenuity (n.) 聰明才智、獨創性（來自 ingenious）\nIndigenous (adj.) 土著的、土生土長的（例：indigenous culture 原住民文化）\nIngenuous (adj. 高級字) 純樸的、天真的、缺乏世故的",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      }
+    ],
+    "tags": [],
+    "createdAt": 1783253787314,
+    "updatedAt": 1783253787314
+  },
+  "tags": []
+}

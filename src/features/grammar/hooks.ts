@@ -1,5 +1,10 @@
 import { useCallback, useEffect, useState } from 'react'
-import type { Quiz, Question } from '@/types/quiz'
+import type {
+  Quiz,
+  Question,
+  MultipleChoiceQuestion,
+  FillInBlankQuestion,
+} from '@/types/quiz'
 import { useStorage } from '@/storage/useStorage'
 import { newQuiz } from './factories'
 
@@ -91,7 +96,12 @@ export function useQuiz(quizId: string | undefined) {
   )
 
   const updateQuestion = useCallback(
-    async (questionId: string, patch: Partial<Omit<Question, 'id' | 'stats' | 'type'>>) => {
+    async (
+      questionId: string,
+      patch:
+        | Partial<Omit<MultipleChoiceQuestion, 'id' | 'stats' | 'type'>>
+        | Partial<Omit<FillInBlankQuestion, 'id' | 'stats' | 'type'>>,
+    ) => {
       await persist((q) => ({
         ...q,
         questions: q.questions.map((item) =>

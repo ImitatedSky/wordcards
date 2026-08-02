@@ -1,0 +1,643 @@
+{
+  "format": "english-app-vocab-deck",
+  "version": 1,
+  "data": {
+    "id": "14144ab1-b281-4239-84be-72ff93a1855c",
+    "name": "C5 · Johnson’s Dictionary",
+    "description": "由 vocab.csv 匯入（C5 / Johnson’s Dictionary）",
+    "language": {
+      "front": "en",
+      "back": "zh"
+    },
+    "cards": [
+      {
+        "id": "259b0ea8-c869-4b65-b56e-21d754eba027",
+        "front": "Circumscribe (v.)",
+        "back": "限制、約束、劃定界線",
+        "example": "The power of the monarch was strictly circumscribed by the new constitution.",
+        "notes": "【精準字義】\n字根 circum- 意為「環繞」，scribe 意為「寫/畫」。指在周圍劃一條線以「限制、約束」某事物的範圍（原文指中產階級渴望劃定並征服不同的世界 circumscribe the various worlds to conquer）。\n\n【同義詞】\nRestrict / Confine (v.) 限制、侷限\nLimit (v.) 限制\nBoundary (n. 對應概念) 邊界\n\n【詞性變化】\nCircumscription (n.) 限制、劃定界線\n\n【易混淆】\n雅思高頻字字首字根大對決（都是 scribe 家族）\nCircumscribe (v.) 限制、約束\nPrescribe (v. 還記得嗎？) 規定、開處方（字首 pre- 在前）\nDescribe (v.) 描述、描寫\nSubscribe (v.) 訂閱、同意",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "ebb4f5e5-9f72-40c5-bc5a-c420de2331d5",
+        "front": "Settle (v.)",
+        "back": "解決（爭端）、定居、確定",
+        "example": "The HR business partner managed to settle the dispute between the two departments.",
+        "notes": "【精準字義】\n【雅思多義字高頻考點！】 日常生活中指「定居」。但在學術與商務中，指「解決、平息（爭議、衝突或問題）」（原文指強森博士認為他不需要科學院來解決語言爭端 settle arguments about language）。\n\n【同義詞】\nResolve (v. 還記得嗎？) 解決、消除（歧見）\nConciliate (v. 高級字) 調解、安撫\nConclude (v.) 結束、達成協議\n\n【詞性變化】\nSettlement (n.) 協議、定居點（在法律和人資上常指「和解協議、還款計畫」）",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "c238f129-dee5-4a6c-a078-239e2b829ddb",
+        "front": "Instalments / Installments (n. pl.)",
+        "back": "分期付款 / （連載、連環劇的）一集",
+        "example": "She decided to pay for her master's tuition fee in monthly instalments.",
+        "notes": "【精準字義】\n指將一筆龐大的金額拆分成若干次、在不同時間點固定支付的「分期付款」（原文指強森博士獲得 1,575 英鎊的分期酬勞 paid in instalments）。\n\n【同義詞】\nPartial payments (n. pl.) 部分付款\nStaggered payments (n. pl. 高級字) 錯開付款、分期付款",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "6688cf0e-172a-4240-9f45-7d4b8725e1c5",
+        "front": "Synthesis (n.)",
+        "back": "綜合、合成、融合體",
+        "example": "Her thesis presents a brilliant synthesis of traditional and modern HR management methods.",
+        "notes": "【精準字義】\n學術寫作的核心高階字。指將不同的觀點、事實、物質或元素「有機地結合、融入為一個全新的整體」（原文形容這本詞典是英雄史詩般的集大成之作 a work of heroic synthesis）。\n\n【同義詞】\nCombination (n.) 結合、組合\nIntegration (n. 還記得嗎？) 整合、一體化\nAmalgamation (n. 高級學術字) 合併、混合\n\n【詞性變化】\nSynthesize (v.) 綜合、合成（寫作高階動詞，如 synthesize different theories 綜合不同理論）\nSynthetic (adj.) 人造的、合成的（例：synthetic fibers 合成纖維）",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "1cdaf945-4663-480e-8f79-48770598bb6a",
+        "front": "Precedent (n.)",
+        "back": "先例、前例、判例",
+        "example": "The judge's decision set an important precedent for future environmental protection cases.",
+        "notes": "【精準字義】\n法律與公共行政大字。指過去曾經發生過、可以作為後人處理類似事件之「參考依據或標準的先例」（原文指強森博士根據英國習慣法的原則——依循先例來撰寫定義 according to precedent）。\n\n【同義詞】\nPrevious example (n. phr.) 先前的例子\nCriterion (n. 單數形式) 標準、準則\nBenchmark (n.) 基準、標竿\n\n【詞性變化】\nPrecede (v. 還記得嗎？) 在……之前發生、先於\nUnprecedented (adj. ⚠️寫作頂級形容詞！) 史無前例的、空前的\n\n【易混淆】\n易混淆單字\nPresident (n. 拼法極像！) 總統、總裁、校長",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "f72915d3-e683-49ed-9a17-569a059141b5",
+        "front": "Rivalled / Rivaled (v. 過去式)",
+        "back": "與……匹敵、比得上（原形：rival）",
+        "example": "The natural beauty of National Kaohsiung University's campus is rivalled by few others.",
+        "notes": "【精準字義】\n指在品質、能力、成就或規模上非常優秀，以至於「可以與另一個人或物相提並論、不相上下」（原文指詞典出版後，一個多世紀以來都沒有受到認真的對手挑戰 was not seriously rivalled）。\n\n【同義詞】\nMatched (v. 原文也用了這個字喔！) 匹敵、相配\nCompeted with (phr. v.) 與……競爭\nEqualled (v.) 等同、比得上\n\n【詞性變化】\nRival (n.) 競爭對手 / (adj.) 競爭的\nUnrivalled (adj. 高階形容詞) 無雙的、無與倫比的",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "11286ecd-5769-4bc9-b359-fd35f8747b1c",
+        "front": "Perpetual (adj.)",
+        "back": "永恆的、長期的、不間斷的",
+        "example": "This noble work will remain a perpetual monument of fame to the author.",
+        "notes": "【精準字義】\n形容某事將會「永遠持續存在、永不終結」，或頻繁重複到讓人覺得沒有盡頭。\n\n【同義詞】\nEverlasting / Eternal (adj.) 永恆的、永久的\nPermanent (adj. 還記得嗎？) 永久的、固定的\nContinuous (adj.) 持續不斷的\n\n【詞性變化】\nPerpetuate (v. 高級學術字) 使永恆、使不朽（通常指使不好的制度、觀念延續下去）\nPerpetually (adv.) 永恆地、常常",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "dd4adc5f-3892-41b3-9754-7f48df0fd4a7",
+        "front": "Cornerstone (n.)",
+        "back": "基石、奠基石",
+        "example": "Trust and cross-cultural communication are the cornerstones of a successful global internship. Single-handed / Single-handedly (adj./adv.)：獨力地、單槍匹馬地。 雅思點：聽力與口說中，用來形容某人沒有靠外部幫助、全憑一己之力完成宏偉目標。 Shades of meaning (n. phr.)：含義的細微差別、字義的陰影 解析：Shade 在這裡指細微的差異、色調的深淺。用來形容語言中字詞精妙的同義替換。 Vicissitudes (n. pl. 殿堂級學術大字)：盛衰興敗、人生的波折、變遷。 原文：“After many vicissitudes the Dictionary was finally published...”（歷經無數波折後，這本詞典終於出版了。） Conferred stability on... (v. phr.)：賦予……穩定性。 解析：【學術頂級動詞搭配！】 Confer 在雅思中常搭配 on，意為「授予、賦予（權力、榮譽、穩定性或好處）」。 Prevail upon (phr. v. 高級正式字)：說服、勸說（某人做某事）。 例句：His friends were able to prevail upon the King to offer him a pension.（他的朋友們成功說服了國王為他提供年金。）",
+        "notes": "【精準字義】\n原本指建築物基座最關鍵的那塊角落石頭。引申為某個理論、政策、制度或學術領域中「最核心、最不可或缺的基礎或依據」（原文形容這本詞典是標準英語的基石 the cornerstone of Standard English）。\n\n【同義詞】\nFoundation (n.) 基礎、地基\nCore / Pillar (n.) 核心 / 支柱\nBedrock (n. 頂級學術換詞) 岩床、根基",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "061726b7-ecb3-44a3-b222-ccc24f24a5b0",
+        "front": "Chaos (n.)",
+        "back": "混亂、無秩序狀態",
+        "example": "The new management system successfully brought order to the chaos of the department.",
+        "notes": "【精準字義】\n形容一種完全沒有條理、規則、法律或控制，導致人事物極度混亂、失控的狀態。在雅思中常考「亂中求序」或「環境/社會陷入混亂」的語境。\n\n【同義詞】\nDisorder (n.) 混亂、無秩序\nTurmoil (n. 高級字) 騷動、混亂（常指政治或情緒上的混亂）\nAnarchy (n. 高級字) 無政府狀態、無法無天\n\n【詞性變化】\nChaotic (adj.) 混亂的、無秩序的（例：a chaotic traffic system 混亂的交通系統）\n\n【易混淆】\n易混淆單字\nChasm (n. 高級字) 峽谷 / 巨大的分歧",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "c803bcbc-f4dd-4692-a5f6-5ac8fb32582c",
+        "front": "Compiled (v. 過去式)",
+        "back": "編纂、彙編、收集（原形：compile）",
+        "example": "The research assistant compiled data from various academic journals to support the thesis.",
+        "notes": "【精準字義】\n指耗費大量時間與精力，將來自不同書籍、報告、數據庫或來源的資訊，經過有系統的整理、篩選後「匯集成一本新書、一份報告或一個清單」。\n\n【同義詞】\nAssembled (v.) 聚集、收集、組裝\nAccumulated (v.) 累積、積聚\nGathered (v.) 收集、聚集\n\n【詞性變化】\nCompilation (n.) 編輯物、精選輯、彙編\nCompiler (n.) 編纂者 / 【電腦】編譯器",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "1375c185-69e5-48db-a2bf-5760aa855b83",
+        "front": "Concentrate (v. 常搭配 on)",
+        "back": "專注於、集中於 / 濃縮",
+        "example": "To prepare for the IELTS exam, she decided to concentrate entirely on academic writing.",
+        "notes": "【精準字義】\n指將所有的注意力、精力、思考或資源，完全投注、鎖定在某一個特定的焦點或活動上；在科學上指提高液體的濃度。\n\n【同義詞】\nFocus (v.) 專注、聚焦（常搭配 on）\nCenter (v.) 集中、以……為中心（常搭配 on/around）\nCondense (v. 特指濃縮、壓縮文字或液體)\n\n【詞性變化】\nConcentration (n.) 專注、集中 / 濃度（例：high concentration of carbon dioxide 高濃度的二氧化碳）",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "e92af8c8-d538-494f-81f9-fc27a32c4fd6",
+        "front": "Convey (v.)",
+        "back": "傳達、表達、傳遞（思想、印象或情感）",
+        "example": "The graphics and tables in the report help to convey complex data clearly.",
+        "notes": "【精準字義】\n指利用言語、文字、手勢或圖表，將自己大腦中的想法、感受、內在資訊，成功地「傳遞給他人並讓對方完全理解」。\n\n【同義詞】\nCommunicate (v.) 傳達、交流\nExpress (v.) 表達\nTransmit (v. 偏科技，指傳送訊號、播散疾病或傳遞知識)\n\n【詞性變化】\nConveyance (n.) 運輸、表達 / 交通工具\n\n【易混淆】\n易混淆單字\nConvoy (n./v.) 護送、護航隊",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "eb57dc72-acee-4daf-8abb-97bdfd00c11a",
+        "front": "Critic (n.)",
+        "back": "評論家、批評者",
+        "example": "As a literary critic, Dr Johnson wrote many influential essays that shaped public taste.",
+        "notes": "【精準字義】\n專指對文學作品、藝術、電影、音樂或政府社會政策進行專業評估、深入分析，並公開發表反對意見或讚賞評論的專業人士。\n\n【同義詞】\nReviewer (n.) 評論員（通常指寫書評、影評的人）\nEvaluator (n.) 評估者、考評員\nDetractor (n. 高級字) 惡意批評者、貶低者\n\n【詞性變化】\nCritical (adj.) 關鍵的、批判性的 / Criticism (n.) 批評、評論 / Criticize (v.) 批評、指責\n\n【易混淆】\n詞性字外型大混淆（上考場極容易看錯！）\nCritic (n.) 評論家（指「人」）\nCritique (n. ⚠️發音與拼法不同) 評論文章、學術評論（指「物」）",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "fa8829cb-186f-46fb-a20c-791688213d09",
+        "front": "Garret (n.)",
+        "back": "閣樓、頂樓小套房",
+        "example": "The impoverished artist spent years painting masterpieces in a small, cold garret.",
+        "notes": "【精準字義】\n通常指舊式、傳統建築物屋頂正下方、空間非常狹小、昏暗且通常較為簡陋寒冷的閣樓空間（歷史傳記中常形容窮苦文人或藝術家工作的地方）。\n\n【同義詞】\nAttic (n.) 閣樓（最常見的普通字）\nLoft (n.) 閣樓、夾層、工廠改建的挑高公寓",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "34e60f9e-0108-4121-9cb7-c91b6f4e33ba",
+        "front": "Rickety (adj.)",
+        "back": "搖搖晃晃的、不穩固的、快要散架的",
+        "example": "He sat on a rickety wooden chair that creaked loudly every time he moved.",
+        "notes": "【精準字義】\n形容椅子、桌子、床、樓梯或老舊的建築結構，因為時間久遠、破損、結構鬆動而「非常不牢固、稍微用力就會搖晃或倒塌」。\n\n【同義詞】\nShaky / Unstable (adj.) 搖晃的 / 不穩定的\nDilapidated (adj. 還記得嗎？) 破舊的、倒塌的\nDecrepit (adj. 高級字) 衰老的、破舊的、衰弱的",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "a0cb66e6-294e-4417-af4d-f3636093f8f6",
+        "front": "Immense (adj.)",
+        "back": "巨大的、無限的、極大的",
+        "example": "The research project was an immense success, generating great profile for the university.",
+        "notes": "【精準字義】\n形容面積、規模、工作量、數量、價值或程度「超乎想像地巨大、浩瀚」，遠遠超出一般標準。\n\n【同義詞】\nEnormous / Massive (adj.) 巨大的、龐大的\nVast (adj.) 廣闊的、巨大的（常用於土地、海洋、知識）\nTremendous (adj.) 極大的、極好的\n\n【詞性變化】\nImmensely (adv.) 極其、非常（例：immensely helpful 非常有幫助）\nImmensity (n.) 巨大、無限、浩瀚\n\n【易混淆】\n易混淆單字\nImminent (adj. 高級字) 即將發生的、逼近的（例：imminent danger 迫在眉睫的危險）",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "4694cbbc-a63c-4d90-ba0c-e48c71e9b4cf",
+        "front": "Illustrated (v. 過去式)",
+        "back": "說明、闡明、插圖（原形：illustrate）",
+        "example": "The speaker illustrated his academic point with a fascinating cross-cultural case study.",
+        "notes": "【精準字義】\n指利用具體的例子、實驗引文、圖表、照片或生動的故事，來「清晰地解釋、證明或說明一個抽象的概念或字義」；也指為書籍畫插圖。\n\n【同義詞】\nDemonstrated (v.) 證明、展示\nExemplified (v. 高級學術字) 舉例說明、作為……的範例\nClarified (v. 還記得嗎？) 闡明、澄清\n\n【詞性變化】\nIllustration (n.) 插圖、實例說明 / Illustrative (adj.) 解釋性的、說明的",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "a05c4de2-c5f4-4898-84a6-8518b825ee65",
+        "front": "Predecessors (n. pl.)",
+        "back": "前任、前輩、被取代的原有事物（原形：predecessor）",
+        "example": "The new digital HR platform is far more flexible and stable than its predecessor.",
+        "notes": "【精準字義】\n指在某個職位或工作上比你更早任職的人（前任）；或是某個科技、書籍、制度在發展進化過程中的「前身、前代產品」。\n\n【同義詞】\nForerunners / Precursors (n. pl. 高級學術字) 先驅、前身\nAncestors (n. pl.) 祖先、祖代\n\n【易混淆】\n世紀死敵反義詞（雅思聽力閱讀極常對決）\nPredecessor (n.) 前任、前身\nSuccessor (n.) 繼任者、後繼之物（字根來自 succeed 繼承/成功）",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "eed64f83-febb-4188-8d79-c414c509d350",
+        "front": "Perpetual (adj.)",
+        "back": "永恆的、長期的、不間斷的",
+        "example": "This noble dictionary will remain a perpetual monument of fame to the author.",
+        "notes": "【精準字義】\n形容某種狀態、名聲、處境或動作將會「永遠持續存在、永不終結」，或頻繁重複到讓人覺得沒有盡頭。\n\n【同義詞】\nEternal / Everlasting (adj.) 永恆的、永久的\nPermanent (adj.) 永久的、固定的\nIncessant (adj. 還記得嗎？) 連續不斷的、沒完沒了的\n\n【詞性變化】\nPerpetuate (v. 高級學術字) 使永恆、使殘留、使（壞制度/錯誤觀念）延續下去\nPerpetually (adv.) 永恆地、常常",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "42150c02-f111-4a9c-a87f-73d7a4ac6fd6",
+        "front": "Patronage (n.)",
+        "back": "贊助、資助、光顧",
+        "example": "Without the financial patronage of wealthy nobles, many medieval artists could not survive.",
+        "notes": "【精準字義】\n歷史義：古時指國王、貴族、富豪對藝術家、作家或學者的「金錢資助與政治庇護」。 商務義：現代指老顧客、常客對某家商店、飯店或企業的「固定光顧、惠顧」。\n\n【同義詞】\nSponsorship (n.) 贊助、主辦\nBacking / Support (n.) 後盾 / 支持\nCustom / Business (n. 對應商務光顧義) 惠顧、光顧\n\n【詞性變化】\nPatron (n.) 贊助人、老顧客 / Patronize (v.) 资助、光顧 / 擺出高人一等的傲慢姿態",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "16164feb-8aef-43a3-b699-096c944c48dc",
+        "front": "Obscurities (n. pl.)",
+        "back": "默默無聞、模糊、晦澀（原形：obscurity）",
+        "example": "The brilliant young poet rose from complete obscurity to worldwide fame in just one year.",
+        "notes": "【精準字義】\n指不為人知、完全沒有名氣的「默默無聞狀態」；在語言學中指文字、概念含糊不清、極難被人理解的特性。\n\n【同義詞】\nAnonymity (n.) 匿名、不具名、默默無聞\nVagueness / Ambiguity (n.) 含糊、模糊、模稜兩可\n\n【詞性變化】\nObscure (adj.) 鮮為人知的、模糊的 / (v.) 使模糊、遮掩、掩蓋",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "a14cb048-fd67-46da-a47c-40070a1260ac",
+        "front": "Distraction (n.)",
+        "back": "分心、分神、干擾物 / 消遣娛樂",
+        "example": "Working or writing an essay from home can be difficult if there are too many distractions.",
+        "notes": "【精準字義】\n指任何會中斷你的思緒、分散你的注意力，讓你無法專注於當前核心工作的「外部人事物」；引申也可以指讓人暫時放鬆、忘記煩惱的娛樂消遣。\n\n【同義詞】\nInterruption (n.) 干擾、中斷\nDiversion (n.) 轉向、消遣娛樂、娛樂活動\nDisturbance (n.) 打擾、騷動\n\n【詞性變化】\nDistract (v.) 使分心、干擾、轉移（注意力）",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "0a26e2fb-697e-498d-8e85-7c7a8142c591",
+        "front": "Eccentricities (n. pl.)",
+        "back": "古怪之處、怪癖、異乎尋常（原形：eccentricity）",
+        "example": "The brilliant professor was deeply loved by his graduate students despite his many eccentricities.",
+        "notes": "【精準字義】\n指一個人的行為、生活習慣或性格特徵與常人不同，顯得「奇特、古怪、不落俗套」，但通常是指有趣、無害的怪癖。\n\n【同義詞】\nPeculiarities (n. pl.) 獨特之處、怪癖\nQuirks (n. pl.) 怪癖、奇癖\nOddities (n. pl.) 怪事、怪人、奇特之處\n\n【詞性變化】\nEccentric (adj.) 古怪的、異常的 / (n.) 行為古怪的人",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "5f7cc259-dfe4-4b11-a841-afe1615a840b",
+        "front": "Regulating (v. 現在分詞)",
+        "back": "規範、管理、調節（原形：regulate）",
+        "example": "The local council is fully responsible for regulating the transport facilities in the city.",
+        "notes": "【精準字義】\n指透過制定法律、官方規則、機制或嚴格標準，來「約束、控制、管理或規範」某個行業、市場的運作，或使系統結構標準化。\n\n【同義詞】\nGoverning (v.) 統治、管理、支配\nStandardizing (v.) 使標準化、使合規格\nControlling (v.) 控制\n\n【詞性變化】\nRegulation (n.) 法規、規定 / Regulatory (adj.) 監管的、規範的（例：regulatory bodies 監管機構）",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "7b3b161e-dea9-4115-88ea-46598eee0b0b",
+        "front": "Ascertaining (v. 現在分詞)",
+        "back": "查明、確定、弄清（原形：ascertain）",
+        "example": "The survey team carried out rigorous checks to ascertain the exact number of endangered species.",
+        "notes": "【精準字義】\n非常正式且高級的學術動詞。指透過仔細的研究、深入調查、科學檢查或核對事實，來「徹底查明、確定某事的真相、數據或結果」。\n\n【同義詞】\nDetermining (v.) 確定、決定、查明\nVerifying (v.) 證實、核對、查證\nConfirming (v.) 確認、證實",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "d20ce0cb-aaab-49bc-bfbb-ba7837e747f2",
+        "front": "Stability (n.)",
+        "back": "穩定性、穩固、安定",
+        "example": "The primary goal of the government's economic drive is to maintain price stability.",
+        "notes": "【精準字義】\n形容一個系統、國家政權、社會環境、經濟體系或語言結構，處於一種「穩固牢靠、不容易發生劇烈動盪、倒塌或惡性變更」的優良狀態。\n\n【同義詞】\nSteadiness (n.) 穩固、穩定\nPermanence (n.) 永久性、持久性\nConsistency (n.) 一致性、連貫性\n\n【詞性變化】\nStable (adj.) 穩定的、牢固的 / Stabilize (v.) 使穩定、穩定下來",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "ed2a4701-3d2a-4657-a5a8-ed4e74499f0e",
+        "front": "Esteemed (adj.)",
+        "back": "受人尊敬的、備受推崇的、德高望重的",
+        "example": "The university was proud to welcome the esteemed architect to the initial ceremony.",
+        "notes": "【精準字義】\n形容某人因為高尚的品德、卓越的學術成就、重大貢獻或專業能力，而在社會大眾或同行圈子裡「廣受敬重、享有極高聲譽的」。\n\n【同義詞】\nRespected (adj.) 受尊敬的\nVenerated / Respected (adj. 還記得嗎？) 受崇敬的\nHonoured (adj.) 受榮譽的、備受尊崇的\n\n【詞性變化】\nEsteem (n./v.) 尊敬、尊重、高度評價（例：held in high esteem 備受尊崇）",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "67f22c0b-ff9f-4420-b69f-6afa2c0a0c51",
+        "front": "Pension (n.)",
+        "back": "津貼、退休金、養老金、年金",
+        "example": "The local authority announced a new initiative to increase the monthly pension for senior citizens.",
+        "notes": "【精準字義】\n指政府、社會福利機構或公司，在員工達到法定退休年齡、或因特殊重大貢獻後，承諾固定、定期支付的一筆「保障其生活質量的福利年金」。\n\n【同義詞】\nRetirement fund (n. phr.) 退休基金\nAnnuity (n. 高級金融字) 年金\nAllowance (n.) 津貼、補助",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "478c27c7-f579-4cda-aa5d-fe8720a4adb6",
+        "front": "Lexical (adj.)",
+        "back": "詞彙的、詞典的",
+        "example": "The professor's research focuses on the lexical changes in English since the medieval era.",
+        "notes": "【精準字義】\n語言學核心大字。形容與一種語言的「詞彙、字詞、語彙」本身直接相關的（原文指中產階級想要征服與界定他們的詞彙世界 lexical as well as social and commercial）。\n\n【同義詞】\nVocabulary-related (adj.) 詞彙相關的\nVerbal (adj.) 言語的、字詞的\nLinguistic (adj.) 語言學的\n\n【詞性變化】\nLexicon (n. 高級字) 詞彙量、全部語彙 / 詞典\nLexicographer (n. 文中出現過) 詞典編纂者",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "90e8a04a-ee99-4d6b-ba77-b5a9a20f35c5",
+        "front": "Quotation (n.)",
+        "back": "引用、引文、引述 / 報價",
+        "example": "The dictionary illustrated the shades of meaning of each word using historical quotations.",
+        "notes": "【精準字義】\n【雅思多義字考點！】 在文學、論文主題中，指從別人的書籍、詩歌或演講中「原封不動摘錄下來的句子、引文」（強森博士用了 114,000 句引文來解釋字義）。在商務、工程主題（如前面考過的 contractor 承包商場景）中，指「報價、估價單」。\n\n【同義詞】\nExcerpt / Citation (n.) 摘錄 / 引文、引證（學術論文必備字）\nExtract (n.) 節錄、選段\nEstimate / Price (n. 對應商務報價義) 估價、報價\n\n【詞性變化】\nQuote (v./n.) 引用 / 引號",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "18c2945c-dcd5-4acf-b844-eb0ee931f602",
+        "front": "Orthography (n.)",
+        "back": "正字法、正確拼字",
+        "example": "In the 18th century, English orthography was highly chaotic before the dictionary was published.",
+        "notes": "【精準字義】\n語言學專門術語。指一種語言中「官方規範的正確拼寫系統與規則」（強森博士自豪於他的詞典能夠固定正確的拼寫 setting the orthography）。\n\n【同義詞】\nSpelling system (n. phr.) 拼寫系統\nCorrect spelling (n. phr.) 正確拼寫",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "2d0af1e3-03cb-43d2-bd95-5252334f2b6a",
+        "front": "Analogy (n.)",
+        "back": "類比、比擬、相似之處",
+        "example": "The scientist drew an analogy between the human brain and a complex computer network.",
+        "notes": "【精準字義】\n學術寫作與邏輯思維核心字。指為了幫助理解，而將兩個不同事物在某些特定特徵上進行「邏輯上的對比、類比」（常見結構：draw an analogy between A and B）。\n\n【同義詞】\nComparison (n.) 比較、對照\nCorrelation (n. 寫作圖表大字) 相互關係、相關性\nResemblance (n. 還記得嗎？) 相似、相似之處\n\n【詞性變化】\nAnalogous (adj. ⚠️寫作極高階形容詞！) 類似的、可比擬的（常搭配 to）",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "4d19d24c-995d-474a-aa9a-f5812d487d8e",
+        "front": "Ascertain (v.)",
+        "back": "查明、確定、弄清",
+        "example": "It is essential to ascertain the accurate technical details before giving the presentation.",
+        "notes": "【同義詞】\nDetermine (查明、確定)、Verify (證實、核對)、Confirm (確認)。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "7ba890cd-d66a-4314-bdce-16b7ae599342",
+        "front": "Is associated with (phr.)",
+        "back": "與……有關聯、與……聯想在一起",
+        "example": "The rise of modern dictionaries is closely associated with the expansion of the middle class.",
+        "notes": "【精準字義】\n學術寫作（Task 2）中用來建立事物之間「邏輯因果或關聯性」的頂級黃金片語。\n\n【同義詞】\nIs linked to (phr.) 與……有聯繫\nIs connected with (phr.) 與……相連\nCorresponds to (phr. v.) 與……相符合、相對應",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "5bffb8d3-3f22-47c8-8f17-01035e51bc63",
+        "front": "Conquer (v.)",
+        "back": "征服、克服、戰勝",
+        "example": "With a relentless drive, she managed to conquer her fear of public speaking.",
+        "notes": "【精準字義】\n原本指在戰爭中用武力「攻克、征服」敵方國家或領土；在學術與生活中，常用來指「成功克服、戰勝（困難、恐懼或某個學術領域）」。\n\n【同義詞】\nDefeat / Overcome (v.) 戰勝 / 克服（如 overcome difficulties）\nSubjugate (v. 高級字) 征服、使服從\nMaster (v. 特指掌握知識/語言) 精通、掌握\n\n【詞性變化】\nConqueror (n.) 征服者\nConquest (n.) 征服、戰利品",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "58927fe3-09f3-4bc2-b3d6-2b5d240cfcca",
+        "front": "Heyday (n.)",
+        "back": "全盛時期、鼎盛時期",
+        "example": "The city's harbor reached its heyday during the 19th century as a key commercial hub.",
+        "notes": "【精準字義】\n(註：這個字在「印度階梯井」也考過！重複率高到嚇人，它在本文指中產階級崛起的全盛期 the heyday of the middle class，為你再次鞏固語境。)\n\n【同義詞】\nGolden age (黃金時代)、Prime (全盛期)、Peak (巔峰)。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "e40dd7b7-1710-4d13-9668-baf311ee1a58",
+        "front": "Genius (n.)",
+        "back": "天才、天賦、創造力",
+        "example": "Dr Johnson's dictionary was a work of sheer genius, making order out of chaos.",
+        "notes": "【精準字義】\n指一個人在智力、藝術創作或某個領域中，展現出遠超常人的「極高天賦、才華或獨創性」；也可指具備這種天賦的天才。\n\n【同義詞】\nBrilliance (n. 還記得嗎？) 才華、光輝\nIntellect (n.) 智力、才智\nGiftedness (n.) 有天賦、天才\n\n【易混淆】\n易混淆單字\nGenuine (adj.) 真正的、真誠的（拼法前半部極像！）\nIngenuity (n. 階梯井核心字！) 聰明才智、原創巧思（注意兩者是名詞，意思有微妙交集，但 ingenuity 偏向解決問題的巧思）",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "a80ca52e-4ae4-4828-8ef2-4523a3298b6f",
+        "front": "Biographer (n.)",
+        "back": "傳記作者",
+        "example": "James Boswell became famous as the biographer of Samuel Johnson.",
+        "notes": "【精準字義】\n專門研究並撰寫「另外一個人一生真實事蹟與故事（傳記）」的作家。\n\n【詞性變化】\nBiography (n.) 傳記\nAutobiography (n. 多了 auto- 字首) 自傳（自己寫自己的故事）",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "71794b65-bb9b-4798-bc7b-fda409199391",
+        "front": "Clerks (n. pl.)",
+        "back": "辦事員、書記官、店員（原形：clerk）",
+        "example": "In the 18th century, copying clerks had to work standing up at long desks.",
+        "notes": "【精準字義】\n指在辦公室、法律機構或商店中，負責處理抄寫、記錄、建檔等日常行政工作的「基層辦事員/抄寫員」。\n\n【同義詞】\nScribes (n. pl. 歷史學術字) 抄寫員、書記\nAdministrative assistants (n. pl.) 行政助理",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "d0a96732-f683-41bc-89a8-2703300570d3",
+        "front": "Predecessors (n. pl.)",
+        "back": "前任、前輩、前身",
+        "example": "The new project coordinator is much more rigorous than her predecessor.",
+        "notes": "【精準字義】\n(註：這個字在追加清單的第 10 個字詳細拆解過，強森博士和他的 predecessors 前輩們不同，他把英語當成 living language 活的語言來處理。)\n\n【易混淆】\nPredecessor（前任/前身）vs Successor（繼任者/後繼產品）。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "929eb3f5-985a-4477-b8c5-c308cee91c35",
+        "front": "Noble (adj.)",
+        "back": "高尚的、宏偉的、貴族的",
+        "example": "It is a noble goal to spare no efforts to preserve endangered historical artifacts.W",
+        "notes": "【精準字義】\n形容人的品德極其「高尚、崇高」；或形容建築、作品極其「宏偉、壯麗」（文中義大利學者讚嘆這是 This very noble work 宏偉高貴的傑作）；也可指封建社會的貴族。\n\n【同義詞】\nMagnificent (adj.) 宏偉的、壯麗的\nGracious / Honourable (adj.) 溫和高尚的 / 值得尊敬的\nAristocratic (adj. 特指階級) 貴族的\n\n【詞性變化】\nNobility (n.) 高尚、貴族階級",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "e512cb70-0231-46f3-923d-5de380e1d0df",
+        "front": "Appropriate (adj.)",
+        "back": "適當的、恰當的 / (v.) 撥款、盜用",
+        "example": "It is highly appropriate that the monument was built in the heart of the city.",
+        "notes": "【精準字義】\n【寫作必備大字！】 當形容詞時，形容在特定情況下非常適合、妥當、得體的。當動詞時發音不同，指政府撥出專款，或惡意挪用。\n\n【同義詞】\nSuitable / Fitting (adj.) 適合的、恰當的\nAdequate (adj. 還記得嗎？) 足夠的、適當的\n\n【詞性變化】\nAppropriately (adv.) 適當地\nInappropriate (adj.) 不適當的",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "c117dfed-a620-4dcf-a8bb-66fd4581c50a",
+        "front": "Throughout (prep./adv.)",
+        "back": "貫穿、遍及、在整個……期間",
+        "example": "The drive to upgrade public facilities was supported by citizens throughout the country.",
+        "notes": "【精準字義】\n【時間與空間的雙重極限！】 指在某個特定區域的「每一個角落、到處」；或者指在某個時間段的「從頭到尾、自始至終」（文中指困擾著貫穿整個17、18世紀的作家們 throughout the late seventeenth...）。\n\n【同義詞】\nAll over (prep.) 遍及\nDuring the entire course of (phr.) 在整個……期間",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "1245c56d-f6d8-4d8b-bfbf-0863136caf48",
+        "front": "Intensely (adv.)",
+        "back": "強烈地、極度地、熱切地",
+        "example": "The training coordinator was intensely focused on checking the technical details.",
+        "notes": "【精準字義】\n形容情感、態度或做法的程度極其強烈、深刻或專注（文中指強森博士的方法是 intensely practical 極度實用的）。\n\n【同義詞】\nExtremely / Deeply (adv.) 極其 / 深深地\nProfoundly (adv. 高級字) 深刻地、極度地\nAcute (adj. 對應形容詞形式) 劇烈的、敏銳的\n\n【詞性變化】\nIntense (adj.) 強烈的、劇烈的 / Intensity (n.) 強度、強烈\n\n【易混淆】\n易混淆單字\nIntensively (adv. 還記得交通調查的 footpath 嗎？) 密集地、精深地（如 study intensively 密集研讀）",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "c6001578-31d3-4051-9f04-b33e4076747e",
+        "front": "Bower (n.)",
+        "back": "樹蔭處、涼爽的隱居處",
+        "example": "The weary travellers rested under a beautiful bower beside the highway.",
+        "notes": "【精準字義】\n文學古典字彙。指花園、森林中由樹枝、藤蔓交織而成的「陰涼休息處、綠茵深處」（文中強森博士自嘲自己不是在大學安逸的學術象牙塔/樹蔭下編詞典 under the shelter of academic bowers）。\n\n【同義詞】\nArbour (n.) 蔭涼處、藤架\nSanctuary (n. 還記得嗎？) 避難所、神聖安寧的地方",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "f677e9f5-a69d-4cbf-b0bc-44010d97416f",
+        "front": "Amidst / Amid (prep.)",
+        "back": "在……之中、在……環境中",
+        "example": "Amidst the chaos of the financial crisis, the technology sector remained stable.",
+        "notes": "【精準字義】\n非常正式且具有強烈文學色彩的介系詞。形容自己正身處於某種情緒、混難、噪音或情況的「包圍之中」（文中指在不便與干擾中編纂詞典 amidst inconvenience and distraction）。\n\n【同義詞】\nAmong / In the middle of (prep.) 在……之中\nSurrounded by (phr.) 被……圍繞",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "f92d959a-a48d-4533-a66b-8d1f342abd4f",
+        "front": "Sorrow (n.)",
+        "back": "悲傷、悲痛、傷心事",
+        "example": "He wrote his greatest masterpiece in sickness and in sorrow.",
+        "notes": "【精準字義】\n指因為失去至親、遭遇不幸或失敗，而產生的「深沉、持久的內心悲痛」。\n\n【同義詞】\nGrief (n.) 深切的悲傷（通常指喪親之痛）\nDistress (n. 還記得嗎？) 痛苦、憂傷\nMisery (n.) 痛苦、不幸\n\n【詞性變化】\nSorrowful (adj.) 悲傷的",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "b7336d6a-70ab-46de-9c08-06990dbb35ca",
+        "front": "Folklore (n.)",
+        "back": "民間傳說、民俗學",
+        "example": "The white bear fur brings a special power according to the local folklore. as famous in his own time as in ours 「不論是在他自己那個時代，還是在我們現在這個時代，他都同樣出名。」 As... as... (同等比較句型)： 基本結構是 $as + 形容詞 + as + 比較對象$，用來表示兩者的程度「一模一樣、不分軒輊」。 這裡的第一個 as famous 代表「同樣出名」；第二個 as 後面連接了兩個形成對比的時間點。",
+        "notes": "【精準字義】\n指一個文化、民族中代代口耳相傳的「傳統故事、神話、信仰與風俗」（文中指強森博士此後成為了民間傳說中的傳奇人物 the Johnson of folklore）。\n\n【同義詞】\nLegends (n. pl. 靈熊主題用過喔！) 傳說\nMythology (n.) 神話（學）\nTraditional lore (n. phr. 高級字) 傳統知識、民俗",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      }
+    ],
+    "tags": [],
+    "createdAt": 1783253787314,
+    "updatedAt": 1783253787314
+  },
+  "tags": []
+}

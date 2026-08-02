@@ -1,0 +1,616 @@
+{
+  "format": "english-app-vocab-deck",
+  "version": 1,
+  "data": {
+    "id": "8753a7d6-2e4e-404b-adfd-5b07b2272d89",
+    "name": "C5 · The birth of modern plastics",
+    "description": "由 vocab.csv 匯入（C5 / The birth of modern plastics）",
+    "language": {
+      "front": "en",
+      "back": "zh"
+    },
+    "cards": [
+      {
+        "id": "bbb82c6d-b6df-454a-8946-48e7f50d9ecb",
+        "front": "Synthetic (adj.)",
+        "back": "人造的、合成的",
+        "example": "Bakelite was a revolutionary new synthetic material that launched the modern plastics industry.",
+        "notes": "【精準字義】\n指並非天然存在，而是透過化學工業手段，將多種成分人工「工程合成」出來的物質（原文指電木是第一個完全人造的塑料 first totally synthetic plastic）。\n\n【同義詞】\nArtificial (adj.) 人造的、人工的\nMan-made (adj.) 人為製造的\nManufactured (adj.) 經工業加工的\n\n【詞性變化】\nSynthesize (v. 還記得詞典主題的那個字嗎？) 綜合、合成（例：synthesize chemicals 合成化學品）\nSynthesis (n.) 綜合體、融合",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "63afb371-88bb-442d-a77d-5b54383ef7f5",
+        "front": "Formulated / Engineered (v. 過去式)",
+        "back": "調配出、製造出、透過工程設計（原形：engineer）",
+        "example": "The new plastic was chemically engineered from the constituents of coal or oil.",
+        "notes": "【精準字義】\n在科技文章中當動詞用，指運用科學、工程學原理與精密的化學計算，去「設計並製造出」某種特定產品。\n\n【同義詞】\nDesigned / Developed (v.) 設計 / 研發\nFormulated (v. 專指化學配方調配) 配製、系統闡述",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "80767d47-84f9-40f7-9112-630f9d224950",
+        "front": "Revert (v. 常搭配 to)",
+        "back": "恢復、回復（原形、原狀或舊習慣）",
+        "example": "After the power outage, the machine's settings will revert to their original values.",
+        "notes": "【精準字義】\n指事物回到原本的狀態、或是人回歸到以前的舊習慣、舊做法（原文指熱固性塑料加熱後無法回復到原本黏稠的液態 cannot revert to their original viscous state）。\n\n【同義詞】\nReturn (v.) 回到、恢復\nRegress (v. 偏負面) 退化、倒退\nDefault (v. 科技常用) 恢復到默認狀態\n\n【易混淆】\n考場字首字根大對決（都是 re- 開頭）\nRevert (v.) 恢復、回復（重回原狀）\nRecede (v. 階梯井主題核心字！) 後退、退去（如 flood recedes 大水退去）\nConvert (v.) 轉變、改裝（如 convert A into B）",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "c527a3bd-5b97-4744-a97b-29b9dd9818a1",
+        "front": "Impetus (n.)",
+        "back": "動力、推動力、促進因素",
+        "example": "The government's new grant provided a fresh impetus for environmental science research.",
+        "notes": "【精準字義】\n學術寫作與閱讀的高階大字。指引發某個重大歷史事件、科學發現或技術重大突破背後的「主要推動力或刺激因素」（原文指早期塑料發展背後的推動力 The impetus behind the development...）。\n\n【同義詞】\nMomentum (n.) 動量、氣勢、推動力\nStimulus (n.) 刺激（物）、促進因素\nIncentive (n.) 動機、誘因（偏向利益上的誘因）",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "cf648c44-4528-4037-9503-c776d9cd7fc7",
+        "front": "Domain (n.)",
+        "back": "領域、領地、範圍",
+        "example": "Financial asset management falls outside the domain of the human resource department.",
+        "notes": "【精準字義】\n指某個特定專業知識、學術研究或活動的「領域、範圍」（原文指化學領域的技術進步 progress in the domain of chemistry）。\n\n【同義詞】\nField / Sphere (n.) 領域 / 範圍（如 sphere of influence 影響範圍）\nRealm (n. 高級學術字) 王國、領域\nProvince (n. 交通調查主題考過喔！) 領域、職責範圍",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "e142a3aa-f4b0-45de-b97a-7e5e2b332250",
+        "front": "Substitutes (n. pl.)",
+        "back": "替代品、代替者（原形：substitute）",
+        "example": "Scientists are working tirelessly to find acceptable substitutes for dwindling natural resources.",
+        "notes": "【精準字義】\n指因為原本的資源缺乏、太昂貴或為了安全，而刻意尋找來「取代原本人事物」的另一種選擇。\n\n【同義詞】\nAlternatives (n. pl. 最完美學術換詞) 替代方案、另一種選擇\nReplacements (n. pl.) 代替者、更換件\n\n【詞性變化】\nSubstitution (n.) 代替、更換",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "6b1d25ea-4fb9-4390-99a7-9d5e8c53334d",
+        "front": "Dwindling (adj./v. 現在分詞)",
+        "back": "正在減少的、縮減的、日漸枯竭的（原形：dwindle）",
+        "example": "Deforestation has led to a dwindling habitat for several endangered species.",
+        "notes": "【精準字義】\n形容資源、數量、體積或力量在時間推移下「逐漸變少、越來越稀缺且隨時可能枯竭」（原文指稀缺的奢侈材料供應 dwindling supplies of luxury materials）。\n\n【同義詞】\nDiminishing / Shrinking (adj.) 正在減少的 / 正在縮減的\nDepleting (adj. 資源耗盡大字) 正在枯竭的",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "00081faa-f9d7-4593-a0e5-09259b667ec5",
+        "front": "Volatile (adj.)",
+        "back": "易揮發的 / 反覆無常的、不穩定的",
+        "example": "Chemical workers must be highly rigorous when handling volatile fluids.",
+        "notes": "【精準字義】\n科學義：形容液體在低溫下就「極其容易蒸發、揮發成氣體」（原文形容醛是一種易揮發的液體 a volatile fluid）。 商務與心理義：形容市場價格暴漲暴跌「極不穩定」，或人的脾氣「反覆無常」。\n\n【同義詞】\nEvaporative (adj.) 易蒸發的\nUnstable / Unpredictable (adj. 對應金融/情緒義) 不穩定的 / 難以預測的\n\n【詞性變化】\nVolatility (n.) 揮發性 / 變幻莫測、波動性",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "ba78d314-7cbf-43be-b2ed-1ffe1db491fb",
+        "front": "Amassing (v. 現在分詞)",
+        "back": "大量累積、積聚（財富或物資）（原形：amass）",
+        "example": "The technology research team spent five years amassing data on consumer habits. 🏭 工業製造與商業量產（字彙拆解）",
+        "notes": "【精準字義】\n專指在一段較長的期間內，透過努力或手段，將大量的金錢、財富、數據、資訊「瘋狂積累、聚沙成塔地收集起來」（原文指當貝克蘭正忙著賺大錢積累美元時 busily amassing dollars）。\n\n【同義詞】\nAccumulating (v. 寫作最推薦學術換詞) 累積、積聚\nHoarding (v. 偏向屯積、藏匿) 囤積\nGathering (v.) 收集",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "7cdea261-ae72-4c26-8aa3-0e1d68271c02",
+        "front": "Malleable (adj.)",
+        "back": "可塑的、具延展性的、易受影響的",
+        "example": "When the raw resin is heated under a vacuum, it becomes highly malleable.",
+        "notes": "【精準字義】\n原本形容金屬或樹脂在加熱後「非常柔軟、可以用錘子敲打成各種形狀而不碎裂」；引申也可以形容人的性格軟弱、容易受他人擺佈。\n\n【同義詞】\nFlexible / Pliable (adj.) 柔韌的 / 易彎曲的、可塑的\nAdaptable (adj.) 適應力強的、可修改的\n\n【詞性變化】\nMalleability (n.) 延展性、可塑性",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "36885640-017b-4828-8821-e36d38d39b54",
+        "front": "Soluble (adj.)",
+        "back": "可溶的、可溶解的 / 可解決的",
+        "example": "This specific granular powder is easily soluble in warm alcohol.",
+        "notes": "【精準字義】\n指某種固體物質能夠在水或其他化學液體中「完全溶解、化開」。\n\n【同義詞】\nDissolvable (adj.) 可溶解的\n\n【詞性變化】\nSolubility (n.) 溶解度\nInsoluble (adj. ⚠️反義詞）不可溶的 / 無法解決的（例：an insoluble problem 治不好的頑疾/無解的難題）",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "f0073ab1-8dcd-4d2c-9672-17ad76068d2a",
+        "front": "Catalysts (n. pl.)",
+        "back": "催化劑 / 觸媒、促成事情發展的人事物（原形：catalyst）",
+        "example": "The invention of the internet served as a major catalyst for global communication expansion.",
+        "notes": "【精準字義】\n科學義：指在化學反應中，能顯著「加快反應速度」但自身在反應前後不發生本質改變的物質。 社會學義：在寫作中，極常用來指引發一場重大社會變革、經濟轉型的「導火線、催化劑、推手」。\n\n【同義詞】\nAccelerators (n. pl.) 加速器、促進劑\nActivators (n. pl.) 活化劑、觸發器",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "54584e5a-5abd-43e8-819d-1add6217b71b",
+        "front": "Crucial (adj.)",
+        "back": "至關重要的、決定性的",
+        "example": "Choosing the right contractor is crucial to ensuring the stability of the facility.",
+        "notes": "【精準字義】\n形容某個因素、階段或決定對事情的成敗具有「核心、生死攸關、極其關鍵」的影響力（原文指模具牆壁的厚度是至關重要的 thickness... was also crucial）。\n\n【同義詞】\nCritical / Vital (adj. 還記得嗎？) 關鍵的 / 維持生命必需的\nEssential / Fundamental (adj. 階梯井用過！) 基礎的、不可或缺的",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "d820b831-f502-4c7b-8986-7286f687ac6d",
+        "front": "Disdain (n./v.)",
+        "back": "蔑視、鄙視、輕蔑",
+        "example": "The traditional architects treated the new synthetic material with utter disdain.",
+        "notes": "【精準字義】\n指因為覺得某人或某物低劣、沒有價值、或不配受到尊重，而表現出「強烈的看不起、冷漠與蔑視」（原文指電木發明初期受到了冷落與蔑視 treated with disdain in its early years）。\n\n【同義詞】\nContempt / Scorn (n.) 輕視 / 鄙視\nDisrespect (n.) 不敬、失禮\n\n【詞性變化】\nDisdainful (adj.) 輕蔑的、傲慢的",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "94b0edd5-ad3d-47fd-b7f9-754b7dc44109",
+        "front": "Unparalleled (adj.)",
+        "back": "無比的、空前的、無與倫比的",
+        "example": "The newly designed consumer electronics enjoyed an unparalleled popularity across the globe.",
+        "notes": "【精準字義】\n【雅思口說、寫作最高讚美形容詞！】 字根來自 parallel（平行的/可匹敵的）。加上否定字首字尾後，形容某事的成就或受歡迎程度極高，以至於「沒有任何先例可以對比、沒有任何人能比得上」。\n\n【同義詞】\nUnrivalled / Unrivaled (adj. 詞典與交通調查都考過！驚人的重複率！) 無雙的、無與倫比的\nUnprecedented (adj. 詞典主題學過！) 史無前例的\nMatchless (adj.) 獨一無二的、無配對的",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "afe4b01e-4c90-47fc-a312-3c5851d2baab",
+        "front": "Restructured / Transformed (v. 過去式)",
+        "back": "改造、重新建構、使徹底改觀（原形：transform）",
+        "example": "The introduction of generative AI technology has completely transformed human resource operations.",
+        "notes": "【精準字義】\n指某事物的結構、外觀或本質發生了「翻天覆地的、徹底的巨大轉變」（原文指消費者欣喜於他們終於不再受限於無聊的木頭色 no longer restricted to the wood tones...）。\n\n【同義詞】\nTransformed (v. 徹底改觀)\nRevolutionized (v. 帶來革命性巨變)\nOverhauled (v. 徹底檢修、大改造)",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "546d9bb8-e0e2-4026-b2fc-ef45d46ce3ec",
+        "front": "Despised (v. 過去式/adj.)",
+        "back": "被極度厭惡的、被鄙視的（原形：despise）",
+        "example": "The old style of industrial design was despised by the new generation of consumers.",
+        "notes": "【精準字義】\n指對某人或某物產生「強烈的反感、極度厭惡、瞧不起」的情緒（原文指電木在 1950 年代跌落神壇，被大量厭惡並銷毀 was despised and destroyed）。\n\n【同義詞】\nDetested / Loathed (v. 過去式) 痛恨的 / 厭惡的\nScorned (v. 過去式) 被輕蔑的",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "70709fc2-21a9-49bd-8b8b-71ed33aa8cd1",
+        "front": "Renaissance (n.)",
+        "back": "文藝復興、復興、新生",
+        "example": "Traditional hand-drawn animation is currently experiencing a major renaissance among young artists.",
+        "notes": "【精準字義】\n原本指 14 到 16 世紀歐洲的「文藝復興運動」。在現代學術與商務中，常用來形容某個沉寂已久的老技術、舊風格、或傳統文化「突然重新流行、迎來第二春、再度繁榮」。\n\n【同義詞】\nRevival / Resurgence (n. 寫作最推互換字) 復興 / 甦醒、再起\nRebirth (n.) 重生、新生",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "54005712-5b2c-4cbb-a868-f6547a331131",
+        "front": "Innovative (adj.)",
+        "back": "創新的、革新的、新穎的",
+        "example": "The company won a national award for its innovative application of AI in visual design.",
+        "notes": "【精準字義】\n形容思想、產品或方法充滿原創性，大膽引入全新的概念，並能帶來積極的改變。\n\n【同義詞】\nGroundbreaking (adj.) 開天闢地、開創性的\nNovel (adj. ⚠️注意：當形容詞是新奇的，不是小說) 新穎的、新奇的\nRevolutionary (adj.) 革命性的\n\n【詞性變化】\nInnovate (v.) 創新、革新 / Innovation (n.) 創新、新發明",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "0ae66e7d-3f80-4b61-9be4-bdc0d0c252ea",
+        "front": "Patented (v. 過去式/adj.)",
+        "back": "取得專利、受專利保護的（原形：patent）",
+        "example": "The Belgian scientist successfully patented his revolutionary synthetic material in 1907.",
+        "notes": "【精準字義】\n指發明人向政府申請並成功獲得「專利權」，在法定期限內享有獨佔、壟斷該項新發明、新技術的法律保護。在雅思聽力或閱讀中，只要看到科學家發明新東西，後面高機率會跟著這個字。\n\n【同義詞】\nMonopolized (v. 過去式) 壟斷、獨佔\nCopyrighted (v. 過去式/adj. ⚠️特指著作權/版權) 受版權保護的\nProprietary (adj. 高級學術/商務字) 專利的、專有的、所有權的\n\n【詞性變化】\nPatent (n.) 專利權 / (v.) 申請專利",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "6d15d384-de30-48ed-b01b-72a6b67883cd",
+        "front": "Constituents (n. pl.)",
+        "back": "成分、組成要素、選民（原形：constituent）",
+        "example": "The plastic material was engineered directly from the chemical constituents of oil.",
+        "notes": "【精準字義】\n科學義：指構成某個化學混合物、物質、系統或整體的「基本成分、化學單元或分子要素」。 政治義：在社會學或政治學話題中，專指某個選區內的「選民」。\n\n【同義詞】\nComponents / Ingredients (n. pl.) 零件、成分 / （食物或配方的）原料\nElements (n. pl.) 元素、要素\nVoters / Electorate (n. pl. 對應政治選民義) 選民\n\n【詞性變化】\nConstitute (v. ⚠️寫作 Task 1 超高頻動詞！) 構成、組成（等同於 make up）\nConstitution (n.) 憲法 / 體質、構造",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "fe804a42-6ba4-46be-b301-fbd082838700",
+        "front": "Distinction (n.)",
+        "back": "殊榮、特點、卓越、差別",
+        "example": "The university's HRD program has the distinction of being the most internationally diverse in the country.",
+        "notes": "【精準字義】\n【雅思學術多義字考點！】 特點殊榮義：指某人或某物所具備的「極其獨特、與眾不同且令人驕傲的特徵/殊榮」（原文指電木擁有身為第一個完全合成塑料的殊榮 had the distinction of being...）。 差別義：指兩者之間非常明確的「區別、對比」（常見搭配：make a distinction between A and B 區分 A 與 B）。\n\n【同義詞】\nHonour / Privilege (n.) 榮譽 / 特權、殊榮\nDifference / Contrast (n.) 差異 / 對比\nExcellence (n.) 優秀、卓越\n\n【詞性變化】\nDistinct (adj.) 明顯不同的、清晰的 / Distinctive (adj.) 獨特的、有特色的",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "b87412bc-9fdc-4a3f-83b4-1d8882a0d644",
+        "front": "Pragmatic (adj.)",
+        "back": "務實的、實事求是的、重實效的",
+        "example": "The council took a pragmatic approach to settling the transport budget dispute. 🛠️ 技術流程與材料工程（字彙拆解）",
+        "notes": "【精準字義】\n形容處理事情、制定政策或設計發明時，完全以「現實環境、實際效益和實用功能」為第一考量，而不是基於抽象的理論、美學或意識形態。\n\n【同義詞】\nUtilitarian (adj. 階梯井主題核心字！) 實用的、功利主義的\nPractical (adj.) 實用的、實際的\nRealistic (adj.) 現實的、踏實的\n\n【詞性變化】\nPragmatism (n.) 務實主義、功利主義\nPragmatically (adv.) 務實地",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "9ea2f828-6d6b-451b-9dcc-6305315632f2",
+        "front": "Outlined (v. 過去式)",
+        "back": "概述、勾勒核心輪廓、畫出輪廓（原形：outline）",
+        "example": "The original patent outlined a detailed three-stage industrial manufacturing process.",
+        "notes": "【精準字義】\n指在撰寫報告、專利或計畫時，不探討繁瑣的旁枝末節，而是「清晰、有條理地說明最核心的步驟、主幹、大綱或原則」；在繪圖中指畫出物體的邊緣外輪廓。\n\n【同義詞】\nSummarized (v. 過去式) 概述、總結\nSketched (v. 過去式) 勾勒、草擬、畫素描\nDelineated (v. 過去式 高級學術字) 描繪、詳細敘述\n\n【詞性變化】\nOutline (n.) 大綱、輪廓、概要",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "339834bc-5570-407a-aed6-8ed1e104a68b",
+        "front": "Subjected to (phr. v. ⚠️過去分詞/被動形態，原形：subject to)",
+        "back": "使遭受、使承受",
+        "example": "Before the new facility is established, the architectural design must be subjected to rigorous safety checks.",
+        "notes": "【精準字義】\n【雅思閱讀填空、對錯題超級大魔王！】 當它在句子中呈現被動形式（be subjected to）時，表示「被迫去承受、經歷某種極端環境、嚴格測試、外力打擊或不好的待遇」（原文指加熱的塑料被注入模具，並承受極端的熱與壓力 subjected to extreme heat and pressure）。\n\n【同義詞】\nExposed to (phr.) 暴露於、使遭受（如 exposed to radiation 暴露於輻射中）\nUnderwent (v. 過去式) 經歷、承受（考場上最完美的互換字）\nSubmitted to (phr. v.) 屈服於、提交\n\n【易混淆】\n詞性外型大對決（這個字的用法在考場極其多變）\nSubject (n.) 主題 / 科目 / 實驗對象\nSubjective (adj.) 主觀的（相反詞是 objective 客觀的）\nBe subject to... (adj. 短語) 易受……影響的 / 取決於……的（例：Prices are subject to change. 價格可能會變動。）",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "d6a5bc9b-361f-44cd-8993-ee79621deffe",
+        "front": "Insulating (adj.)",
+        "back": "絕緣的、隔熱的、隔音的",
+        "example": "Electrical manufacturers seized on the material's excellent insulating properties to make safer switches.",
+        "notes": "【精準字義】\n物理與工程材料大字。形容某種材料（如橡膠、電木、石棉）具備「阻擋電流、熱量或聲音穿透傳導」的保護特性。\n\n【同義詞】\nNon-conducting (adj.) 不導電的、不傳熱的\nShielding (adj./v. 現在分詞) 屏蔽的、防護的\n\n【詞性變化】\nInsulate (v.) 使絕緣、使隔熱 / 隔離（免受壞影響）\nInsulation (n. ⚠️聽力綠色建築話題超常考！) 絕緣體、隔熱材料（如 roof insulation 屋頂隔熱層）",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "64bda037-cc56-4786-b0f1-d71c843d541b",
+        "front": "Sterilisable / Sterilizable (adj.)",
+        "back": "可殺菌的、可高溫消毒的",
+        "example": "Because Bakelite kitchen goods were heat-resistant and sterilisable, they were promoted as being germ-free.",
+        "notes": "【精準字義】\n由動詞 sterilise（殺菌、結紮）加上字尾 -able（可……的）組合而成。專指醫療器材、廚房用品可以經受住高溫、化學藥劑或輻射，達到「完全消滅所有細菌、微生物」的耐受標準。\n\n【同義詞】\nDisinfectable (adj.) 可消毒的\nAntiseptic (adj./n.) 防腐的、抗菌的 / 殺菌劑\n\n【詞性變化】\nSterilise / Sterilize (v.) 殺菌、高溫消毒 / 使絕育\nSterilisation (n.) 消毒、滅菌 / 絕育手術",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "822ba27a-5cc5-4442-baff-f3c46df64cf3",
+        "front": "Mould / Mold (n.)",
+        "back": "模具、模型 / 黴菌 / (v.) 塑造、鑄造",
+        "example": "The molten plastic was poured into a custom-designed mould to set its permanent shape.",
+        "notes": "【精準字義】\n工業義：指用來將液態或可塑性材料注入、藉此固定形狀的「空心模具、模型」（原文塑料字源 plassein 意為 to mould 塑造；末段提到將塑料倒入 hollow mould 空心模具中）。 生物義：在環境科學或居家健康話題中，指潮濕處滋生的「黴菌、霉」。 動詞義：指「形塑、塑造」（如 mould the character 塑造性格）。\n\n【同義詞】\nCast / Form (n.) 鑄模 / 形狀、模具\nFungus (n. 對應生物義) 真菌、黴菌\nShape (v.) 塑造、使成形",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "aca01119-db20-4fc6-ab3f-7b67c29ac0b4",
+        "front": "Derived from (phr. v.)",
+        "back": "衍生自、源自於、從……中提取",
+        "example": "Many modern life-saving medicines are originally derived from rare rainforest plants.",
+        "notes": "【精準字義】\n【雅思學術極高頻核心！】 指某種物質、化學品、文字或理論，是「從某個特定的源頭、原材料中提取、提煉、衍生而來」（原文指 Some plastics are derived from natural sources 某些塑料源自天然原料）。\n\n【同義詞】\nExtracted from (phr.) 從……中提取\nOriginated from (phr. v.) 起源於\nSourced from (phr.) 來源於\n\n【詞性變化】\nDerive (v.) 得到、源於\nDerivation (n.) 起源、衍生\nDerivative (adj./n.) 衍生的 / 衍生物",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "7dfa4ee1-37e1-4e27-842a-8487813a3f80",
+        "front": "Semi- (prefix)",
+        "back": "半、部分",
+        "example": "The state suffers from a semi-arid climate, making water table management crucial.",
+        "notes": "【精準字義】\n極度常見的學術字首。用來表示「一半、某種程度上、不完全的」（原文指電木發明前已有 semi-synthetic 半合成的材料）。\n\n【同義詞】\nSemi-skilled (adj.) 半熟練的（常考人資、勞工話題）\nSemi-arid (adj.) 半乾旱的（常考地理環境科學話題）\nSemi-detached (adj.) 半獨立式、雙拼住宅（聽力租房核心字）",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "a5f5a811-6f66-42c3-a34c-8d5ef2199668",
+        "front": "Substance (n.)",
+        "back": "物質、實質、主旨",
+        "example": "The researcher mixed the sticky substance with a catalyst to speed up the chemical action.",
+        "notes": "【精準字義】\n指一種具有特定物理特性的實體「物質、材料、化學物」；在辯論中指說話有「實質內容、根據」。\n\n【同義詞】\nMaterial / Matter (n.) 材料 / 物質、要素\nChemical compound (n. phr.) 化學化合物\nEssence (n. 對應實質義) 本質、精髓\n\n【詞性變化】\nSubstantial (adj. ⚠️寫作 Task 1 核心字）大量的、重大的、實質的（如 a substantial increase 大幅增長）",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "7c9e96d4-99b4-49d6-8e82-c52583173d97",
+        "front": "Porous (adj.)",
+        "back": "有孔的、多孔的、能滲透的",
+        "example": "Because the new synthetic material is completely non-porous, it is highly germ-free.",
+        "notes": "【精準字義】\n物理與材料科學核心字。形容材料表面佈滿了極其微小的孔洞，導致「液體或空氣能夠輕易滲透、穿過」的特性。\n\n【同義詞】\nPermeable (adj. 頂級學術換詞) 可滲透的、具滲透性的\nPenetrable (adj.) 可穿透的\nSpongy (adj.) 海綿狀的、多孔多汁的\n\n【詞性變化】\nPorosity (n.) 多孔性、孔隙率\n\n【易混淆】\n反義詞對決（本文考點！）\nPorous (adj. 多孔滲水的) vs Non-porous (adj. 原文用來形容電木廚具：無孔、不滲水、不易滋生細菌的)",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "1eef8dd3-5544-427e-96eb-f6044b2579d2",
+        "front": "Properties (n. pl.)",
+        "back": "特性、屬性 / 房產、財產（原形：property）",
+        "example": "The unique chemical properties of Bakelite made it a perfect material for industrial expansion.",
+        "notes": "【精準字義】\n【雅思聽力、閱讀超級核心多義字！】 科學材料義：在科學、環境與材料文章中，100% 專指某種物質所具備的「物理、化學特性或功能屬性」（原文指電木的 insulating properties 絕緣特性）。 生活房產義：在聽力租房或商務話題中，指「房產、地產、財產」。\n\n【同義詞】\nCharacteristics / Features (n. pl.) 特徵 / 特色\nAttributes (n. pl. 高級學術字) 屬性、特質\nReal estate / Assets (n. pl. 對應房產資產義) 房地產 / 資產",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "58a20727-d0c0-4221-86cf-2d304f810ea4",
+        "front": "Embarked on (phr. v.)",
+        "back": "開始、著手進行（重大或艱難的事情）",
+        "example": "After completing her master's degree, she embarked on a promising career in human resource management.",
+        "notes": "【精準字義】\n【寫作與口說高階優美動詞！】 原意指登船。引申為「正式踏上一段旅程、著手啟動一項大型專案、研究計畫或全新職業生涯」（原文指貝克蘭著手進行樹脂研究 embarked on research into phenolic resins）。\n\n【同義詞】\nCommenced (v. 過去式) 開始、著手\nInitiated (v. 過去式 還記得嗎？) 發起、創始\nUndertook (v. 過去式 寫作最推) 承擔、著手做（如 undertake a project）",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "199ed421-39c4-44a5-9a8b-4435cddc5361",
+        "front": "Purely (adv.)",
+        "back": "純粹地、完全地、僅僅",
+        "example": "The decision to change the contractor was made purely for safety reasons.",
+        "notes": "【精準字義】\n用來強調某件事完全只基於某一個特定的角度、原因或範疇，不包含其他雜質（原文指 In purely scientific terms 純粹從科學的角度來看）。\n\n【同義詞】\nSolely / Merely (adv.) 僅僅、單純\nExclusively (adv.) 專門地、獨家地\nEntirely (adv.) 完全地\n\n【詞性變化】\nPure (adj.) 純的、純粹的 / Purity (n.) 純潔、純度",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "21596095-c797-406a-8658-d7c27d06c4d3",
+        "front": "Commercial (adj.)",
+        "back": "商業的、營利的 / 商業廣告",
+        "example": "The major challenge of the invention was how to manufacture it on a commercial scale.",
+        "notes": "【精準字義】\n指與商務活動、商品貿易、賺取利潤直接相關的；引申指能夠「投入市場進行大規模量產與銷售的」（原文指將其在商業基礎上進行準備 preparation on a commercial basis）。\n\n【同義詞】\nBusiness-related (adj.) 商業相關的\nProfit-oriented (adj.) 以營利為導向的\nMarketable (adj.) 可銷售的、符合市場需求的\n\n【詞性變化】\nCommerce (n.) 商業、貿易 / Commercially (adv.) 商業上地、商務地",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "70e28d19-a1ef-470f-8b61-d43151f3a8d8",
+        "front": "Extract (v.)",
+        "back": "提取、提煉、拔出 / (n.) 摘錄、精華液",
+        "example": "The engineering process made it easier to extract the hardened plastic from the crater.",
+        "notes": "【精準字義】\n指利用化學、物理或強大的外力，將某種有價值的成分從一個整體中「強行提取、提煉或拔出」（原文指設計必須讓產品容易從模具中拔出 difficult to extract）。當名詞時發音不同，指引文或植物精華。\n\n【同義詞】\nRemove / Withdraw (v.) 移開 / 撤回、拔出\nIsolate (v. 特指化學分離提取) 分離、孤立\nQuotation / Excerpt (n. 對應文字摘錄義) 引文 / 摘錄\n\n【詞性變化】\nExtraction (n.) 提取、拔除",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "f25126f7-ca37-4b78-882c-998ade92e918",
+        "front": "Governed (v. 過去式)",
+        "back": "統治、管理 / 支配、受到……的強烈制約（原形：govern）",
+        "example": "The recruitment life cycle is strictly governed by local labor laws.",
+        "notes": "【精準字義】\n【雅思閱讀抽象義考點！】 日常指政府管理國家。但在學術語境中，極常指某種科學行為、產品設計或社會現象「受到某種客觀規律、技術要求或原則的強烈支配、限制與制約」（原文指塑料產品的設計在很大程度上受制於模具工藝的要求 was governed to a large extent by...）。\n\n【同義詞】\nControlled / Regulated (v. 過去式) 控制 / 規範\nDictated (v. 過去式 高級字) 支配、命令、決定（如 dictated by market trends 受市場趨勢支配）\n\n【詞性變化】\nGovernor (n.) 州長、主管 / Government (n.) 政府",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "e2b1a33f-0463-439f-b128-f93b89800668",
+        "front": "Wealthy (adj.)",
+        "back": "富裕的、有錢的",
+        "example": "By 1905, Baekeland had become a wealthy New Yorker due to his successful photographic paper invention.",
+        "notes": "【精準字義】\n形容一個人或國家擁有大量的金錢、土地、資產或財富，處於高度富庶的狀態。\n\n【同義詞】\nAffluent (adj. 寫作最推高階字) 富裕的、富足的\nProsperous (adj.) 繁榮的、興旺的\nWell-off (adj.) 寬裕的、經濟條件好的\n\n【詞性變化】\nWealth (n.) 財富、豐富",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "0455f50a-a06a-46b5-b88c-9f9882fe6fe0",
+        "front": "Ivory (n.)",
+        "back": "象牙 / 象牙色",
+        "example": "The international trade of ivory has been strictly banned to protect wild elephants.",
+        "notes": "【精準字義】\n大象長牙的堅硬白色材質（歷史上常作為奢侈工藝品原料）。文中提到塑料的發明是為了解決稀缺奢侈原材料（如 tortoiseshell and ivory 玳瑁與象牙）供應不足的問題。",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "b96f38e7-90d4-4662-bfbd-e0401526101f",
+        "front": "Seized on (phr. v. 過去式)",
+        "back": "抓往（機會）、迫不及待地利用（原形：seize on）",
+        "example": "The HR intern seized on the opportunity to present her ideas on digital transformation.",
+        "notes": "【精準字義】\n指一看到某個機會、好點子或某種新材料的優勢，就「極其敏銳、迫不及待地立刻緊緊抓住並加以利用」（原文指電氣製造商迅速看中並利用了電木的絕緣特性 Electrical manufacturers seized on its insulating properties）。\n\n【同義詞】\nCapitalized on (phr. v. 頂級商務大字) 利用、從中獲利\nExploited (v. 過去式) 開發、利用、剝削\nGrasped (v. 過去式) 緊抓、理解",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "201d738d-dca3-43e8-9f59-e8905187af17",
+        "front": "Relished (v. 過去式)",
+        "back": "享受、沉溺於、非常喜歡（原形：relish）",
+        "example": "The graduate student relished the challenge of executing the complex thesis research project.",
+        "notes": "【精準字義】\n指從某種體驗、新事物或思想中獲得極大的樂趣，並「充滿興致地去享受、品味它」（原文指消費者非常喜愛並享受塑料那令人眼花繚亂的豐富色彩 consumers everywhere relished its dazzling array...）。\n\n【同義詞】\nEnjoyed (v. 過去式) 享受、喜愛\nSavoured / Savored (v. 過去式) 細細品嚐、欣賞\nDelighted in (phr.) 以……為樂",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "26a43b1d-c7db-4bed-af40-25a0d0ce9173",
+        "front": "Array of shades (n. phr.)",
+        "back": "琳瑯滿目的色彩/色調組合",
+        "example": "The vintage magazine photography attracted viewers with its dazzling array of shades.",
+        "notes": "【精準字義】\n由兩個大字組成的神級搭配。An array of 意為「一系列琳瑯滿目、排列整齊的大量人事物」；Shades 指「顏色的深淺色調、細微差別」。合在一起形容視覺上極其豐富震撼的色彩盛宴。\n\n【同義詞】\nVast selection of colours (n. phr.) 豐富多樣的顏色\nSpectrum of tones (n. phr.) 色調的光譜/範圍",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "cf48dd67-a60a-4c93-bcd3-3147776a3e47",
+        "front": "Delight (n.)",
+        "back": "欣喜、快樂 / (v. 常搭配 in) 使高興、以……為樂",
+        "example": "To the delight of the local council, the transport project was completed well within budget.",
+        "notes": "【精準字義】\n形容一種非常強烈、雀躍的快樂與滿足感（原文指消費者感到非常高興 delighted that they were now...）。\n\n【同義詞】\nJoy / Pleasure (n.) 歡樂 / 愉悅\nGratification (n. 高級學術字) 滿足、滿意\n\n【詞性變化】\nDelightful (adj.) 令人愉快的、討人喜歡的",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "01964a04-e603-4772-b0fa-fa0ab2495df6",
+        "front": "Earring (n.)",
+        "back": "耳環、耳飾",
+        "example": "In the 1930s, Bakelite was heavily used to manufacture fashionable earrings and accessories.",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      },
+      {
+        "id": "d199dc5b-a745-4eb2-b15b-9a502e5e17c1",
+        "front": "Dedicated (adj.)",
+        "back": "專注的、充滿奉獻精神的 / 專用的",
+        "example": "Thanks to the work of dedicated individuals, many ruined medieval monuments have been saved.",
+        "notes": "【精準字義】\n形容一個人將自己所有的時間、心血都投注在某個特定的偉大目標或愛好上，非常「全心全意、精誠奉獻」；也可指某個硬體是專款專用的。\n\n【同義詞】\nDevoted / Committed (adj.) 投入的、奉獻的\nEnthusiastic (adj.) 熱情的、熱心的\nExclusive (adj. 對應專用義) 獨有的、專用的\n\n【詞性變化】\nDedicate (v.) 奉獻、題獻（常用結構：dedicate A to B）\nDedication (n.) 奉獻、敬業精神（還記得 testimony 證明了建商的 dedication 嗎？）",
+        "tags": [],
+        "stats": {
+          "correctCount": 0,
+          "incorrectCount": 0,
+          "lastReviewedAt": null
+        }
+      }
+    ],
+    "tags": [],
+    "createdAt": 1783253787314,
+    "updatedAt": 1783253787314
+  },
+  "tags": []
+}

@@ -55,10 +55,43 @@ describe('DeckList', () => {
     expect(await screen.findByText('TOEIC')).toBeInTheDocument()
   })
 
-  it('shows the import button as disabled with a tooltip', async () => {
+  it('shows an enabled import entry point', async () => {
     renderIt(storage)
-    const btn = await screen.findByRole('button', { name: /匯入/ })
-    expect(btn).toBeDisabled()
-    expect(btn).toHaveAttribute('title')
+    const btn = await screen.findByRole('button', { name: /匯入牌組/ })
+    expect(btn).toBeEnabled()
+  })
+
+  it('deletes a deck after confirming the warning', async () => {
+    const user = userEvent.setup()
+    renderIt(storage)
+    await screen.findByText(/尚無牌組/)
+    await user.click(screen.getByRole('button', { name: '新增牌組' }))
+    await user.type(screen.getByLabelText('牌組名稱'), '測試牌組')
+    await user.click(screen.getByRole('button', { name: '建立' }))
+    await screen.findByText('測試牌組')
+
+    await user.click(screen.getByRole('button', { name: '刪除牌組 測試牌組' }))
+    expect(screen.getByRole('dialog', { name: '刪除牌組確認' })).toHaveTextContent(/無法復原/)
+    await user.click(screen.getByRole('button', { name: '刪除' }))
+
+    expect(await screen.findByText(/尚無牌組/)).toBeInTheDocument()
+    expect(await storage.listDecks()).toHaveLength(0)
+  })
+
+  it('cancelling the delete dialog keeps the deck', async () => {
+    const user = userEvent.setup()
+    renderIt(storage)
+    await screen.findByText(/尚無牌組/)
+    await user.click(screen.getByRole('button', { name: '新增牌組' }))
+    await user.type(screen.getByLabelText('牌組名稱'), '留下來')
+    await user.click(screen.getByRole('button', { name: '建立' }))
+    await screen.findByText('留下來')
+
+    await user.click(screen.getByRole('button', { name: '刪除牌組 留下來' }))
+    await user.click(screen.getByRole('button', { name: '取消' }))
+
+    expect(screen.queryByRole('dialog')).not.toBeInTheDocument()
+    expect(screen.getByText('留下來')).toBeInTheDocument()
+    expect(await storage.listDecks()).toHaveLength(1)
   })
 })

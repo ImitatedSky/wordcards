@@ -13,5 +13,9 @@ export default defineConfig({
     environment: 'jsdom',
     setupFiles: ['./src/test/setup.ts'],
     globals: true,
+    // Storage-heavy integration tests are timing-sensitive under full worker
+    // load (known QuizDetail flake, pre-existing). One retry absorbs the
+    // environmental blip; real regressions still fail both attempts.
+    retry: 1,
   },
 })

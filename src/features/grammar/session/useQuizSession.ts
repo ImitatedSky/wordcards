@@ -19,9 +19,10 @@ function shuffleInPlace<T>(arr: T[]): T[] {
   return arr
 }
 
-function buildQueue(quiz: Quiz, shuffle: boolean): string[] {
+function buildQueue(quiz: Quiz, shuffle: boolean, limit?: number): string[] {
   const ids = quiz.questions.map((q) => q.id)
-  return shuffle ? shuffleInPlace([...ids]) : ids
+  const ordered = shuffle ? shuffleInPlace([...ids]) : ids
+  return limit != null && limit > 0 ? ordered.slice(0, limit) : ordered
 }
 
 function shapeMatches(question: Question, input: AnswerInput): boolean {
@@ -31,7 +32,7 @@ function shapeMatches(question: Question, input: AnswerInput): boolean {
 
 export function useQuizSession(
   quizId: string,
-  options: { shuffle: boolean },
+  options: { shuffle: boolean; limit?: number },
 ) {
   const storage = useStorage()
   const [quiz, setQuiz] = useState<Quiz | null>(null)
@@ -48,7 +49,7 @@ export function useQuizSession(
       const q = await storage.getQuiz(quizId)
       if (cancelled || !q) return
       setQuiz(q)
-      const queue = buildQueue(q, options.shuffle)
+      const queue = buildQueue(q, options.shuffle, options.limit)
       setState({
         queue,
         index: 0,
@@ -59,7 +60,7 @@ export function useQuizSession(
     return () => {
       cancelled = true
     }
-  }, [storage, quizId, options.shuffle])
+  }, [storage, quizId, options.shuffle, options.limit])
 
   const currentQuestionId = state.queue[state.index]
 
@@ -116,14 +117,14 @@ export function useQuizSession(
 
   const restart = useCallback(() => {
     if (!quiz) return
-    const queue = buildQueue(quiz, options.shuffle)
+    const queue = buildQueue(quiz, options.shuffle, options.limit)
     setState({
       queue,
       index: 0,
       phase: queue.length === 0 ? 'finished' : 'prompting',
       answers: {},
     })
-  }, [quiz, options.shuffle])
+  }, [quiz, options.shuffle, options.limit])
 
   const reviewIncorrect = useCallback(() => {
     if (!quiz) return

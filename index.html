@@ -1,10 +1,22 @@
 <!doctype html>
-<html lang="en">
+<html lang="zh-Hant">
   <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>english-app</title>
+    <title>EnglishProject — 英文學習</title>
+    <script>
+      // Apply theme before first paint to avoid flash of wrong theme.
+      // Mirrors next-themes storage: localStorage "theme" = "light" | "dark" | "system".
+      ;(function () {
+        try {
+          var t = localStorage.getItem('theme')
+          if (t === 'dark' || ((t === null || t === 'system') && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.classList.add('dark')
+          }
+        } catch (e) { /* storage unavailable: default light */ }
+      })()
+    </script>
   </head>
   <body>
     <div id="root"></div>

@@ -1,5 +1,8 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
+import { Play, Plus } from 'lucide-react'
+import { Button, buttonVariants } from '@/components/ui/button'
+import { cn } from '@/lib/utils'
 import type { Question } from '@/types/quiz'
 import { useQuiz } from './hooks'
 import { QuestionTable } from './QuestionTable'
@@ -100,28 +103,29 @@ export function QuizDetail({ quizId }: Props) {
   }
 
   return (
-    <div className="space-y-4">
-      <div className="flex items-center justify-between">
-        <h1 className="text-2xl font-bold">{quiz.name}</h1>
+    <div className="space-y-5">
+      <div className="flex flex-wrap items-center justify-between gap-3">
+        <div>
+          <h1 className="text-2xl font-bold tracking-tight">{quiz.name}</h1>
+          <p className="mt-0.5 text-sm text-muted-foreground tabular-nums">{quiz.questions.length} 題</p>
+        </div>
         <div className="flex gap-2">
-          <button
-            type="button"
-            onClick={() => setEditor({ mode: 'create' })}
-            className="rounded px-3 py-1 bg-slate-800 text-white"
-          >
+          <Button type="button" variant="outline" onClick={() => setEditor({ mode: 'create' })}>
+            <Plus data-icon="inline-start" aria-hidden="true" />
             新增題目
-          </button>
+          </Button>
           <Link
             to={`/grammar/${quiz.id}/quiz`}
             aria-disabled={quizDisabled}
             onClick={(e) => {
               if (quizDisabled) e.preventDefault()
             }}
-            className={
-              'rounded px-3 py-1 border ' +
-              (quizDisabled ? 'text-slate-400 cursor-not-allowed' : 'hover:bg-slate-50')
-            }
+            className={cn(
+              buttonVariants({ variant: 'default' }),
+              quizDisabled && 'pointer-events-auto cursor-not-allowed opacity-50',
+            )}
           >
+            <Play data-icon="inline-start" aria-hidden="true" />
             開始測驗
           </Link>
         </div>
@@ -135,7 +139,7 @@ export function QuizDetail({ quizId }: Props) {
       />
 
       {editor.mode !== 'closed' && (
-        <div className="rounded border p-3 bg-slate-50">
+        <div className="rounded-xl border border-border bg-card p-4 shadow-sm animate-in fade-in slide-in-from-top-2">
           <QuestionEditor
             mode={editor.mode}
             initial={editingQuestion ? toInitial(editingQuestion) : undefined}
