@@ -1,0 +1,12 @@
+# Repo stores text as LF and checks it out as LF on every platform, so the
+# generated files under public/default-library/ (written with LF by
+# tools/build-default-library.mjs) stop showing up as modified on Windows.
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.svg text eol=lf
+*.woff binary
+*.woff2 binary
+*.xlsx binary
+*.docx binary
