@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 /**
  * Repeatable conversion: data/vocab.csv → data/decks/*.json
  * (english-app-vocab-deck bundles, one per (book, passage) pair)

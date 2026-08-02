@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 /**
  * Build the built-in default vocabulary library served as static assets:
  * data/vocab-source → public/default-library/{manifest.json, <deck>.json}
