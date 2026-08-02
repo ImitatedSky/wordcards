@@ -30,22 +30,47 @@ export function buildNotes(record) {
   return parts.join('\n\n')
 }
 
+/** Older exports are still accepted: v2 predates etymology, v1 also antonyms.
+    Mirrors LEGACY_HEADER_VARIANTS in src/features/vocab/csvImport.ts. */
+const LEGACY_HEADER_VARIANTS = [
+  COLUMNS.filter((c) => c !== 'etymology'),
+  COLUMNS.filter((c) => c !== 'etymology' && c !== 'antonyms'),
+]
+
 /** Parse raw CSV text into validated records. Throws on malformed rows. */
 export function readRecords(csvText) {
   const rows = parseCsv(csvText)
   if (rows.length === 0) throw new Error('CSV is empty')
-  const header = rows[0]
-  if (header.join(',') !== COLUMNS.join(',')) {
+  const header = rows[0].map((h) => h.trim())
+  const activeColumns = [COLUMNS, ...LEGACY_HEADER_VARIANTS].find(
+    (cols) => header.join(',') === cols.join(','),
+  )
+  if (!activeColumns) {
     throw new Error(`header mismatch: expected "${COLUMNS.join(',')}" got "${header.join(',')}"`)
   }
   return rows.slice(1).map((cells, idx) => {
-    if (cells.length !== COLUMNS.length) {
-      throw new Error(`row ${idx + 2}: expected ${COLUMNS.length} columns, got ${cells.length}`)
+    if (cells.length !== activeColumns.length) {
+      throw new Error(`row ${idx + 2}: expected ${activeColumns.length} columns, got ${cells.length}`)
     }
-    const record = {}
-    COLUMNS.forEach((c, i) => (record[c] = cells[i].trim()))
+    const record = { etymology: '', antonyms: '' }
+    activeColumns.forEach((c, i) => (record[c] = cells[i].trim()))
     return record
   })
+}
+
+/** Split argv into the positional input path and --outdir, without mistaking
+    an option's value for the input file. */
+export function parseArgs(args) {
+  let input
+  let outdir
+  for (let i = 0; i < args.length; i++) {
+    if (args[i] === '--outdir') {
+      outdir = args[++i]
+    } else if (!args[i].startsWith('--') && input === undefined) {
+      input = args[i]
+    }
+  }
+  return { input: input ?? 'data/vocab.csv', outdir: outdir ?? 'data/decks' }
 }
 
 /** Group records into english-app-vocab-deck bundles (one per book+passage). */
@@ -91,9 +116,7 @@ function slugify(name) {
 
 // CLI entry — skipped when imported by tests.
 if (process.argv[1] && resolve(process.argv[1]).endsWith('csv-to-deck.mjs')) {
-  const args = process.argv.slice(2)
-  const input = args.find((a) => !a.startsWith('--')) ?? 'data/vocab.csv'
-  const outdir = args.includes('--outdir') ? args[args.indexOf('--outdir') + 1] : 'data/decks'
+  const { input, outdir } = parseArgs(process.argv.slice(2))
 
   try {
     const records = readRecords(readFileSync(resolve(input), 'utf8'))

@@ -1,6 +1,6 @@
 import { describe, it, expect } from 'vitest'
 import { toCsv, parseCsv, splitList, COLUMNS } from './lib/csv.mjs'
-import { readRecords, toDeckBundles, buildNotes } from './csv-to-deck.mjs'
+import { readRecords, toDeckBundles, buildNotes, parseArgs } from './csv-to-deck.mjs'
 
 const row = (over = {}) => ({
   book: 'C5',
@@ -43,6 +43,34 @@ describe('csv master schema', () => {
 
   it('rejects a header mismatch', () => {
     expect(() => readRecords('a,b,c\r\n')).toThrow(/header mismatch/)
+  })
+
+  it('accepts legacy headers, defaulting the columns they predate', () => {
+    // v1 export: no etymology, no antonyms — what data/vocab.csv still is.
+    const legacy = COLUMNS.filter((c) => c !== 'etymology' && c !== 'antonyms')
+    const cells = legacy.map((c) => (c === 'headword' ? 'Circumscribe' : ''))
+    const [record] = readRecords(`${legacy.join(',')}\r\n${cells.join(',')}\r\n`)
+    expect(record.headword).toBe('Circumscribe')
+    expect(record.etymology).toBe('')
+    expect(record.antonyms).toBe('')
+  })
+})
+
+describe('parseArgs', () => {
+  it('defaults to the repo paths when given nothing', () => {
+    expect(parseArgs([])).toEqual({ input: 'data/vocab.csv', outdir: 'data/decks' })
+  })
+
+  it('does not mistake the --outdir value for the input path', () => {
+    expect(parseArgs(['--outdir', 'data/decks'])).toEqual({
+      input: 'data/vocab.csv',
+      outdir: 'data/decks',
+    })
+  })
+
+  it('takes a positional input alongside --outdir in either order', () => {
+    expect(parseArgs(['in.csv', '--outdir', 'out'])).toEqual({ input: 'in.csv', outdir: 'out' })
+    expect(parseArgs(['--outdir', 'out', 'in.csv'])).toEqual({ input: 'in.csv', outdir: 'out' })
   })
 })
 
