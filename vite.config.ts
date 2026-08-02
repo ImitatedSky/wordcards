@@ -4,6 +4,8 @@ import tailwindcss from '@tailwindcss/vite'
 import path from 'path'
 
 export default defineConfig({
+  // GitHub Pages 部署在 https://imitatedsky.github.io/wordcards/ 子路徑下
+  base: '/wordcards/',
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {

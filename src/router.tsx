@@ -11,7 +11,11 @@ import { SettingsPage } from './pages/SettingsPage'
 import { NotFoundPage } from './pages/NotFoundPage'
 import { ConstructionPage } from './components/common/ConstructionPage'
 
-export const router = createBrowserRouter([
+// Vite base ('/wordcards/' 於 GitHub Pages) → router basename;測試環境為 '/'
+const basename = import.meta.env.BASE_URL.replace(/\/+$/, '') || '/'
+
+export const router = createBrowserRouter(
+  [
   {
     path: '/',
     element: <App />,
@@ -29,4 +33,6 @@ export const router = createBrowserRouter([
       { path: '*', element: <NotFoundPage /> },
     ],
   },
-])
+  ],
+  { basename },
+)
