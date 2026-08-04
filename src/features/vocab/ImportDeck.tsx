@@ -1,5 +1,5 @@
 import { useRef, useState } from 'react'
-import { AlertTriangle, FileUp } from 'lucide-react'
+import { AlertTriangle, FileDown, FileUp } from 'lucide-react'
 import type { Deck } from '@/types/deck'
 import type { VocabDeckExport } from '@/types/import-export'
 import { Button } from '@/components/ui/button'
@@ -7,6 +7,7 @@ import { useStorage } from '@/storage/useStorage'
 import { newId } from '@/utils/uuid'
 import { csvToDecks, markdownToDecks, sheetsToDecks, type CsvImportResult } from './csvImport'
 import { nextAvailableName, validateDeckBundle } from './importHelpers'
+import { downloadDeckTemplate, type DeckTemplateKind } from './importTemplates'
 
 /** Parse an .xlsx file into per-sheet cell rows (lazy-loads the xlsx lib). */
 async function readWorkbook(file: File): Promise<Array<{ name: string; rows: string[][] }>> {
@@ -26,9 +27,16 @@ async function readWorkbook(file: File): Promise<Array<{ name: string; rows: str
 
 type Phase =
   | { kind: 'idle' }
-  | { kind: 'error'; message: string }
+  | { kind: 'error'; message: string; template: DeckTemplateKind }
   | { kind: 'preview'; bundle: VocabDeckExport; duplicate: Deck | null }
   | { kind: 'csv-preview'; decks: Deck[]; collisions: Deck[] }
+
+const TEMPLATE_LABEL: Record<DeckTemplateKind, string> = {
+  csv: 'CSV',
+  json: 'JSON',
+  md: 'Markdown',
+  xlsx: 'Excel',
+}
 
 type Props = {
   decks: Deck[]
@@ -41,9 +49,9 @@ export function ImportDeck({ decks, onImported }: Props) {
   const [phase, setPhase] = useState<Phase>({ kind: 'idle' })
   const [busy, setBusy] = useState(false)
 
-  function showDeckPreview(result: CsvImportResult) {
+  function showDeckPreview(result: CsvImportResult, template: DeckTemplateKind) {
     if (!result.ok) {
-      setPhase({ kind: 'error', message: result.reason })
+      setPhase({ kind: 'error', message: result.reason, template })
       return
     }
     const names = new Set(result.decks.map((d) => d.name))
@@ -54,9 +62,9 @@ export function ImportDeck({ decks, onImported }: Props) {
   async function handleFile(file: File) {
     if (/\.xlsx?$/i.test(file.name)) {
       try {
-        showDeckPreview(sheetsToDecks(await readWorkbook(file)))
+        showDeckPreview(sheetsToDecks(await readWorkbook(file)), 'xlsx')
       } catch {
-        setPhase({ kind: 'error', message: '無法解析 Excel 檔案。' })
+        setPhase({ kind: 'error', message: '無法解析 Excel 檔案。', template: 'xlsx' })
       }
       return
     }
@@ -64,12 +72,12 @@ export function ImportDeck({ decks, onImported }: Props) {
     const text = await file.text()
 
     if (/\.csv$/i.test(file.name) || file.type === 'text/csv') {
-      showDeckPreview(csvToDecks(text))
+      showDeckPreview(csvToDecks(text), 'csv')
       return
     }
 
     if (/\.(md|markdown)$/i.test(file.name) || file.type === 'text/markdown') {
-      showDeckPreview(markdownToDecks(text))
+      showDeckPreview(markdownToDecks(text), 'md')
       return
     }
 
@@ -77,12 +85,12 @@ export function ImportDeck({ decks, onImported }: Props) {
     try {
       parsed = JSON.parse(text)
     } catch {
-      setPhase({ kind: 'error', message: '無法解析檔案：不是有效的 JSON。' })
+      setPhase({ kind: 'error', message: '無法解析檔案：不是有效的 JSON。', template: 'json' })
       return
     }
     const result = validateDeckBundle(parsed)
     if (!result.ok) {
-      setPhase({ kind: 'error', message: result.reason })
+      setPhase({ kind: 'error', message: result.reason, template: 'json' })
       return
     }
     const duplicate = decks.find((d) => d.name === result.bundle.data.name) ?? null
@@ -177,9 +185,21 @@ export function ImportDeck({ decks, onImported }: Props) {
             <AlertTriangle className="mt-0.5 size-4 shrink-0" aria-hidden="true" />
             {phase.message}
           </p>
-          <div className="mt-3 flex justify-end">
-            <Button type="button" variant="outline" size="sm" onClick={() => setPhase({ kind: 'idle' })}>
+          <p className="mt-2 text-sm text-muted-foreground">
+            要不要下載 {TEMPLATE_LABEL[phase.template]} 模板？照模板格式填好再匯入就能成功。
+          </p>
+          <div className="mt-3 flex justify-end gap-2">
+            <Button type="button" variant="ghost" size="sm" onClick={() => setPhase({ kind: 'idle' })}>
               知道了
+            </Button>
+            <Button
+              type="button"
+              variant="outline"
+              size="sm"
+              onClick={() => void downloadDeckTemplate(phase.template)}
+            >
+              <FileDown data-icon="inline-start" aria-hidden="true" />
+              下載模板
             </Button>
           </div>
         </div>

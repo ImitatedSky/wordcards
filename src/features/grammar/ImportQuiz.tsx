@@ -1,12 +1,13 @@
 import { useRef, useState } from 'react'
-import { AlertTriangle, FileUp } from 'lucide-react'
+import { AlertTriangle, FileDown, FileUp } from 'lucide-react'
 import type { Quiz } from '@/types/quiz'
 import type { GrammarQuizExport } from '@/types/import-export'
 import { Button } from '@/components/ui/button'
 import { useStorage } from '@/storage/useStorage'
 import { newId } from '@/utils/uuid'
+import { downloadTextFile } from '@/utils/download'
 import { nextAvailableName } from '@/features/vocab/importHelpers'
-import { validateQuizBundle } from './quizImportHelpers'
+import { quizJsonTemplate, validateQuizBundle } from './quizImportHelpers'
 
 type Phase =
   | { kind: 'idle' }
@@ -104,9 +105,21 @@ export function ImportQuiz({ quizzes, onImported }: Props) {
             <AlertTriangle className="mt-0.5 size-4 shrink-0" aria-hidden="true" />
             {phase.message}
           </p>
-          <div className="mt-3 flex justify-end">
-            <Button type="button" variant="outline" size="sm" onClick={() => setPhase({ kind: 'idle' })}>
+          <p className="mt-2 text-sm text-muted-foreground">
+            要不要下載 JSON 模板？照模板格式填好再匯入就能成功。
+          </p>
+          <div className="mt-3 flex justify-end gap-2">
+            <Button type="button" variant="ghost" size="sm" onClick={() => setPhase({ kind: 'idle' })}>
               知道了
+            </Button>
+            <Button
+              type="button"
+              variant="outline"
+              size="sm"
+              onClick={() => downloadTextFile('文法測驗模板.json', quizJsonTemplate(), 'application/json')}
+            >
+              <FileDown data-icon="inline-start" aria-hidden="true" />
+              下載模板
             </Button>
           </div>
         </div>
