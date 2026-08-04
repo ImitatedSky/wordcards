@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- Same avatar the blog at pochunyeh.com uses, so both tabs look alike -->
+    <link rel="icon" type="image/jpeg" href="/wordcards/favicon.jpg" />
+    <link rel="apple-touch-icon" href="/wordcards/favicon.jpg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>EnglishProject — 英文學習</title>
+    <script>
+      // Apply theme before first paint to avoid flash of wrong theme.
+      // Mirrors next-themes storage: localStorage "theme" = "light" | "dark" | "system".
+      ;(function () {
+        try {
+          var t = localStorage.getItem('theme')
+          if (t === 'dark' || ((t === null || t === 'system') && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.classList.add('dark')
+          }
+        } catch (e) { /* storage unavailable: default light */ }
+      })()
+    </script>
+    <script type="module" crossorigin src="/wordcards/assets/index-DiVvBQnO.js"></script>
+    <link rel="stylesheet" crossorigin href="/wordcards/assets/index-BL5Vvmp_.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
