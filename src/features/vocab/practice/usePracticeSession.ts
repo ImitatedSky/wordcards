@@ -4,8 +4,9 @@ import { useStorage } from '@/storage/useStorage'
 import { headwordOf } from '@/utils/headword'
 import { sampleDistractors } from './mcSampling'
 import { blankExample } from './clozeSampling'
+import { matchChunkBounds } from './matchChunk'
 
-export type PracticeMode = 'flip' | 'multiple_choice' | 'cloze'
+export type PracticeMode = 'flip' | 'multiple_choice' | 'cloze' | 'match'
 
 /** Flip-mode self-assessment: correct / uncertain (needs review) / incorrect. */
 export type FlipResult = 'correct' | 'uncertain' | 'incorrect'
@@ -13,6 +14,8 @@ export type FlipResult = 'correct' | 'uncertain' | 'incorrect'
 export type AnswerInput =
   | { kind: 'flip'; result: FlipResult }
   | { kind: 'mc'; optionIndex: number }
+  /** Match mode submits a whole chunk at once: per-card verdicts. */
+  | { kind: 'match'; results: Record<string, FlipResult> }
 
 export type SessionState = {
   queue: string[]
@@ -235,6 +238,17 @@ export function usePracticeSession(
   const submit = useCallback(
     async (answer: AnswerInput) => {
       if (!currentCardId || state.phase !== 'prompting') return
+      if (answer.kind === 'match') {
+        for (const [cardId, r] of Object.entries(answer.results)) {
+          await persistStats(cardId, r)
+        }
+        setState((s) => ({
+          ...s,
+          phase: 'revealed',
+          answers: { ...s.answers, ...answer.results },
+        }))
+        return
+      }
       let result: FlipResult
       if (answer.kind === 'flip') {
         result = answer.result
@@ -253,7 +267,11 @@ export function usePracticeSession(
 
   const next = useCallback(() => {
     setState((s) => {
-      const nextIndex = s.index + 1
+      // A match chunk occupies several queue positions — skip the whole chunk.
+      const nextIndex =
+        s.queueModes[s.index] === 'match'
+          ? matchChunkBounds(s.queueModes, s.index).end + 1
+          : s.index + 1
       if (nextIndex >= s.queue.length) {
         return { ...s, phase: 'finished' }
       }

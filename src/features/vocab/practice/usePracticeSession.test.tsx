@@ -153,6 +153,33 @@ describe('usePracticeSession (flip)', () => {
     expect(result.current.state.queue).toHaveLength(3)
   })
 
+  it('match mode records a whole chunk and next() skips past it', async () => {
+    const deck = await seedDeckWithCards(4) // one chunk of 4 pairs
+    const { result } = renderHook(
+      () => usePracticeSession(deck.id, { modes: ['match'], shuffle: false }),
+      { wrapper: wrapper(storage) },
+    )
+    await waitFor(() => expect(result.current.state.phase).toBe('prompting'))
+    expect(result.current.state.queueModes).toEqual(['match', 'match', 'match', 'match'])
+
+    const [a, b, c, d] = result.current.state.queue
+    await act(async () =>
+      result.current.submit({
+        kind: 'match',
+        results: { [a]: 'correct', [b]: 'correct', [c]: 'incorrect', [d]: 'correct' },
+      }),
+    )
+    expect(result.current.state.phase).toBe('revealed')
+    expect(Object.keys(result.current.state.answers)).toHaveLength(4)
+
+    const saved = await storage.getDeck(deck.id)
+    expect(saved!.cards.find((x) => x.id === c)!.stats.incorrectCount).toBe(1)
+    expect(saved!.cards.find((x) => x.id === a)!.stats.correctCount).toBe(1)
+
+    await act(async () => result.current.next())
+    expect(result.current.state.phase).toBe('finished')
+  })
+
   it('merges multiple decks and writes stats back to the owning deck', async () => {
     const d1 = newDeck({ name: 'A' })
     d1.cards = [newCard({ front: 'a0', back: 'x' })]

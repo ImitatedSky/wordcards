@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
-import { Layers, ListChecks, Percent, Play, Shuffle, Tag as TagIcon, TextCursorInput, X } from 'lucide-react'
+import { ArrowLeftRight, Layers, ListChecks, Percent, Play, Shuffle, Tag as TagIcon, TextCursorInput, X } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
 import { useTags } from '@/features/tags/hooks'
@@ -11,6 +11,8 @@ import { splitCounts, usePracticeSession, type PracticeMode } from './usePractic
 import { FlipMode } from './FlipMode'
 import { MultipleChoiceMode } from './MultipleChoiceMode'
 import { ClozeMode } from './ClozeMode'
+import { MatchMode } from './MatchMode'
+import { matchChunkBounds } from './matchChunk'
 import { ResultsSummary } from './ResultsSummary'
 
 type Props = {
@@ -35,6 +37,7 @@ const MODE_META = [
   { value: 'flip', label: '翻牌 (自評)', desc: '看正面回想意思，自評會不會', icon: Layers },
   { value: 'multiple_choice', label: '選擇題', desc: '四選一，即時對答案', icon: ListChecks },
   { value: 'cloze', label: '例句填空', desc: '例句挖空，選出正確單字（無例句的字自動改出選擇題）', icon: TextCursorInput },
+  { value: 'match', label: '配對', desc: '左英文右中文，一次 3~5 對點選配對', icon: ArrowLeftRight },
 ] as const
 
 const RATIO_OPTIONS = [25, 50, 75] as const
@@ -401,6 +404,16 @@ function RunningSession({
           onSubmit={(r) => void submit({ kind: 'flip', result: r })}
           onNext={next}
         />
+      ) : state.queueModes[state.index] === 'match' ? (
+        <MatchSessionView
+          key={card.id}
+          queue={state.queue}
+          queueModes={state.queueModes}
+          index={state.index}
+          cards={cards}
+          onComplete={(results) => void submit({ kind: 'match', results })}
+          onNext={next}
+        />
       ) : (
         <McSessionView
           key={card.id}
@@ -415,6 +428,28 @@ function RunningSession({
         />
       )}
     </div>
+  )
+}
+
+function MatchSessionView(props: {
+  queue: string[]
+  queueModes: PracticeMode[]
+  index: number
+  cards: import('@/types/deck').Card[]
+  onComplete: (results: Record<string, import('./usePracticeSession').FlipResult>) => void
+  onNext: () => void
+}) {
+  const { start, end } = matchChunkBounds(props.queueModes, props.index)
+  const chunkCards = props.queue
+    .slice(start, end + 1)
+    .flatMap((id) => props.cards.filter((c) => c.id === id))
+  return (
+    <MatchMode
+      cards={chunkCards}
+      isLast={end >= props.queue.length - 1}
+      onComplete={props.onComplete}
+      onNext={props.onNext}
+    />
   )
 }
 
