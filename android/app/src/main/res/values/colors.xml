@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 頭像邊緣本來就是深色的火焰，底色取同一個調性，遮罩成圓形時不會出現突兀的邊 -->
+    <color name="ic_launcher_background">#1A1008</color>
+    <!-- WebView 載入前的底色。淺色用白、深色用近黑，避免深色模式下先閃一下白畫面 -->
+    <color name="window_background">#FFFFFF</color>
+</resources>

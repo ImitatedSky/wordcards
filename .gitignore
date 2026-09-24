@@ -32,3 +32,13 @@ coverage/
 
 # os
 Thumbs.db
+
+# Android 殼（android/）
+android/.gradle/
+android/build/
+android/app/build/
+android/.kotlin/
+android/local.properties
+android/keystore.properties
+*.jks
+*.keystore
