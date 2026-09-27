@@ -33,9 +33,14 @@ val hasReleaseSigning = !releaseStoreFile.isNullOrBlank() &&
 val webDist = rootProject.layout.projectDirectory.dir("../dist")
 val webAssetsDir = File(layout.buildDirectory.get().asFile, "generated/webAssets")
 
-val copyWebAssets by tasks.registering(Copy::class) {
+val copyWebAssets by tasks.registering(Sync::class) {
+    // 用 Sync 而不是 Copy：上一次 build 留下的舊檔（改名的 hash 檔、後來才排除的路徑）
+    // 要清掉，不然會一直被打包進 APK
     description = "把 Vite build 的產出複製進 APK 的 assets"
-    from(webDist)
+    from(webDist) {
+        // 中文字型子集改由 App 在用到時從網站抓（MainActivity），不佔 APK
+        exclude("fonts/files/**")
+    }
     into(webAssetsDir)
     doFirst {
         // 沒先建網頁就打包，APK 裝起來會是一片空白且完全看不出原因，
