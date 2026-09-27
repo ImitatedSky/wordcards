@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-  頭像是滿版方圖，直接當 adaptive icon 的前景會被遮罩裁掉邊緣。
-  內縮 20% 讓整個圖案落在安全區內，圓形遮罩下也看得到完整的徽記。
--->
-<inset xmlns:android="http://schemas.android.com/apk/res/android"
-    android:drawable="@drawable/words_avatar"
-    android:inset="20%" />
