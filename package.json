@@ -4,8 +4,9 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "predev": "node tools/build-fonts.mjs",
     "dev": "vite",
-    "prebuild": "node tools/build-default-library.mjs",
+    "prebuild": "node tools/build-default-library.mjs && node tools/build-fonts.mjs",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
