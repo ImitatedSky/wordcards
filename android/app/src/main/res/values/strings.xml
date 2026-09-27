@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Routina Words</string>
+    <string name="widget_label">每日單字</string>
+    <string name="widget_title">今日單字</string>
+    <string name="widget_description">每天 5 到 10 個單字，放得下幾個就顯示幾個</string>
 </resources>

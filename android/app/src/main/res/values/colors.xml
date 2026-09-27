@@ -4,4 +4,9 @@
     <color name="ic_launcher_background">#FBF7EE</color>
     <!-- WebView 載入前的底色。淺色用白、深色用近黑，避免深色模式下先閃一下白畫面 -->
     <color name="window_background">#FFFFFF</color>
+    <!-- 小工具配色，取自網頁的淺色主題（slate / blue），深色版在 values-night -->
+    <color name="widget_background">#FFFFFF</color>
+    <color name="widget_text">#0F172A</color>
+    <color name="widget_muted">#62748E</color>
+    <color name="widget_accent">#155DFC</color>
 </resources>

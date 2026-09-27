@@ -159,8 +159,25 @@ class MainActivity : ComponentActivity() {
         })
 
         if (savedInstanceState == null) {
-            webView.loadUrl("https://${WebViewAssetLoader.DEFAULT_DOMAIN}$BASE_PATH")
+            webView.loadUrl(appUrl(intent))
         }
+    }
+
+    // 小工具點某個單字時，App 可能已經開著（singleTop），要在這裡換頁
+    override fun onNewIntent(intent: Intent) {
+        super.onNewIntent(intent)
+        if (intent.hasExtra(EXTRA_PATH)) webView.loadUrl(appUrl(intent))
+    }
+
+    /**
+     * 小工具帶來的頁面路徑（例 vocab/default-lv1）。這個 Activity 是對外開放的，
+     * 任何 App 都能塞 extra 進來，所以只接受單純的路徑字元，而且一律接在 App 自己的網址底下。
+     */
+    private fun appUrl(intent: Intent?): String {
+        val path = intent?.getStringExtra(EXTRA_PATH)
+            ?.takeIf { it.matches(Regex("[A-Za-z0-9/_-]*")) }
+            .orEmpty()
+        return "https://${WebViewAssetLoader.DEFAULT_DOMAIN}$BASE_PATH$path"
     }
 
     /**
@@ -233,12 +250,14 @@ class MainActivity : ComponentActivity() {
         }
     }
 
-    private companion object {
-        const val BASE_PATH = "/wordcards/"
-        const val INDEX = "index.html"
-        const val BRIDGE_NAME = "RoutinaSpeech"
+    companion object {
+        const val EXTRA_PATH = "com.routina.words.PATH"
 
-        val SPEECH_SHIM = """
+        private const val BASE_PATH = "/wordcards/"
+        private const val INDEX = "index.html"
+        private const val BRIDGE_NAME = "RoutinaSpeech"
+
+        private val SPEECH_SHIM = """
             (function () {
               if ('speechSynthesis' in window) return;
               function Utterance(text) {

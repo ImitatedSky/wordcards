@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  minWidth/minHeight 是舊版桌面放上去時的預設大小（約 3×2），可以縮到的最小值是
+  minResize（1×1）。Android 12 以上改看 targetCell。沒有上限，能拉到整個畫面。
+  updatePeriodMillis=0：每天只需要午夜換一次，由 WordsWidgetProvider 自己排鬧鐘，
+  不讓系統每隔幾小時把手機叫醒。
+-->
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/widget_description"
+    android:initialLayout="@layout/widget_words"
+    android:minWidth="180dp"
+    android:minHeight="110dp"
+    android:minResizeWidth="40dp"
+    android:minResizeHeight="40dp"
+    android:previewLayout="@layout/widget_preview"
+    android:resizeMode="horizontal|vertical"
+    android:targetCellWidth="3"
+    android:targetCellHeight="2"
+    android:updatePeriodMillis="0"
+    android:widgetCategory="home_screen" />

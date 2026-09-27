@@ -47,6 +47,20 @@
             </intent-filter>
         </activity>
 
+        <!-- 桌面小工具「每日單字」。只有系統和自己的 PendingIntent 會送來，不需要對外開放 -->
+        <receiver
+            android:name=".WordsWidgetProvider"
+            android:exported="false"
+            android:label="@string/widget_label">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/words_widget_info" />
+        </receiver>
+
     </application>
 
 </manifest>
