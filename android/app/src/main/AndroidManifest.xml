@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
     <!--
-      唯一的權限是 INTERNET，只用來在第一次用到時下載中文字型（沒打包進 APK，見
+      唯一的權限是 INTERNET，只用來在背景下載中文字型（沒打包進 APK，見
       MainActivity）。沒有網路時改用系統字，其餘功能完全離線。不讀檔案、不碰通訊錄
       或位置：匯入單字用的檔案選擇器走系統的 ACTION_GET_CONTENT，拿到的是使用者
       當下挑的那一個檔，不需要儲存權限。

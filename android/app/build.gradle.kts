@@ -33,13 +33,25 @@ val hasReleaseSigning = !releaseStoreFile.isNullOrBlank() &&
 val webDist = rootProject.layout.projectDirectory.dir("../dist")
 val webAssetsDir = File(layout.buildDirectory.get().asFile, "generated/webAssets")
 
+// 不打包、改由 App 在用到時從網站抓的目錄。執行期的 MainActivity 讀同一份檔案，
+// 加一個資源包只要改這裡，說明見 README 的「不打包的大型資源」
+val remoteAssetConfig = groovy.json.JsonSlurper()
+    .parse(file("src/main/res/raw/remote_assets.json")) as Map<*, *>
+val remoteAssetDirs = (remoteAssetConfig["dirs"] as List<*>).map { it as String }
+for (dir in remoteAssetDirs) {
+    // WebViewAssetLoader 的路徑前綴必須是「xxx/」的形式，寫錯要在 build 時就知道，
+    // 不然只會在執行期變成那些檔案全部 404
+    require(dir.endsWith("/") && !dir.startsWith("/")) {
+        "remote_assets.json: \"$dir\" must be a relative directory ending with /"
+    }
+}
+
 val copyWebAssets by tasks.registering(Sync::class) {
     // 用 Sync 而不是 Copy：上一次 build 留下的舊檔（改名的 hash 檔、後來才排除的路徑）
     // 要清掉，不然會一直被打包進 APK
     description = "把 Vite build 的產出複製進 APK 的 assets"
     from(webDist) {
-        // 中文字型子集改由 App 在用到時從網站抓（MainActivity），不佔 APK
-        exclude("fonts/files/**")
+        remoteAssetDirs.forEach { exclude("$it**") }
     }
     into(webAssetsDir)
     doFirst {

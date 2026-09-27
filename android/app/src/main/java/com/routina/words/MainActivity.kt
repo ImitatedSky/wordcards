@@ -16,6 +16,7 @@ import androidx.activity.OnBackPressedCallback
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.webkit.WebViewAssetLoader
 import androidx.webkit.WebViewClientCompat
+import org.json.JSONObject
 import java.io.File
 import java.util.Locale
 
@@ -24,8 +25,8 @@ import java.util.Locale
  *
  * 網頁與 App 共用同一份原始碼（repo 根目錄的 Vite 專案），build 出來的 dist/
  * 在打包時被複製進 assets，所以兩邊內容永遠一致、而且完全離線可用。
- * 唯一的例外是中文字型：它佔了大半體積，所以不打包，第一次用到時才從網站抓；
- * 抓不到就用系統內建的中文字，畫面照常。
+ * 唯一的例外是中文字型：它佔了大半體積，所以不打包，用到時才在背景從網站抓；
+ * 還沒抓到（或沒有網路）時用系統內建的中文字，畫面照常。
  */
 class MainActivity : ComponentActivity() {
 
@@ -61,16 +62,9 @@ class MainActivity : ComponentActivity() {
          * import.meta.env.BASE_URL 推導），這樣網頁那邊的建置設定一行都不用改。
          */
         val assets = WebViewAssetLoader.AssetsPathHandler(this)
-        val assetLoader = WebViewAssetLoader.Builder()
-            // 中文字型子集沒打包進 APK，用到哪個才從網站抓哪個。必須排在 BASE_PATH 前面：
-            // WebViewAssetLoader 依加入順序比對，BASE_PATH 會先把這些路徑吃掉
-            .addPathHandler(
-                BASE_PATH + REMOTE_FONTS_DIR,
-                RemoteAssetPathHandler(
-                    File(cacheDir, "remote/$REMOTE_FONTS_DIR"),
-                    REMOTE_BASE_URL + REMOTE_FONTS_DIR
-                )
-            )
+        val loaderBuilder = WebViewAssetLoader.Builder()
+        addRemoteAssetHandlers(loaderBuilder)
+        val assetLoader = loaderBuilder
             .addPathHandler(BASE_PATH) { path ->
                 // 目錄請求（"" 或結尾是 /）要自己補上 index.html，
                 // AssetsPathHandler 不會做這件事
@@ -169,6 +163,25 @@ class MainActivity : ComponentActivity() {
         }
     }
 
+    /**
+     * 沒打包進 APK 的目錄（res/raw/remote_assets.json，Gradle 也讀同一份來排除），
+     * 用到哪個檔才從網站抓哪個。必須在 BASE_PATH 之前加：WebViewAssetLoader 依加入
+     * 順序比對，BASE_PATH 會先把這些路徑吃掉。
+     */
+    private fun addRemoteAssetHandlers(builder: WebViewAssetLoader.Builder) {
+        val config = resources.openRawResource(R.raw.remote_assets)
+            .bufferedReader().use { JSONObject(it.readText()) }
+        val baseUrl = config.getString("baseUrl")
+        val dirs = config.getJSONArray("dirs")
+        for (i in 0 until dirs.length()) {
+            val dir = dirs.getString(i)
+            builder.addPathHandler(
+                BASE_PATH + dir,
+                RemoteAssetPathHandler(File(cacheDir, "remote/$dir"), baseUrl + dir)
+            )
+        }
+    }
+
     override fun onSaveInstanceState(outState: Bundle) {
         super.onSaveInstanceState(outState)
         webView.saveState(outState)
@@ -222,8 +235,6 @@ class MainActivity : ComponentActivity() {
 
     private companion object {
         const val BASE_PATH = "/wordcards/"
-        const val REMOTE_BASE_URL = "https://imitatedsky.github.io/wordcards/"
-        const val REMOTE_FONTS_DIR = "fonts/files/"
         const val INDEX = "index.html"
         const val BRIDGE_NAME = "RoutinaSpeech"
 
