@@ -1,0 +1,54 @@
+{
+  "format": "english-app-default-library",
+  "version": "9d42cfb1624aaea6",
+  "decks": [
+    {
+      "id": "default-lv1",
+      "file": "lv1.json",
+      "name": "高中7000 LV1",
+      "cardCount": 1053
+    },
+    {
+      "id": "default-lv2",
+      "file": "lv2.json",
+      "name": "高中7000 LV2",
+      "cardCount": 1039
+    },
+    {
+      "id": "default-lv3",
+      "file": "lv3.json",
+      "name": "高中7000 LV3",
+      "cardCount": 1017
+    },
+    {
+      "id": "default-lv4",
+      "file": "lv4.json",
+      "name": "高中7000 LV4",
+      "cardCount": 1022
+    },
+    {
+      "id": "default-lv5",
+      "file": "lv5.json",
+      "name": "高中7000 LV5",
+      "cardCount": 1007
+    },
+    {
+      "id": "default-lv6",
+      "file": "lv6.json",
+      "name": "高中7000 LV6",
+      "cardCount": 1031
+    },
+    {
+      "id": "default-supplement-7000",
+      "file": "supplement-7000.json",
+      "name": "高中7000 補充字",
+      "cardCount": 980
+    },
+    {
+      "id": "default-toeic-1000",
+      "file": "toeic-1000.json",
+      "name": "多益常用1000",
+      "cardCount": 1159
+    }
+  ]
+}
