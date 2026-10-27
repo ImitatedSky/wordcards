@@ -310,3 +310,40 @@ describe('usePracticeSession (multiple choice)', () => {
     expect(result.current.state.answers[deck.cards[0].id]).toBe('correct')
   })
 })
+
+describe('usePracticeSession (spell)', () => {
+  let storage: IndexedDBStorage
+
+  beforeEach(async () => {
+    storage = await freshStorage(null)
+  })
+
+  afterEach(async () => {
+    await storage.close()
+  })
+
+  it('offers the four meaning options and records the self-graded result', async () => {
+    const deck = newDeck({ name: 'Spell' })
+    deck.cards = [
+      newCard({ front: 'a', back: 'A' }),
+      newCard({ front: 'b', back: 'B' }),
+      newCard({ front: 'c', back: 'C' }),
+      newCard({ front: 'd', back: 'D' }),
+    ]
+    await storage.saveDeck(deck)
+
+    const { result } = renderHook(
+      () => usePracticeSession(deck.id, { modes: ['spell'], shuffle: false }),
+      { wrapper: wrapper(storage) },
+    )
+    await waitFor(() => expect(result.current.state.phase).toBe('prompting'))
+    const { mcChoices, mcCorrectIndex } = result.current.state
+    expect(mcChoices).toHaveLength(4)
+    expect(mcChoices![mcCorrectIndex!]).toBe('A')
+
+    await act(async () => result.current.submit({ kind: 'spell', result: 'incorrect' }))
+    expect(result.current.state.answers[deck.cards[0].id]).toBe('incorrect')
+    const saved = await storage.getDeck(deck.id)
+    expect(saved!.cards[0].stats.incorrectCount).toBe(1)
+  })
+})

@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
-import { ArrowLeftRight, Layers, ListChecks, Percent, Play, Shuffle, Tag as TagIcon, TextCursorInput, X } from 'lucide-react'
+import { ArrowLeftRight, Keyboard, Layers, ListChecks, Percent, Play, Shuffle, Tag as TagIcon, TextCursorInput, X } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
 import { useTags } from '@/features/tags/hooks'
@@ -12,6 +12,7 @@ import { FlipMode } from './FlipMode'
 import { MultipleChoiceMode } from './MultipleChoiceMode'
 import { ClozeMode } from './ClozeMode'
 import { MatchMode } from './MatchMode'
+import { SpellMode } from './SpellMode'
 import { matchChunkBounds } from './matchChunk'
 import { ResultsSummary } from './ResultsSummary'
 
@@ -38,6 +39,7 @@ const MODE_META = [
   { value: 'multiple_choice', label: '選擇題', desc: '四選一，即時對答案', icon: ListChecks },
   { value: 'cloze', label: '例句填空', desc: '例句挖空，選出正確單字（無例句的字自動改出選擇題）', icon: TextCursorInput },
   { value: 'match', label: '配對', desc: '左英文右中文，一次 3~5 對點選配對', icon: ArrowLeftRight },
+  { value: 'spell', label: '拼字選義', desc: '照著灰字打出單字，再選中文意思；選錯要重打再選', icon: Keyboard },
 ] as const
 
 const RATIO_OPTIONS = [25, 50, 75] as const
@@ -402,6 +404,16 @@ function RunningSession({
           card={card}
           phase={state.phase}
           onSubmit={(r) => void submit({ kind: 'flip', result: r })}
+          onNext={next}
+        />
+      ) : state.queueModes[state.index] === 'spell' ? (
+        <SpellMode
+          key={card.id}
+          card={card}
+          choices={state.mcChoices!}
+          correctIndex={state.mcCorrectIndex!}
+          phase={state.phase}
+          onSubmit={(r) => void submit({ kind: 'spell', result: r })}
           onNext={next}
         />
       ) : state.queueModes[state.index] === 'match' ? (

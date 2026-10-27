@@ -6,7 +6,7 @@ import { sampleDistractors } from './mcSampling'
 import { blankExample } from './clozeSampling'
 import { matchChunkBounds } from './matchChunk'
 
-export type PracticeMode = 'flip' | 'multiple_choice' | 'cloze' | 'match'
+export type PracticeMode = 'flip' | 'multiple_choice' | 'cloze' | 'match' | 'spell'
 
 /** Flip-mode self-assessment: correct / uncertain (needs review) / incorrect. */
 export type FlipResult = 'correct' | 'uncertain' | 'incorrect'
@@ -16,6 +16,8 @@ export type AnswerInput =
   | { kind: 'mc'; optionIndex: number }
   /** Match mode submits a whole chunk at once: per-card verdicts. */
   | { kind: 'match'; results: Record<string, FlipResult> }
+  /** Spell mode grades itself: correct only if the first pick was right. */
+  | { kind: 'spell'; result: FlipResult }
 
 export type SessionState = {
   queue: string[]
@@ -124,7 +126,8 @@ function mcFieldsFor(cards: Card[], queue: string[], queueModes: PracticeMode[],
       cloze ?? { ...computeMcSample(cards, cardId), clozeSentence: undefined, clozeMeanings: undefined }
     )
   }
-  if (mode === 'multiple_choice') {
+  // Spell mode asks for the 中文 meaning after typing, so it uses the same four options.
+  if (mode === 'multiple_choice' || mode === 'spell') {
     return { ...computeMcSample(cards, cardId), clozeSentence: undefined, clozeMeanings: undefined }
   }
   return empty
@@ -250,7 +253,7 @@ export function usePracticeSession(
         return
       }
       let result: FlipResult
-      if (answer.kind === 'flip') {
+      if (answer.kind === 'flip' || answer.kind === 'spell') {
         result = answer.result
       } else {
         result = answer.optionIndex === state.mcCorrectIndex ? 'correct' : 'incorrect'
